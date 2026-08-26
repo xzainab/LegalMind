@@ -1,0 +1,1683 @@
+--- Page 1 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+دراسة تحليلية معمقة لقواعد المسؤولية المدنية
+في القانون المدني الفرنسي
+أ. د. محمد عرفان الخطيب
+أستاذ القانون المدني، قسم القانون
+كلية أحمد بن محمد العسكرية، الدوحة، قطر
+الملخص
+وفق منهج تحليلي ونقدي معمق لنصوص التشريع المدني الفرنسي المتعلقة بقواعد
+المسؤولية المدنية، كما مشروع القانون المعدل لأحكام المسؤولية المدنية، PLRRC»
+قدم البحث دراسة استشرافية لإمكانية مساءلة الذكاء الاصطو () ( Bo)
+وذلك عبر مطلبين رئيسين: تناول الأول إمكانية مساءلة الذكاء الاصطناعي في ضوء
+الاعتبار الشخصي لهذا الذكاء، في حين عرض الثاني لهذه الإمكانية في ضوء قواعد
+المسؤولية الموضوعية، باعتبار الذكاء الاصطناعي شيئاً أو مُنَتجا.
+وقد خلصت الدراسة إلى عدم إمكانية تطبيق أي من هاتين النظريتين تطبيقاً مطلقاً على
+الذكاء الاصطناعي، كوننا أمام حالة تتسم بالتَفَرُدْ والتَمَيُّزْ، لا يمكن جراءها مساءلته بذاته
+عن أفعاله. كما أن أي توصيف قانوني له، نظرا لطبيعته الحركية العاقلة شبه المستقلة ب:
+«الشيء»، هو توصيف خاطئ. بالوقت ذاته الذي لا يمكن اعتباره: «مُنَتجا»، نظراً لطبيعته
+المعنوية المتسمة بالذكاء.
+عليه، أوصت الدراسة بضرورة وضع قواعد قانونية خاصة تتناول أحكام هذه
+المسؤولية الجديدة؛ الممكن وصفها ب: «المسؤولية القانونية للذكاء الاصطناعي»، تدرج
+ضمن أنظمة المسؤولية المدنية الخاصة؛ وتضمن التعامل القانوني الصحيح مع هذا
+الذكاء ببعديه المعنوي والمادي. كما توقف حالة التردد التشريعي التي تسِمُ موقف
+المشرع المدني الفرنسي منه، مؤكدةً أن استمرار هذا التردد والتجاهل، سيزيد من تعقيد
+قواعد المسؤولية المدنية لديه وارتباكها، في حين أن السير بخلافه، سيكون له تأثيرٌ أكثر
+فائدة للصورة الفلسفية والمنهجية لهذا التشريع.
+كلمات دالة: المسؤولية الشخصية للذكاء الاصطناعي، المسؤولية الموضوعية للذكاء
+الاصطناعي، نظرية الحراسة والذكاء الاصطناعي، القوة القاهرة والذكاء الاصطناعي،
+الرجل الآلي «الإنسالة»، المركبة ذاتية القيادة.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+107
+
+--- Page 2 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+المقدمة
+بوصفه المؤطر القانوني للسلوكيات الاجتماعية، والضامن الفعلي لتحقيق العدالة
+والإنصاف في هذه السلوكيات على اختلافها وتنوعها، فإن القانون مرهون بمواجهة
+تحديات تحتم عليه الإجابة عن العديد من الأسئلة الحديثة، التي عدلت بشكل كبير من
+طبيعة هذه السلوكيات، إن من حيث التوصيف أو الطبيعة(1). من بين هذه التحديات، إن
+لم يكن أهمها: (الذكاء الاصطناعي» 2)(Artificial Intelligence) Al)، تحديدا في الشق
+(1) الثورة الرقمية الذكية ((Digital smart revolution»، بمكوناتها الثلاثة الرئيسة: إنترنت الأشياء
+جعلت القانون يقف، في كثير من المواضع، موقف المتفرج المنتظر أكثر منه الفي tnale
+المتدخل، كما في قضايا الحق، والشخصية، والمسؤولية، والملكية، وحماية الحياة الخاصة، وغيرها
+من المواضيع. راجع في ذلك: محمد عرفان الخطيب، ضمانات الحق في العصر الرقمي، «من تبدل
+المفهوم .... لتبدل الحماية»: قراءة في الموقف التشريعي الأوروبي والفرنسي وإسقاط على الموقف
+التشريعي الكويتي، مجلة كلية القانون الكويتية العالمية، أبحاث المؤتمر السنوي الدولي الخامس،
+التحديات المعاصرة للضمانات القانونية في عالم متغير (10-9 مايو 2018)، ملحق خاص، العدد
+الثالث، الجزء الأول، شعبان 1439 ه - ديسمبر 2018م، ص 251.-324 وكذلك للكاتب نفسه : المركز
+القانوني للإنسالة (Robots) .. قراءة في القواعد الأوروبية في القانون المدني للإنسالة (Robots)
+لعام 2017، «الإشكاليات والتحديات ... دراسة تأصيلية مقارنة»، مجلة كلية القانون الكويتية العالمية،
+السنة السادسة، العدد الربع، العدد التسلسلي 24، ربيع الأول /ربيع الثاني 1440 ه، ديسمبر 2018م،
+ص 19.-58 عبير أسعد، الذكاء الصناعي، ط1، دار البداية للنشر، عمان، الأردن، 2017. آلان بونيه،
+الذكاء الصناعي، واقعه ومستقبله، 1945، ترجمة: علي صبري فرغلي، مجلة عالم المعرفة، المجلس
+الوطني للثقافة والفنون والآداب، الكويت، العدد رقم 172، سنة 1993 . زياد عبد الكريم القاضي، مقدمة
+في الذكاء الصناعي، ط1، دار صفاء للنشر، عمان، الأردن، 2010. عادل عبد النور، مدخل إلى عالم
+الذكاء الصناعي، مدينة الملك عبد العزيز للعلوم والتقنية، الرياض، 2005.
+Collectif, Intelligence artificielle. Enquête sur ces technologies qui changent nos
+vies, Champs actuels, 2018. K. Schwab, N. Davies et S. Nadella, Shaping the Fourth
+Industrial Revolution. Forum économique mondial. 2018. B. Cowgill, The Impact
+of Algorithms on Judicial Discretion: Evidence from Regression Discontinuities.
+Working Paper. 2018. [En ligne]. M. Skilton, et F. Hovsepian, the 4ih Industrial
+Revolution: Responding to the Impact of Artificial Intelligence on Business.
+Springer. 2017. A. Mandil, Quel impact de la révolution robotique sur le droit
+français? Mandils droits des technologies numériques. [En ligne], 21 février 2016. V.
+Mayer-Schonberger et K. Cukier, Big Data-A Revolution That Will Transform How
+We Live, Think and Work, Londres, John Murray, 2013.
+(2) يستند الذكاء الاصطناعي («Artificial intelligence» في وجوده إلى الثورة الصناعية الرابعة
+حيث يعود أول استعمال أكاديمي وبحثي له للعام na ne aon ) ( 1950)
+((آلان تورنيغ» ((Alan Turing» الذي قدم له من خلال اختبار «Turing» حمل اسمه، وتمحور حول
+تقييم الذكاء لجهاز الكمبيوتر، بحسب قدرته على محاكاة العقل البشري، في حين أن أول استعمال
+رسمي للمصطلح اعتمد في المؤتمر الأول للذكاء الاصطناعي في كليه دار تموث في عام 1956، بحضور
+108
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 3 ---
+أ. د. محمد عرفان الخطيب
+المتعلق بإمكانية مساءلته مدنياً (3)، علماً بأن الإجابة ليست باليسيرة؛ إذ ترتبط بالموقف
+القانوني المحدد للكنه الحقيقي لهذا الذكاء من الناحية القانونية، ما يُمهد لتحديد
+تموضعه القانوني ومسؤوليته، لاسيما في إمكانية الاعتراف بالصفة الشخصية أو
+الطبيعة الشيئية للذكاء الاصطناعي، وترتيب مسؤوليته بين المسؤولية الخطئية القائمة
+على الخطأ الشخصي المباشر أو غير المباشر (4)، والمسؤولية الموضوعية اللاخطئية
+القائمة على فكرة تحمل المخاطر وصولا لنظرية الضمان (5) .
+قادة بحوث الذكاء الاصطناعي من قبل عالم البرمجيات الأمريكي جون مكارثي John McCarthy
+الذي وصفه بكونه: «علم وهندسة صنع آلات ذكية».
+رغم ذلك بقيت الجهود المتعلقة بتطوير هذا الذكاء محدودة، نظراً لعدم توافر الإمكانات الرقمية المهيئة
+لتطوره. بعد ذلك ومع دخولنا عصر البيانات الضخمة «Big data»، وإنترنت الأشياء «Internet of
+أضحت البيئة الرقمية أكثر كفاءة، ليدخل اليوم الذكاء الاصطناعي ببعديه الملموس وي ilin
+الملموس، في مختلف مجالات الحياة الاجتماعية والاقتصادية والثقافية، وفي مختلف القطاعات المنبثقة
+عنها، في مجال الصحة والتعليم، والنقل والبناء، والهندسة والطيران، والصحافة والإعلام، وصولا
+إلى منظومتي القانون والقضاء. راجع: محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...،
+مرجع سابق، ص 19.-58 زياد عبد الكريم القاضي، مقدمة في الذكاء الصناعي، مرجع سابق، ص 9.
+G. Babinet, L'ère numérique, un nouvel âge de l'humanité: cinq mutations qui
+vont bouleverser notre vie. Le Passeur, 2014, spé, p. 41s. F. Humbert, Big Data: la
+nouvelle matière première de l'entreprise, à côté du capital et du travail, In Le Nouvel
+économiste, n° 1600 Cahier n°2, du 16/22-2- 2012, p. 67s. L. Merland, L'identité
+civile des personnes: Is big data beautiful, Revue Lamy Droit de 1'Immatériel,
+n° 12, 2015. B. Benhamou, L'internet des objets. Défis technologiques, économiques
+et politiques, Esprit, V. 3-4, avril 2009
+(3) A. Bensamoun, G. Loiseau, L'intégration de l'intelligence artificielle dans l'ordre
+juridique en droit commun: questions de temps, Dalloz IP/IT. 2017, n°4, Pp. 239-243.
+J-S. Desroches et Sh. Jiang, Intelligence artificielle: la délicate interaction entre les
+défis juridiques et technologiques, Journal Le Droit de savoir, avril 2017, n° 514,
+p. 878 ets. A. Mendoza-Caminade, Le droit confronté à l'intelligence artificielle
+des robots: vers l'émergence de nouveaux concepts juridique? Recueil Dalloz n° 8,
+2016. p. 445. G. Loiseau., A. Bensamoun, La gestion des risques de l'intelligence
+artificielle, De l'éthique à la responsabilité, JCPG. 2017, n° 46, Pp. 2063-2072.
+(4) Ph. Conte, Responsabilité du fait personnel, Rép. civ., Dalloz, mai 2002. Ph. Le
+Tourneau, Des métamorphoses contemporaines et subreptices de la faute subjective,
+in Les métamorphoses de la responsabilité, Journées Savatier, mai 1997, PUF, p. 19.
+F. Chabas, Observations sur le fait personnel et le fait des choses. L'avant-projet de
+réforme du droit de la responsabilité, Actes du Colloque. Unive. Panthéon-Sorbonne,
+le 12 mai 2006. RDC, n° 1, 2007, p. 73.
+(5) B. Starck, Domaine et fondement de la responsabilité sans faute, RTD Civ, 1958.,
+p. 475. C. Mouly, Responsabilite objective ou responsabilite pour faute? 1"r juillet
+109
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 4 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+نقاشٌ، قد يرى البعض فيه مبالغةً وتكلفاً يجاوز حدود القانون، لاسيما في ضوء منظوره
+وفهمه للذكاء الاصطناعي كما تصوراته المستقبلية له، ومدى تقبله له من عدمه(6)، ما
+سيجعل البحث عرضة للعديد من الانتقادات وردود الأفعال المؤيدة والمعارضة، الأمر
+المتوقع والحيوي ! لاسيما وأن النقاشات حول الموضوع لم تحسم بعد، بل لاتزال في
+بدايتها (7)، ما بين توجه فقهي يقضي بكفاية قواعد المسؤولية المدنية لتأطير الذكاء
+1992, n° 79. H. Mazeaud, La «faute objective» et la responsabilité sans faute, D.
+1985, chron., p.13. P-B. Lebrun, La responsabilité, Empan, vol. 99, n° 3, 2015, Pp.
+105-109. Ph. Pierre, La place de la responsabilite objective, Notion de rôle de la faute
+en droit français, Revue Lamy Droit civil, 2010, Pp. 16-25. Ph. Rémy, Critique du
+système français de responsabilité civile, Droit et Cultures, 1996, p. 31. P. Vernon,
+Trois principes de la responsabilité sans faute, Revue internationale de droit comparé,
+Vol. 39, n° 4, 1987., Pp. 825-838.
+أنور العمروسي، الموسوعة الوافية في شرح القانون المدني بمذاهب الفقه وأحكام القضاء الحديثة،
+ط5، دار العدالة، القاهرة، 2015، ص 597- 596. فخري رشيد مهنا، أساس المسؤولية التقصيرية
+ومسؤولية عديم التمييز في الشريعة الإسلامية والقوانين الأنكلوسكسونية والعربية، مطبعة الشعب،
+بغداد، 1974، ص 125 . سليمان مرقص، مسؤولية الراعي المفترضة عن فعل المرعي في تقنيات البلاد
+العربية مع المقارنة بالقانون الفرنسي، معهد البحوث والدراسات العربية، القاهرة، 1968، ص 222.
+يونس صالح الدين المختار، مسؤولية المتبوع عن أعمال تابعه في القانون الإنكليزي: دراسة تحليلية
+مقارنة بالقانونين العراقي والإماراتي، مجلة جامعة الشارقة للعلوم الشرعية والقانونية، المجلد، 14.
+العدد 2017 ،2، ص 107-139
+(6) في دراسة حديثة تناولت موضوع التقبل المجتمعي لفكرة الإنسالة ((Robots، في المجتمعات الغربية،
+بينت النتائج الإحصائية حجم الهوة في تقبل المجتمعات الأوروبية لفكرة الذكاء الاصطناعي مقارنة
+بمثيلاتها في الولايات المتحدة الأمريكية، حيث بلغت نسبة التحفظ في فرنسا إلى 65% مقابل %36
+في بريطانيا و22% في الولايات المتحدة الأمريكية. محمد عرفان الخطيب، المركز القانوني للإنسالة
+مرجع سابق، ص 9 ) ( ) ))
+A. Moreaux, Le droit à l'épreuve de l'intelligence artificielle, Affiches Parisiennes,
+14 mars 2017. D. Iweins, Les robots sont-ils nos ennemis? Gazette du Palais, Paris,
+2016, n° 24, p, 9.
+(7) Enjeux et légitimité du développement de la responsabilité numérique, Dossier
+Dalloz, Dalloz IP/IT, 2020, n° 3, Pp. 150-171. Ch. Byk, Présentation des enjeux
+de la responsabilité numérique, Dalloz IP/IT, 2020, n° 3, Pp. 151-152. F. G'Sell,
+Ver l'émergence d'uns «responsabilité numérique», Dalloz IP/IT, 2020, n° 3,
+Pp. 153-158. B. Bévière-Boyer, responsabilité numérique: le défi d'une responsabilité
+spécifique humanisée, Dalloz IP/IT, 2020, n° 3, Pp. 159-164. D. Gruson, Régulation
+positive de l'intelligence artificielle en santé: les avancées de la garantie humaine
+algorithmique, Dalloz IP/IT, 2020, n° 3, Pp. 165-169. B. Bessermann, Les enjeux du
+développement de la responsabilité numérique pour les assureuses, Dalloz IP/IT,
+2020, n° 3, Pp. 170-171.
+110 مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 5 ---
+أ. د. محمد عرفان الخطيب
+الاصطناعي(8)، وما بين آخر يؤكد عدم كفاية هذه القواعد، وبأن ثمة حاجة لوضع نظام
+قانوني خاص يعالج قضايا المسؤولية المترتبة عن الذكاء الاصطناعي (9)، ما سيكسب
+البحث بعدًا جدليًا واضحًا، وسيشكل تحديًا في فهم المتلقي له، كونه يسعى إلى معالجة
+حالة فريدية لم تكن موضوع تنبؤ تشريعي.
+وإذ نؤكد بأن البحث لا يُقدِمُ ذاته باعتباره يُمثل الرأي الأصح أو الأدق؛ فالموضوع، كما
+أسلفنا، لا يزال في بدايته، كما أن البحوث القانونية والأكاديمية المعمقة المتعلقة به لا تزال
+محدودة؛ فإننا نشدد على أنه يُطرحُ باعتباره، محاولة فقهية للتفكير خارج الصندوق،
+هدفها تسليط الضوء على هذا الجدل الفقهي المحتدم غرباً والمُغيَّب شرقاً(10)، أملاً في
+(8) P. Brun, La responsabilité du fait des objets connectés, Lamy Droit de la responsabilité,
+2018, n° 350. p. 60. J. Millar, B. Barron, K. Hori, et autres, Responsabilité en
+matière d'IA: Promouvoir une plus grande confiance de la société, Document de
+discussion, Conférence multipartite du G7 sur l'intelligence artificielle 6 décembre
+2018, Montréal. H. P. Vissert Hooft, Développement technologique et responsabilité
+envers les générations futures, Droit et science, APD, T. 36, 1991, p. 32. N. Vermeys,
+La responsabilité civile du fait des agents autonomes, Les Cahiers de propriété
+intellectuelle., n° 3, Vo. 30, n° spé, Droit + intelligence artificielle, 2018, Pp. 851-880.
+A. Bensoussan, Droit des robots: science-fiction ou anticipation? D. 2015., p. 1640.
+(9) C. Bossée-Pilon et I. Francoz, La responsabilité civile en matière d'intelligence
+artificielle, Affiches parisiennes, 1" mars 2019. L. Szuskin, Intelligence artificielle et
+responsabilité, Communication Commerce électronique, n° 6. 2018 p.7 et s. A. Touati,
+Il n'existe pas à l'heure actuelle de régime adapté pour gérer les dommages causés
+par les robots, Revue Lamy Droit civil, n° 145, ler février 2017. L. Godefroy, Les
+algorithmes: Quel statut juridique pour quelles responsabilités?, Comm. corn. électr.
+2017, étude 18. N. El Kaakour, L'intelligence artificielle et la responsabilité civile
+délictuelle, Mémoire, Université Libanaise, 2017. Th. Leemans, La Responsabilité
+Extracontractuelle de l'Intelligence Artificielle - Aperçu d'un système bientôt
+obsolète, Mémoire. Uni. Cath. De Louvain, Belgique, 2017. G. Courtois, Robots
+intelligents et responsabilité: quels régimes, quelles perspectives?, Dalloz IP/IT,
+2016, n° 6, Pp. 287-290. G. Courtois, Les Robots - Robots et responsabilité, Éd.
+Mare & Martin, Collection des Presses Universitaires de Sceaux, février 2016. A.
+Bonnet, La responsabilité du fait de l'intelligence artificielle, Mémoire. Université
+Panthéon-Assas, 2015.
+(10) نقصد بذلك عالمنا العربي، حيث لاتزال الدراسات القانونية حول هذا الموضوع تتسم بالندرة
+والعشوائية، ومن الصعب تصور وجود الكثير من الدراسات القانونية العربية حول هذا الموضوع
+الجديد على الساحة العربية، بالرغم من أهميته، ما استلزم البحث في حقيقة الإجابة عن هذه
+التساؤلات عبر الاعتماد على قاعدة مرجعية فقهية في غالبيتها من القانون المدني الفرنسي، إضافة
+للعديد من البحوث والدراسات القانونية الإلكترونية ذات المصداقية العلمية، التابعة للموقع الرسمي
+لمشرع الفرنسي والبرلمان الأوروبي.
+111
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 6 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+الوصول لاقتراح تصور قانوني استشرافي لقواعد المسؤولية المدنية للذكاء الاصطناعي،
+يحدد مدى كفاية قواعد المسؤولية المدنية بشقيها الشخصي والموضوعي في تأطير هذا
+الذكاء، رغبة في إرساء لبنةٍ فقهية في هذا الموضوع الشديد التعقيد، بما يفتح المجال
+أمام باحثين عرب آخرين للتعمق فيه عربياً وإقيليماً، تحضراً لهذا القادم الجديد، الذي لا
+محالة، سيقتحم منظومتنا القانونية في قادم الأيام .
+في ضوء ذلك، سيحاول البحث، وفق تحليل قانوني نقدي معمق لنصوص التشريع
+المدني الفرنسي المتعلقة بالمسؤولية المدنية (11)، إضافة لنصوص مشروع القانون المعدل
+لأحكام المسؤولية المدنية لعام 12)2017)، رسم إجابة استشرافية لإمكانية مساءلة الذكاء
+الاصطناعي، سواء في ضوء قواعد المسؤولية المدنية القائمة على الاعتبار الشخصي
+لهذا الذكاء، أو في تطبيق قواعد المسؤولية المدنية الشيئية عليه.
+(11) La responsabilité extracontractuelle en général. Arts. (1240 a 1244). La responsabilité
+du fait des produits défectueux. Arts. (1245 à 1245-17). Nouveau C.C. Des délits
+et des quasi-délits. Arts. (1382 à 1386). De la responsabilité du fait des produits
+défectueux. Arts. (1386-1 à 1386-18). Ancien C.C.
+(12) جمع المشروع المقترح مختلف المواد القانونية الخاصة بالمسؤولية المدنية في 83 مادة، شكلت الإطار
+القانوني لمشروع القانون الجديد للمسؤولية المدنية، ببعديها التعاقدي وغير التعاقدي، في قسم واحد
+من القانون، مقدما بذلك رؤية أكثر وضوحا واكتمالا لهذه النظرية، وفق فصول قانونية ستة تتناول
+مختلف أحكام هذه المسؤولية، حيث تناول الفصل الأول منه الأحكام التوضيحية لنظام المسؤولية
+المدنية، وفي الفصل الثاني منه تناول شروط المسؤولية، أما فصله الثالث فتناول البحث في الأسباب
+المعفية والمستبعدة للمسؤولية، وفي الفصل الرابع تناول آثار المسؤولية، وفي الخامس تناول الشروط
+المتعلقة بالمسؤولية. أخيرا في الفصل السادس، عَرض أهم الأنظمة الخاصة بالمسؤولية. راجع : محمد
+عرفان الخطيب، إضاءة على مشروع قانون إصلاح نظرية المسؤولية المدنية في التشريع المدني
+الفرنسي الحديث.. «المبررات والنتائج»، مجلة العلوم القانونية والسياسية، جامعة الشهيد حمة
+خضر بالوادي، الجزائر، 2019، المجلد 10، العدد 1، ص 12.-36
+Pour plus d'informations voir: A-S. Choné-Grimaldi, Le projet de réforme de la
+responsabilité civile: observations article par article, Gazette du Palais, Paris, 2017,
+n° 23, p. 16. J-S. Borghetti, Un pas de plus vers la réforme de la responsabilité civile:
+présentation du projet de réforme rendu public le 13 mars 2017, D., 2017, p. 770.
+M. Mekki, Le projet de réforme du droit de la responsabilité civile du 13 mars 2017:
+Des retouches sans refonte, GDP, 2017, n° 17, p. 12.
+علماً بأنه ولأغراض البحث سيتم التدليل على هذا المشروع باختصار : [PLRRC Urvoas 2017]،
+كما سيتم التدليل على القانون المدني السابق باختصار: [Ancien C.C] والقانون المدني الحالي
+باختصار: [Nouveau C.C] ، حسب المقتضى النصي.
+112 مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 7 ---
+أ. د. محمد عرفان الخطيب
+المطلب الأول
+الذكاء الاصطناعي والمسؤولية المدنية القائمة على الاعتبار الشخصي
+تستند فكرة المسؤولية المدنية القائمة على الاعتبار الشخصي، لمسؤولية الشخص
+عن أفعاله فيما يمكن وصفه بالمسؤولية المباشرة عن الفعل الشخصي التي تقوم على
+أساس الخطأ الشخصي المباشر (13) أو غير المباشر (14). وبغض النظر عن تفاصيل
+الأحكام القانونية الناظمة لهذين الشكلين(15)، فإن ما يهمنا أنهما يقومان على تحقق فكرة
+الشخصية في المُساءَل، ما يجعل البحث في قضية إمكانية مساءلة الذكاء الاصطناعي
+عن أفعاله ضمن هذه الفرضية، تستند بالضرورة لتحليل أكثر عمقا يتناول إمكانية منح
+هذا الذكاء صفة الشخصية القانونية المُمَكِنة من مساءلته قانوناً.
+أولاً- إمكانية الاعتبار الشخصي للذكاء الاصطناعي
+(17)، مانحًا كلًا
+لا يعترف القانون إلا بوجود الشخص الطبيعي(10) والشخص الاعتباري
+(13) يسأل فيها الشخص عن أفعاله وتصرفاته فيما لو ألحقت تصرفاته ضرراً بالغير، وفق القاعدة
+القانونية.
+«Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par
+la faute duquel il est arrivé à le réparer». Art. (1240). Nouveau C.C. «Chacun est
+responsable du dommage qu'il a causé non seulement par son fait, mais encore par sa
+négligence ou par son imprudence». Art. (1241). Nouveau C.C.
+(14) يسأل فيها الشخص عن أفعال الأشخاص الذين يسأل عنهم في حال لو ترتب على تصرفاتهم إضرار
+بالغير، أو الأشياء المكلف بحراستها.
+«On est responsable non seulement du dommage que l'on cause par son propre fait,
+mais encore de celui qui est causé par le fait des personnes dont on doit répondre, ou
+des choses que l'on a sous sa garde». Art. (1242 al. 1). Nouveau C.C.
+(15) Responsabilité civile, Panorama, novembre 2017. 2018, D. 2019., P. 38. P-B.
+Lebrun, La responsabilité, Empan, vol. 99, n° 3, 2015, Pp. 105-109. F. François, Fait
+générateur de la responsabilité du fait d'autrui: confirmation ou évolution? D. 2007.,
+p. 2408. A-M. Galliou-Scanvion, L'article 1384 alinéa ler et la responsabilité du
+fait d'autrui: un fardeau non transférable sur les épaules du tuteur, D. 1998., p. 240.
+J. Julien, Responsabilite du fait d'autrui, Rep. civ., Dalloz, 2005.
+(16) Code civil art.: 78; 88 à 92; 112 à 132; 318; 725; 906. Pour plus d'information voir,
+M. Douchy-Oudot, Droit civil, introduction, personnes, famille, coll. Hypercours,
+6ème éd., Dalloz, 2011, p. 13s. B. Teyssie, Droit civil, les personnes, coll. Manuels,
+12eme éd., LexisNexis, 2010, p. 8s.
+(17) Articles: 1240s. 1845s. Code civil, ed. 2017. Pour plus d'information voir, M.
+Douchy-Oudot, Droit civil, introduction, personnes, famille, op., cit., p. 13s. B.
+Teyssie, Droit civil, les personnes, op, cit., p. 85.
+113
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 8 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+منهما مركزًا قانونيًا يتماشى مع طبيعته وخصوصيته (18). هذا التوصيف القانوني لفكرة
+الشخصية القانونية هل يستوعب، أو هل من الممكن أنْ يتسع ليمنح الشخصية القانونية
+للذكاء الاصطناعي (19). تساؤل يقتضي للإجابة عنه، الوقوف على الموقف الفلسفي من
+فكرة الشخصية عموماً والشخصية القانونية خصوصاً، قبل البحث في نظيره القانوني
+المُمَكِنْ من منح هذه الشخصية من عدمه.
+1. ضمن المفهوم الفلسفي
+مع غياب أي تصور فلسفي لارتباط الشخصية بمعزلٍ عن الأنسنة، كان الربط يقوم
+على اقتصار الشخصية على الإنسان، فلا شخصية إلا للإنسان، ولا شخصية
+قانونية إلا للإنسان(20)، علماً بأن هذه الشخصية رغم ارتباطها بالإنسان لم تكن تمنح
+لكل إنسان، بل فقط لمن يعترف له القانون بصفة الإنسان(21). فهذا الأخير في مرحلة
+العبودية، وبالرغم من تحقق صفة الأنسنة فيه، لم تكن له شخصية طبيعية أو قانونية،
+وإنّما كان يُعَدُّ بحكم الأشياء(22). من هنا بدأ الفصل بين الشخصية الطبيعية ونظيرتها
+(18) بحيث إنَّ الأول يتناول مفهوم الشخص المادي الملموس، المتمثل بالإنسان في وجوده المادي الحقيقي
+أو المتوقع أو المفترض، بينما يتناول الثاني الشخص المعنوي غير المحسوس، الذي يفترض القانون
+وجوده حقيقة لأغراض معينة، المتمثل بالكيانات القانونية التي منحها القانون لهذه الشخصية
+راجع: محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots)...، مرجع سابق، ص 19.-58
+A. Batteur, De la protection du corps à la protection de l'être humain, Petites affiches,
+14 décembre 1994, p. 29. L. Becker, Les limites du concept d'être humain, Cahier
+Science-Technologie-Société, n° 11, Éthique et biologie, 1986, p. 139. V-L, Agathe,
+La distinction personne morale de droit privé-personne morale de droit public, In La
+personnalité morale, Journées nationales de l'association Henri Capitant, tome Xll,
+Dalloz, 2010, p. 3.
+(19) A. Bensoussan, Plaidoyer pour un droit des robots: de la «personne morale» à la
+«personne robot», La Lettre des juristes d'affaires, 23 oct. 2013, n° 1134. A. A. Ben-
+soussan, Le droit de la robotique: aux confins du droit des biens et du droit des per-
+sonnes, Revue des juristes de Sciences Po, n° 10, hiver 2015, Pp. 7-77.
+(20) Monier J-C, Personne humaine et responsabilité civile - Droit et culture, 1996, n°1,
+p. 51. J. Carbonnier, Droit civil - Introduction - Les personnes - La famille - l'enfant
+- le couple, PUF, Paris, 2004.
+(21) M-P. Peis-Hitier, Recherche d'une qualification juridique de l'espèce humaine, D.
+2005, Chron., P. 865.
+(22) Pour plus d'information voir: M. Gobert, Réflexions sur les sources du droit et les
+principes d'indisponibilité du corps humain et de l'état des personnes, RTD. civ.
+1992, p. 489.s. J.-C. Galloux, Le corps humain dans le Code civil, In 1804-2004, Le
+Code civil, Un passé, un présent, un avenir, Dalloz, Paris, 2004, p. 381.
+114 مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 9 ---
+أ. د. محمد عرفان الخطيب
+القانونية، ليذهب البعض، وهم على حق، إلى القول إنه إن كانت الشخصية الطبيعية قد
+منحت للإنسان باعتباره إنسانا، فإن الشخصية القانونية، إنما منحت له باعتباره أهلا
+للحقوق والالتزامات(23). وحالما يصبح حرًا يكتسب الشخصية الطبيعية، وحالما يكون
+أهلا لاكتساب الحقوق وتحمل الالتزامات، يكتسب الشخصية القانونية. وعلى ذلك،
+المعول في تحديد اكتساب الشخصية القانونية من عدمها، لا الأنسنة بحد ذاتها، وإنَّما
+القدرة على اكتساب الحقوق وتحمل الالتزامات، فكانت ولادة فكرة الشخصية القانونية
+للشخص الاعتباري
+(24). وحديثا أقرت العديد من الأنظمة القانونية الغربية بعضا من
+صفات الشخصية القانونية للحيوان(25)، لتتعدى صفة الشخصية، بعد تعديها الوجود
+المادي للوجود الاعتباري، الكيان المادي للإنسان إلى الكيان المادي لغير الإنسان كما
+الحيوان(20)، كل ذلك مع مراعاة خصوصية وطبيعة محددات وطبيعة كل منها (27) .
+ضمن هذا التحليل، تطرح اليوم مسألة منح الذكاء الاصطناعي في بعده المادي المتمثل
+بالروبوت أو الإنسآلة ((Robots» على سبيل المثال، الشخصية القانونية لا الإنسانية، التي
+(23) Jeuland E., Essai sur la substitution de personnes dans un rapport d'obligation, LGDJ,
+Paris, 1999.
+(24) تنازع إقرار هذه الشخصية نظريات عديدة، من أهمها: نظرية الافتراض القانوني التي لا تقر
+بالشخصية القانونية إلا للإنسان، إلى نظرية الوجود الواقعي التي تقر بحقيقة الوجود الفعلي
+للشخص الاعتباري، إلى نظرية الملكية المشتركة، وأخيرا نظرية الحقيقة القانونية، التي استقر عليها
+الفقه والقانون. راجع: أنور العمروسي، الشخص الطبيعي والشخص الاعتباري في القانون المدني،
+دار محمود للنشر، القاهرة، 2012. محمد عرفان الخطيب، المركز القانوني للإنسآلة (Robots) ..،
+مرجع سابق، ص 19.-58
+Pour plus d' information voir: M. Renaud, L'instrumentalisation de la personne mo-
+rale, In La personnalité morale, Journées nationales de l'Association Henri Capitant,
+Tome XII, Dalloz, 2010, p. 31. M. Philippe, Nature juridique de la personnalité mo-
+rale, Defrénois 1990, art. 34848, p. 5. V. Wester-Ouisse, La jurisprudence et les per-
+sonnes morales-Du propre de l'homme aux droits de l'homme, JCP, 2009, 1, p. 121.
+(25) Les animaux sont des êtres vivants doués de sensibilité. Sous réserve des lois qui
+les protègent, les animaux sont soumis au régime des biens. Code civil : art.: 514 et
+s. J-P, Marguénaud, La personnalité juridique des animaux, Recueil Dalloz, Paris,
+1998, chron., p. 205.
+(26) A.-M. Sohm-Bourgeois, La personnification de l'animal: une tentation à repousser,
+D., 1990, 7, chron., Pp. 33-37.
+(27) M. Nicolas, Les droits et libertés fondamentaux des personnes morales de droit privé,
+RTD. Civ., 2008, p. 206. J-P, Marguénaud, La personnalité juridique des animaux,
+op., cit., p. 205.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+115
+
+--- Page 10 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+يرى أنصار هذه التوجه ألا مشكلة في طرحها بالنسبة إليه(28)، فوجوده المادي الملموس،
+يختلف عن نظيره الإنساني، ما يجعل من غير الممكن تصنيفه تحته، كونه كائنا شيئيا
+ماديا ملموسا ليس من دم ولحم.
+كما أن هذا الوجود المادي يخرجه كذلك من دائرة الشخص الإعتباري أو الافتراضي،
+كوننا نراه ونشعر به من حولنا، ما يجعل إمكانية منحه فلسفيا الشخصية القانونية من
+خلال حامله المادي المتمثل بالإنسالة «Robots» واردةً وممكنة، غير أنه إن كان لا يوجد ما
+يمنع فلسفيا من منح الذكاء الاصطناعي بحامله المادي الشخصية القانونية، فهل القانون
+يسمح بذلك؟
+2. ضمن المفهوم القانوني
+تذهب نصوص القانون المدني الحالي والسابق (29)، في معرض تحديدها للمسؤولية عن
+الفعل الشخصي المباشر للتأكيد بأن: («كل فعل [للإنسان] سبَّب ضرراً للغير يُلزمٍ من
+ترتب عليه نتيجة خطئه هذا الضرر بإصلاحه»(30)، وبأنه: «[كل أحد] يبقى مسؤولا عن
+الضرر الواقع، جرَّاء أفعاله، وجرَّاء إهماله وعدم تبصره»(31)، في حين تقضي نصوص
+مشروع القانون المقترح لتعديل أحكام المسؤولية المدنية، بأننا مسؤولون عن الضرر
+الحاصل نتيجة خطئنا(32)، مبينة أن كل انتهاك لتحديد قانوني أو التقصير في الواجب
+العام بالحيطة واليقظة يشكل خطأ وفق مفهوم مشروع هذا القانون (33) .
+ذات الأمر يمكن لحظه فيما يتعلق بالمسؤولية عن الفعل الشخصي غير المباشر في ضوء
+المسؤولية عن عمل الغير، ففي حين تؤكد نصوص القانون المدني النافذ والسابق أننا لا
+نكون مسؤولين عن الضرر الذي يحدث جرَّاء أفعالنا، وإنما كذلك جرَّاء أفعال أشخاص
+آخرين «Personnes» نحن مسؤولون عنهم(34)، تؤكد نصوص مشروع القانون المعدل
+لأحكام المسؤولية المدنية بأننا مسؤولون عن الأضرار التي يسببها الغير «35) «Autrui) .
+(28) P-J. Delage, Les androïdes rêveront-ils de personnalité juridique ? In Science-fiction
+et science juridique, IRJS éd., 2013, p. 165. P-Y. Oudeyer, Robotique: les grands
+défis à venir, futuribles n° 399, mars-avril 2014, Pp. 5-23.
+(29) النص مطابق لنص المادتين (1382 و1383)، الملغاتين من القانون المدني لما قبل تعديل عام 2016.
+(30) Art. (1240), Nouveau C.C.
+(31) Art. (1241), Nouveau C.C.
+(32) Art. (1241), PLRRC Urvoas 2017.
+(33) Art. (1242), PLRRC Urvoas 2017.
+(34) Art. (1242 al. 1), Nouveau C.C.
+النص مطابق لنص الفقرة الأولى من المادة (1384) الملغاة من القانون المدني لما قبل تعديل عام 2016.
+(35) Art. (1245), PLRRC Urvoas 2017.
+116
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 11 ---
+أ. د. محمد عرفان الخطيب
+عليه، إن كان مختلف النصوص القانونية السابقة، تصب في القاعدة الفقهية المعروفة:
+«كل خطأ سبَّب ضرراً للغير يلتزم من ارتكبه بالتعويض))(30) ، إلا أن ثمةَ تبايناً واضح
+بينها في توضيح المسؤول عن الفعل الموجب للمسؤولية، ذلك أن غياب النص على ذكر
+مصطلح («الشخص» «Homme» من قواعد المسؤولية عن الفعل الشخصي المباشر أو
+من قواعد المسؤولية عن الفعل الشخصي غير المباشر، في نص المل ocoan
+القانون المعدل لأحكام المسؤولية المدنية، قد يحمل تفسيرا موسعا لمفهوم المسؤول عن
+الضرر.
+فبعيداً عن التعمق والبحث ما إن كان إسقاط هذين المصطلحين من نصوص مشروع
+القانون مقصودا أو غير مقصود؟! والدخول في دلالات غياب هاتين العبارتين، وسبب
+حذفهما من نصوص القانون ... إن كان ذلك قد تم في إطار معالجة عيب تشريعي في
+نصوص القانون المدني الحالي، كونها زيادة مصطلحية مادية لا لزوم لها، وأن عبارة
+ا تغني عنها باعتبار أن دلالاتها اللغوية تشير إلى الشخص (("
+تعديل الصياغة التشريعية للمادة اقتضى إلغاء عبارة «Homme»، بل يمكن القول إن
+هذا الغياب لمصطلح الشخص الطبيعي «Homme» يُفهم من السياق الذي طرحت فيه
+نصوص هذه المواد، لاسيما وأن مشروع القانون قد اقترح إفراد مادة خاصة ومستقلا
+تتحدث عن مسؤولية الشخص الاعتباري(37)، ما يفهم منه بمفهوم المخالفة أن نصوص
+المادتين الأوليين إنما تناقشان بالضرورة مسؤولية الشخص الطبيعي بالضرورة.
+كل ذلك مُمكن ونتفق معه، ولا نصادره، دون أن ينفي إمكانية التحليل المختلف، ذلك
+أن هذا الغياب لمصطلحي: الأشخاص ((Personnes» والرجل «Homme» يفتح المجال
+للتفكير خارج الصندوق، والقول بأن الخطأ قد ينسب لجهة أخرى خارج مفهوم
+الشخص الطبيعي، وضمن مفهوم الشخص القانوني، فالنص التشريعي المقترح: («نحن
+مسؤولون عن الخطأ) «On est responsable» يتيح التفكير لتحديد المقصود ب: «نحن»
+وهل هذا المصطلح يقتصر على الشخص الطبيعي، أم يتعداه لغير (i
+(36) سليمان مرقس، الوافي في شرح القانون المدني، المجلد الأول، ط5، دون ناشر، القاهرة، 1992،
+ص 136.-137
+P. Jourdain, Les principes de la responsabilité civile, 6eme éd., Dalloz, Paris, 2003.
+Y. Chartier, La réparation du préjudice, Dalloz, Paris, 1996. A. Rabut., De la notion
+de faute en droit privé, LGDJ, Paris, 1946. P. Esmein, La faute et sa place dans la
+responsabilité civile, RTDC, Paris, 1949., p. 481. F. Ewald, La faute civile - droit et
+philosophie - Droits, 1987, p. 45.
+(37) [La faute de la personne morale résulte de celle de ses organes ou d'un défaut
+d'organisation ou de fonctionnement] Art. (1242-1), PLRRC Urvoas 2017.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+117
+
+--- Page 12 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+طرحٌ قد يرى فيه البعض تحميلا للنص ما لا يحمله. رغم ذلك، فإن إمكانية القول بإمكانية
+البحث والتفسير فيه تبقى قائمة، لاسيما في ضوء الحديث الغربي والأوروبي المتزايد
+عن منح الشخصية القانونية للذكاء الاصطناعي في شكله المادي المتمثل بالروبوتات
+وإمكانية مساءلته عن أفعاله، تحديداً في ضوء القواعد الأوروبية للقانون المدني للإنسآلة
+. (38)« Robots»
+وهنا لا يمكن إغفال الدور التنويري الذي يمكن أن يقوم به الفقه في هذا المجال بتوضيح
+حدود وأبعاد هذا النص، إضافة للدور الإبداعي لمحكمة النقض الفرنسية في تفسير هذه
+النصوص التي ستجد نفسها في وقت ما مُلزمة بالإجابة عن هذا السؤال(39)، وصولا
+إلى إمكانية مساءلة الذكاء الاصطناعي(40). كل ذلك وإن كان ممكناً ... إلا أن ثمة سؤالاً
+يطرح ... ما جدوى الاعتبار الشخصي للذكاء الاصطناعي في نهوض المسؤولية المدنية
+من عدمه؟
+ثانياً- جدوى الاعتبار الشخصي للذكاء الاصطناعي
+إن كانت النصوص القانونية السابقة في بعدها غير المقروء نصاً والمقروء استشرافا (41)،
+قد تساعد في منح الذكاء الاصطناعي الشخصية القانونية، فهل هذه الأخيرة هي شرط
+كافٍ للمسؤولية، وإن لم تكن كذلك، فما الغاية من هذا الربط؟.
+(38) Régles de droit civil sur la robotique: Résolution du Parlement européen du 16 février
+2017 contenant des recommandations à la Commission concernant des règles de droit
+civil sur la robotique (2015/2103(INL) JO C 252 du 18.7.2018, p. 239. Résolution
+du Parlement européen du 12 février 2019 sur une politique industrielle européenne
+globale sur l'intelligence artificielle et la robotique (2018/2088(INI)). N. Maximin,
+Vers des règles européennes de droit civil applicables aux robots, Dalloz actualité, 1
+mars 2017. Th. De Ravel d'Esclapon, Intelligence artificielle: nouvelle résolution du
+Parlement européen. Dalloz actualité, 20 février 2019.
+(39) H. Capitant, F. Terré, Y. Lequette et F. Chénedé, Les grands arrêts de la jurisprudence
+civile, T. I. Introduction, personnes, famille, biens, régimes matrimoniaux,
+successions, T. II. Obligations, contrats spéciaux, sûretés. Ed Dalloz, 13ème éd, 2015.
+EP. Deumier, Les communiqués de la Cour de cassation: d'une source d'information
+à une source d'interprétation, RTD civ. 2006, p. 510.
+(40) كما أن هذا الموضوع قد يكون وسيلة لطلب رأي استشاري من محكمة النقض وفق القواعد التي تتيح
+طلب رأيها الاستشاري في بعض المسائل الحديثة والمستجدة.
+Loi n° 91-491 du 15 mai 1991. JORF n° 115 du 18 mai 1991, p. 6790. Arts. L 441-
+1s. R 441-1s. Code de l'organisation judiciaire. Arts. 1031-1s du code de procédure
+civile. J-F. Weber, Droit et pratique de la cassation en matière civile, LexisNexis,
+2012, n° 367s, p. 151s.
+(41) Arts. (1241|1242). PLRRC Urvoas 2017.
+118 مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 13 ---
+أ. د. محمد عرفان الخطيب
+1. الشخصية القانونية والمسؤولية ... صحة الربط
+إن كانت المسؤولية القانونية تقتضي الشخصية القانونية، فهل الشخصية القانونية
+تقتضي المسؤولية القانونية؟ نعتقد أنه وإن كان الأصل أنْ يقترنا معًا(42)، إلا أنه من
+الخطأ ربط المسؤولية القانونية بالشخصية القانونية، كون الأخيرة منفصلة عن
+المسؤولية القانونية، بذات الوقت الذي يبقى العكس غير صحيح (43). فليس كل من يتمتع
+بالشخصية يعتبر مسؤولاً من الناحية القانونية عن الأعمال التي يقوم بها، فالشخص
+غير العاقل يتمتع بالشخصية القانونية رغم أنه يفتقد للمسؤولية المدنية، بينما الشخص
+العاقل يتمتع بالشخصية والمسؤولية كونه - وبالإسقاط على الذكاء الاصطناعي - يمثل
+الحامل المادي الرئيسي «الشخص الطبيعي» للحامل القانوني «الشخصية القانونية»،
+ليغدو شخصية قانونية عاقلة أهلاً للمساءلة القانونية، لكن ما أن يفقد الحامل المادي
+«الإنسان الطبيعي» البعد العقلاني «الإدراك الواعي» الحامل الفعلي للمسؤولية القانونية،
+رغم بقاء امتلاكه للحامل القانوني «الشخصية القانونية»، حتى يخرج من إطار المساءلة
+القانونية، دون أن يعني ذلك إلغاء حق المتضرر بالتعويض الذي ينتقل للمسؤول عن
+الشخص مرتكب الفعل الموجب للمسؤولية.
+فمن غير الخافي أن نفي المسؤولية عن الحامل المادي «الإنسان الطبيعي» الممتلك لأهلية
+الوجوب، لافتقاده الحامل القانوني الموجب للمسؤولية «البعد العقلاني» «الإدراك
+الواعي» المتمثل بأهلية الأداء، لا ينفي المسؤولية بالمطلق، كما لا يلغي الحق بالتعويض،
+(42) الكائن الذي يتمتع بأهلية الوجوب، يتمتع بالشخصية القانونية دون أنْ يكون مسؤولاً عن تصرفاته،
+في حين أنّ الشخص الذي يتمتع بأهلية الأداء يتمتع بالشخصية القانونية وهو مسؤول عن تصرفاته،
+وبالتالي من يمتلك أهلية الأداء «فكرة المسؤولية» يتمتع بأهلية الوجوب «فكرة الشخصية القانونية»،
+بينما العكس ليس صحيحًا، فمن يمتلك أهلية الوجوب «فكرة الشخصية القانونية)) لا يمتلك أهلية الأداء
+(«فكرة المسؤولية)». وبذلك يمكن القول بأنَّ الإنسالة «Robofs)) يتمتع بالشخصية القانونية «أهلية
+الوجوب» ولا يتحمل المسؤولية القانونية «أهلية الأداء»، دون أنْ يعني ذلك انتفاء فكرة المسؤولية
+القانونية وإصلاح الضرر. راجع: محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...،
+مرجع سابق، ص 19.-58
+C. François, Présentation des articles 1145 à 1152 du nouveau paragraphe 1 "La
+capacité", La réforme du droit des contrats présentée par I'IEJ de Paris 1, [En ligne].
+J-C, Montanier Les actes de la vie courante en matière d'incapacités, JCP éd. G,
+1982. I1., P. 3076. X. Labbée, Esquisse d'une définition civiliste de l'espèce humaine,
+D., 1999, chron., P. 437.
+(43) A. S. Choné-Grimaldi, P. Glaser, Responsabilité civile du fait du robot doué
+d'intelligence artificielle: faut-il créer une personnalité robotique? Comm. com.
+élect. 2018, n° 1, focus 1, p. 2. Être, vouloir, pouvoir: la responsabilité des agents
+autonomes, Une introduction, Galatea Network, 2018.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+119
+
+--- Page 14 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+وإنما ينقل عبء هذه المسؤولية إلى الشخص المسؤول عن الشخص غير المميز، ومطالبته
+بالتعويض، باعتباره المسؤول عن تصرفات هذا الأخير (44).
+كما أن الفقه والقضاء متفقان (45) على أنه في حال عدم وجود مسؤول عن الشخص غير
+المميز، الممتلك للحامل المادي للمسؤولية والمفتقد لحاملها القانوني، بإمكانية مساءلة
+عديم التمييز في ضوء قواعد المسؤولية المدنية الاستثنائية، باعتبارها مسؤولية احتياطية
+مخففة، ذات طبيعة جوازية يفرضها القاضي.
+بالتالي إذا ما أردنا إسقاطها على إمكانية مساءلة الذكاء الاصطناعي عن أفعاله «هو»، فإنها
+ستصطدم بعدم وجود شخصية قانونية له ضمن ذلك، يمكن أن يكون إكساب الذكاء
+الاصطناعي الشخصية القانونية مبرراً، في ضوء غاية أكثر بعداً هي إيجاد أو الادعاء
+بوجود ذمة مالية مستقلة له يكون من خلالها أهلا للمساءلة وجبر الضررا
+(40)، ذلك أن
+إلزام عديم التمييز بالتعويض عن الضرر، لا يتحقق إلا في حال وجود ذمة مالية مستقلة
+له، مع عدم وجود مسؤول عنه كما أسلفنا، وهو الأمر الذي سعى البرلمان الأوروبي
+إلى تبينه عبر إحداث صندوق تأميني لمعالجة الأضرار التي يمكن أنْ تقع نتيجة النشاط
+القانوني للإنسآلة، على أنْ يمول هذا الصندوق من قبل فئات عدة، لاسيما مصنعي
+الإنسآلة، للتعويض عن الأضرار التي قد يحدثها هذا الأخير، ما يمكن معه القول بوجود
+مسؤولية قانونية يمكن أنْ تقع نتيجة عمله(47) ضمن ذلك، وفي ضوء عدم الاعتراف
+(44) Ph. Le Tourneau, La responsabilite civile des personnes atteintes d'un trouble mental,
+JCP 1971.11.2401. G. Viney, Vers un elargissement de la catégorie des «personnes
+dont on doit répondre»: la porte entrouverte sur une nouvelle interprétation de l'arti-
+cle 1384, alinéa 1°, du code civil, D. 1991.157.
+(45) Cass. Ass. plén. 9 mai 1984, Arrêt Gabillet. Dans cette arrêt l' Assemblée plénière de
+la Cour de cassation a abandonné définitivement l'exigence de discernement dans
+l'appréciation de la garde de la chose de l'enfant. Gabillet, n° 80-14. 944, Bull. civ.
+ass. plén., n° 1, D., 1984. 528, note F. Chabas. J-C. Bizot, La responsabilité des père
+et mère du fait de leur enfant mineur: de la faute au risque, Rapp. C. cass. 2002,
+Doct. 2003. F. Boulanger, Autorité parentale et responsabilité des père et mère des
+faits dommageables de l'enfant mineur après la réforme du 4 mars 2002. Réflexions
+critiques, D. 2005., p. 2245. G. Roche, La condition juridique des malades mentaux,
+Gaz. Pal., Paris, 1968. 1., p. 12.
+(46) يجب ألا ننسى أن إقرار الشخصية القانونية للشخص الاعتباري استندت في جانب منها إلى ذمته
+المالية المستقلة.
+M. Philippe, Nature juridique de la personnalité morale, op., cit. p. 5.
+(47) Résolution du Parlement européen du 16 février 2017 contenant des recommandations
+à la Commission concernant des règles de droit civil sur la robotique (2013/2015(INL)
+120
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 15 ---
+أ. د. محمد عرفان الخطيب
+بالشخصية القانونية للذكاء الاصطناعي، لا يمكن القول بأن هذا الصندوق يمثل الذمة
+المالية المستقلة، باعتبار أن مفهوم هذه الذمة يرتبط بالشخصية القانونية.
+بالتالي، وإن كانت موجودات هذه الصندوق في حال تفعيله ستسهم بشكل فعلي في
+التعويض عن الأضرار التي يحدثها الذكاء الاصطناعي، إلا أنها حتما لا تقع ضمن أحكام
+المسؤولية بقدر ما ستكون ضمن مفهوم المساءلة، كون تزويد هذا الصندوق -كما تأمين
+موجوداته المالية- سيكون من قبل القائمين على هذه الصناعات التقنية الرقمية الذكية(48) .
+وهنا باعتقادنا، جانب الفكر الإبداعي في توجه البرلمان الأوروبي، بإقرار الشخصية
+القانونية للآلات الذكية التي تعمل بمفهوم التعلم العميق 49)Deep Learning)، مشيرًا
+إلى أنَّ منح الإنساكة «Robots» هذه الشخصية القانونية، إنما يتم وفق ما يتناسب مع
+احتياجات وطبيعة الإنسالة («Robots)»، لكن ليس في إطار انفصاله عن الإنسان، بقدر ما
+في حمايته «هو» منا، كما حمايتنا «نحن» منه (50).
+2. الشخصية القانونية والمسؤولية ... محاذير الربط
+إن كانت الشخصية تجتمع مع المسؤولية في الإنسان، فإن الأمر بخلاف ذلك في الذكاء
+- P8_TA-PROV (2017) 0051), op., cit., paragraphes 245. Voir aussi: N. Nevejans,
+Règles européennes de droit civil en robotique, Etude approfondie, pour la commis-
+sion des affaires juridiques du Parlement européen JURI, Département thématique C,
+Droits des citoyens et affaires constitutionnelles, Affaires juridiques et parlementai-
+res, Etude, PE 571.379 FR, 2016, p. 16s.
+محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...، مرجع سابق، ص 19.-58
+(48) محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...، المرجع السابق، الصفحات نفسها.
+Comité économique et social européen (CESE), Avis d'initiative INT/806 sur l'intel-
+ligence artificielle. Les retombées de l'intelligence artificielle pour le marché unique
+(numérique), la production, la consommation, l'emploi et la société, 31 mai 2017, p.
+11. X. Delpech, Vers un droit civil des robots, AJ Contrat 2017, p.148.
+(49) Ibid.
+(50) لعل ذلك هو ما دفع المشرع الأوروبي إلى أن يجعل فلسفته القانونية في فكرة وبناء هذا القرار الاعتماد
+الكبير على قواعد السلوك القانوني للإنسالة «Robots» التي أكد عليها تقرير النائبة البرلمانية م. ديلفو
+الا ب) والتي يعود الفضل في بلورتها لكاتب الخيال العلمي: ( )
+الشهيرة: (أنا ربوت» للعام 1950 والتي عرفت لاحقا بقانون أسيموف، والتي تقضي بأفضلية الجنس
+البشري على الإنسالة «Robots». راجع في ذلك: محمد عرفان الخطيب، المركز القانوني للإنسالة
+مرجع سابق، ص 9 ) ( ) )
+A. Bensoussan, Le droit des robots-Repenser les lois de la robotique d'Isaac Asimov,
+Planète robots, n° 33, mai/juin 2015, Pp. 14-15. M. Risse, Human Rights and Artifi-
+cial Intelligence: An Urgently Needed Agenda, Harvard Kennedy School [En ligne].
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+121
+
+--- Page 16 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+الاصطناعي، ذلك أنه، إن كان لا يمكن فصل العنصر المعنوي «العقل) في المسؤولية
+القانونية عن حاملها المادي «الإنسان» في المسؤولية المدنية التقليدية، فإن الأمر ممكن
+وبسيط في الذكاء الاصطناعي، بتركيب العنصر المعنوي «محرك الذكاء الاصطناعي»
+على حامل مادي له شكل إنسان أو حيوان، الأمر الذي يخي (ua al it)
+من انحدار مفهوم الشخصية القانونية، ما دفع العديد من رجال الفقه إلى تأكيد حصر
+منح الشخصية القانونية على الروبوتات أو الإنسآلة ((Robots» التي تعمل بمفهوم
+التعلم العميق (Deep Learning) ذات الهيكل المادي المحاكي الجسد البشري(51)، مغفلين
+ما ينطوي عليه ذلك من خطورة أخلاقية على المتعاملين مع هذه الروبوتات، ذلك أنه
+وإن تشابه هذا الحامل مع الجسد الإنساني إلا أنه يبقى هيكلاً آلياً، شأنه شأن الشكل
+الحيواني (52).
+هذا الخلط بين الآلي والبشري، دفع البعض إلى القول إن ارتباطنا العاطفي بهذا الهيكل، لا
+الذكاء، هو ما يدفعنا إلى منحه الشخصية القانونية (53)، وذلك ضمن إسقاطاتنا العاطفية
+(51) A. Bensoussan, La protection de la dignité humaine s' étend au champ du numérique,
+Le Huffington Post, 6 juin 2014. R. Gelin, Droit de la robotique: Le robot demeure
+juridiquement un objet qui n'est pas responsable de ses actes. L'humanité. fr [En
+ligne], 18 mai 2017, 143. R. Hasselvander, IA, robots: vers un cadre juridique dédié?
+Les clés de demain [En ligne], 5 décembre 2016.
+(52) Retour sur la saga d'aibo, Le robot-chien. Par Screetch, Planète robots, n° 6, nov./
+déc. 2010, Pp. 42-45. A. Bensamoun, Stratégie européenne sur l'intelligence
+artificielle: toujours à la mode éthique.... D. 2018, n°19, Pp. 1022-1023. J. Maclure
+et M-N. Saint-Pierre, Le nouvel âge de l'intelligence artificielle: une synthèse des
+enjeux éthiques, Les Cahiers de propriété intellectuelle., n° 3, Vo. 30, n° spé, op., cit.,
+Pp. 741-766.
+(53) لا جدال أنَّ الآلات ليس لديها إحساس بالشعور بعكس الإنسان والحيوان، غير أن الدراسات أثبتت أنَّ
+الآلات تحديدا ذات الطبيعة الخدمية والاتصال المباشر مع البشر تنشأ علاقة ود وتعاطف من البشر
+معها، ما يجعل واجب حمايتها من الاعتداء ليس مراعاة لشعور الإنسالة «Robots» المفتقد، بقدر
+ما هو مراعاة لشعور الأفراد الذين يتعامل معهم الإنسالة «Robots» والصورة المجتمعية المطبوعة
+في الذاكرة عنه. لذلك يركز حماة البعد الأخلاقي في الروبوتات، على ضرورة التنبه لعدم محاكاة
+الروبوت للجوانب الإنسانية الفيزيائية لما قد يكون له من أثر نفسي كبير على المتعاملين معه، بحيث
+إنهم هم من يمنحوه البعد الإنساني في مخيلتهم وتصوراتهم، رغم أنه لا يعدو أن يكون مجرد آلة
+تجسدت في جسد إنساني، إتلاف ربوت له شكل حيوان أسهل من الناحية النفسية من إتلاف ربوت
+له جسد إنسان. وعليه يرى رافضو منح الشخصية القانونية للذكاء الاصطناعي، أنه لا حاجة لمنحه
+هذه الشخصية كون المسألة حتى حينه تتعلق بالجانب النفسي التصوري للقائمين على هذه الصناعات
+والمتعاملين معها أكثر منه حقيقة فعلية لذلك. راجع: محمد عرفان الخطيب، المركز القانوني للإنسالة
+M. Chinen, The Co-Evolution of Autonomous Machines and Legal Responsibility,
+Virginia Journal of Law & Technology, vol. 20, n° 2, 2016, Pp. 338-393.A. Bensamoun
+122
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 17 ---
+أ. د. محمد عرفان الخطيب
+المحضة، الأمر الذي يقودنا إلى معضلة أكبر، مفادها لمن نمنح الشخصية القانونية هل
+نمنحها للهيكل المادي الشبيه بالجسد الإنساني أم للذكاء الاصطناعي بحد ذاته؟ علماً
+بأننا حتى في الشخصية القانونية الطبيعية نحن نمنحها بالضرورة للحامل المادي
+للشخص الطبيعي «الجسد الحي»، بغض النظر عن مفهوم الذكاء أو الوعي (34)، في إطار
+ما يعرف بأهلية الوجوب، التي يتمتع بها كل إنسان حي والتي مناطها الحياة الإنسانية،
+دون أهلية الأداء، التي لا يتمتع بها إلا الإنسان العاقل المدرك لأفعاله وتصرفاته.
+قضيةً لم تطرح قط في الذكاء البشري، كون الحامل لهذا الذكاء دوماً هو واحد وهو :
+«الإنسان»، ولا يمكن البتة تحميله لغير الإنسان، بخلاف الحال للذكاء الاصطناعي، الذي
+نظراً لعدم الاعتراف القانوني بالشخصية القانونية لحامله، وكون هذا الحامل لا علاقة
+له بالمطلق بالمفهوم الإنساني، فإنه يمكن أن يكون له شكل إنسان أو حيوان (55) .
+أضف لذلك، أن تحميل الذكاء الاصطناعي المسؤولية عن أفعاله، يطرح سؤلاً استفهامياً
+حول مفهوم القصد وعدم العمد في الفعل الموجب لمسؤولية هذا الذكاء، بمعنى إن كان
+et G. Loiseau, L'intelligence artificielle à la mode éthique, Recueil Dalloz, 2017,
+p, 1371. A. Bensoussan, Le droit des robots: la charte coréenne, Planète Robots,
+n°25,janv.-fev.2014, Pp. 14-15. C. Allen, W. Wallach, Moral machines: Contradiction
+in Terms of Abdication of Human Responsibility? In Robot Ethics, the ethical and
+social implications of robotics, Cambridge, MIT Press, 2012, Pp. 55-68.
+(54) لا أدل على ذلك، من أنَّ القانون المدني من الناحية التقليدية يقر ومنذ فترة ليست بالقريبة بأنَّ المجنون
+ومن في حكمه، من سفيه أو ذي غفلة أو عته يتمتع بالشخصية القانونية، وهو أهل لاكتساب الحقوق،
+وحديثا أقر القانون المدني الفرنسي هذه الشخصية للحيوان كذلك. راجع الفقرة المعنونة: «إمكانية
+الاعتبار الشخصي للذكاء الاصطناعي» من هذا البحث. راجع كذلك: محمد عرفان الخطيب، المركز
+القانوني للإنسالة (Robots) ...، مرجع سابق، ص 19.-58
+J-P. Marguénaud, La personnalité juridique des animaux, op., cit., p. 205.
+(55) من المعلوم أن القانون المدني يقسم أهلية الشخص إلى قسمين: الأولى، ما اصطلح على تسميتها ب:
+«أهلية الوجوب»، والمتعلقة بقدرة الشخص على اكتساب الحقوق، والتي تثبت لكل شخص سواء أكان
+عاقلا أم غير عاقل، كون مناطها الحياة «الإنسانية»، أو بالأصح صفة الآنسنة، علمًا بأنّ هذه الحصرية
+لصفة الآنسنة، أصبحت اليوم مع منح بعض جوانب الشخصية القانونية للحيوان، موضع شك.
+والثانية، تتناول ما يسمى في القانون ب: «أهلية الأداء»، وهي القدرة على التصرف في هذه الحقوق،
+الأمر الذي يقتضي وجود العقل، ليتمكن الشخص من تحديد مدى صوابية تصرفاته من عدمها. هذه
+الأهلية لا يمكن أن تكون إلا لعاقل. راجع : محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots)
+...، مرجع سابق، ص 19.-58 عبد المنعم فرج الصدة، أصول القانون، دار النهضة العربية، بيروت،
+1978، ص 201 وما بعدها.
+C. François, Présentation des articles 1145 à 1152 du nouveau paragraphe 1 "La
+capacité", La réforme du droit des contrats présentée par l'IEJ de Paris 1, op, cit.
+P. Ricoeur, Le concept de responsabilité, Essai d'une analyse sémantique, éd.
+Esprit, Paris, 1995, P. 65.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+123
+
+--- Page 18 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+الذكاء الاصطناعي سيسأل عن فعله العمد باعتباره خطأً مقصوداً، فهل يمكن تصور
+مساءلته عن الفعل غير العمد ضمن النسيان أو قلة الاحتراز الموجب للمساءلة. بصورة
+أدق هل الآلة تنسى أو تسهو؟! وطالما أن الإجابة - على الأقل في الوقت الحالي - هي النفي
+بالتأكيد، فإن هذا الأمر سيعيد تكييفنا التقليدي لفكرة الخطأ الموجب للمساءلة، بحصره
+في الخطأ العمد والمقصود (56)، علماً بأن هذا الأخير حتى حينه لم يتحقق بالنسبة لهذا
+الذكاء، نظراً لغياب الوعي الإدراكي لديه بخطورة أو عدم خطورة فعله، أو حتى مطابقته
+للقانون أو عدم مطابقته.
+فالقانون الذي يعمل عليه الذكاء الاصطناعي هو برمجيته اللغوية والعصبية التي أعد لها،
+وليس القانون بالمفهوم القانوني المتعارف عليه بين بني البشر (57)، فكلا المفهومين فى
+الخطأ العمد وغير العمد، يرتكزان لمفاهيم إنسانية صرفة بين القصد والنسيان المرتبطين
+بالحس الإنساني الذي لم يستطع الذكاء الاصطناعي حتى حينه أن يجسدهما، ولا نعتقد
+أن ذلك ممكنا، على الأقل في المدى المنظور (58) .
+(56) N. El Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle., op,
+cit., p. 18. Th. Leemans, La Responsabilité Extracontractuelle de 1'Intelligence
+Artificielle., op, cit., P. 50. G. Loiseau., A. Bonnet, La responsabilité du fait de
+l'intelligence artificielle, op., cit., p. 13.
+(57) محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...، مرجع سابق، ص 19.-58 كريم
+موسى حسين، الذكاء الاصطناعي من منظور فلسفة العقل، مجلة الفلسفة، الجامعة المستنصرية،
+بغداد، 2014، العدد 11، ص 109.-132 ليث أثير يوسف، مشكلة الاستقراء والذكاء الصناعي، مجلة
+آداب المستنصرية، الجامعة المستنصرية، بغداد، 2011، العدد 5، ص 1.-14 ناصر شبكة، الذكاء
+الاصطناعي ومنطق تمثيل المعرفة - منطق المكونات المادية المتعددة، المجلة العربية الدولية للمعلوماتية،
+جامعة نايف للعلوم الأمنية، الرياض، المجلد الأول، العدد الثاني، 2012، ص 19.-33
+T. Lebrun, L'apprentissage machine est une appropriation, Les Cahiers de propriété
+intellectuelle., n° 3, Vo. 30, n° spec, op, cit., Pp. 897-926. J. Burrell, How the machine
+'thinks': Understanding opacity in machine learning algorithms.' Big Data & Society
+3(1): 2016, Pp. 1-12.
+(58) ارتباط الذكاء الاصطناعي بالمشاعر قضية خلافية تميزه عن الذكاء الإنساني، فطالما أن الذكاء بشكل
+تجريدي هو عملية عقلية بمخرجات منطقية، فإنه من الممكن تصوره في علم اللوغاريتمات، بينما
+قضية الأحاسيس والمشاعر لا ترتبط بالجانب العقلي الحسابي، بقدر ارتباطها بالجانب النفسي،
+فحتى لو تم تعليم الآلة على مفهومي الغضب والحزن على سبيل المثال، إلا أن ذلك لا يمكن إلا أن
+يبقى اصطناعيا، بل حتى وإن أمكن محاكاة ردة الفعل الاصطناعية مع ردة الفعل البشرية، يبقى الأمر
+مصطنعا، فإن كان الذكاء بمفهومه الحسابي المجرد لا يرتبط بالأحاسيس، إلا أنه بمفهومه العقلاني
+القائم على المحاكاة، يرتبط شديد الارتباط بهذه المشاعر التي قد تعطل الوصول إلى القرار السليم.
+راجع: محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots)...، مرجع سابق، ص 19.-58 ليث
+أثير يوسف، مرجع سابق، ص 1.-14 ناصر شبكة، مرجع سابق، ص 19.-33
+Ph. Veber, Robotique et Responsabilité: le choix de l'illusion ou du pragmatisme ?
+124
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 19 ---
+أ. د. محمد عرفان الخطيب
+عليه، يمكن القول إن فكرة منح الشخصية عموماً والقانونية خصوصاً، وإن كانت
+حاضرة اليوم في العديد من الكتابات الفقهية، إلا أنه لا علاقة لها بالمسؤولية؛ كون
+الأخيرة ترتبط بالإدراك الواعي والعاقل لشرعية الفعل من عدمه، الأمر غير المتحقق
+في الذكاء الاصطناعي، ما يجعل إمكانية مساءلته عن فعله الشخصي أمرا غير متحقق،
+ويطرح السؤال عن إمكانية تطبيق قواعد المسؤولية المدنية الموضوعية على هذا الذكاء.
+Décideurs, n° 163, 2014, p. 20. N. Nevejans, Responsabilité des robots: appliquons
+nos règles de droit! Le point.fr [En ligne], 11 avril 2017. O. Siary, Quelle responsabilité
+juridique pour les robots? Village de la justice [En ligne], 26 janvier 2017.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+125
+
+--- Page 20 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+المطلب الثاني
+الذكاء الاصطناعي والمسؤولية المدنية القائمة على الاعتبار الموضوعي
+إن إمكانية تطبيق قواعد المسؤولية المدنية الموضوعية على الذكاء الاصطناعي، تقتضي
+البحث في صحة اعتباره شيئا تنطبق عليه قواعد المسؤولية الشيئية، أو مُنتجا تنطبق
+عليه قواعد المسؤولية الناجمة عن المنتجات المعيبة، إضافة لإمكانية تحقق قواعد الحراسة
+القانونية الموجبة للمسؤولية على هذا الذكاء، من عدمه.
+أولاً- الذكاء الاصطناعي بين مفهومي «الشيء» و«المنتج»
+الذكاء الاصطناعي بمفهومه المعنوي الصرف، وبحامله المادي المحسوس والمتحرك، هل
+يمكن اعتباره بحكم الشيء، أم بحكم المنتج؟ أم أن أياً من مواصفات أي منهما لا تنطبق
+عليه؛ كونه أعلى من الشيء، ودون المنتج؟! إجابة تقتضي التعمق في مفهوم الذكاء
+الاصطناعي في مقابل كل من الشيء من جهة، والمُنَتج من جهة ثانية.
+1. الذكاء الاصطناعي ومفهوم «الشيء»
+إن كان المشرع المدني الفرنسي لم يحدد مفهوم الشيء، إلا أن الفقه (59) والقضاء (60)،
+قد حددا جملة من الشروط الرئيسة لانطباق مفهوم الشيء من عدمه، لاسيما طبيعته
+المادية، غير الحية، والحية غير العاقلة. فهل هذه الاشتراطات تتقاطع مع مفهوم الذكاء
+الاصطناعي. الحقيقة، ورغم عمومية النص القانوني النافذ الذي يقضي بأننا مسؤولون
+عن الأشياء التي تقع تحت حراستنا (61)، إلا أنه وكما سبق وبينا، أن هذا «الشيء»
+فقها وقضاءً ذو مفهوم مادي محسوس وملموس، من مقتضيات العالم الواقعي لا
+(59) C. Grimaldi, Droit des biens, LGDJ, 2019, n°9, p. 20. F. Zénati, Th. Revet, Les biens,
+PUF, Paris, 2003, n°1. F. Zenati-Castaing et Th. Revet, Les biens, 3e ed., PUF, Paris,
+2008, p. 15s. Ch. Atias, Droit civil, Les biens, LexisNexis, 2015, n°36, p. 21s. R.
+Libchaber, La recodification du droit des biens, In Le Code civil, 1804-2004, Libre
+du Bicenteaire, éd. Dalloz, Paris, 2004, n°22.
+(60) Cour de Cassation, Arrêt Teffaine 16 juin 1896 et Arrêt Jand'heur de 1930. Planiol et
+Ripert, Traité de droit civil français, Tome VI, 1952, p. 853 à 885. Esmein. H. Capi-
+tant, F. Terré, Y. Lequette et F. Chénedé, Les grands arrêts de la jurisprudence civile,
+T. I. Introduction, personnes, famille, biens, régimes matrimoniaux, successions. T.
+I1. Obligations, contrats spéciaux, sûretés, 13eme éd, Éd Dalloz, Paris, 2015, p. 355s.
+(61) Art. (1242 al. 1). Nouveau C.C.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+126
+
+--- Page 21 ---
+أ. د. محمد عرفان الخطيب
+الافتراضي (62)، وإن كان بعض الفقه يميل لتطبيقه على الأشياء المعنوية(63) .
+هذا الجدل بين البعدين المادي والمعنوي للشيء، حسمه مشروع القانون المعدل لأحكام
+المسؤولية المدنية الذي قضى بصريح النص بطبيعته المادية، مؤكدا بأننا مسؤولون
+قانونا عن الأضرار الناجمة عن الأشياء المادية التي تحت حراستنا (64).
+بالعودة إلى مفهوم الذكاء الاصطناعي بأصله الإنشائي كجملة من البرمجيات المحاكية
+للذكاء البشري وربما المتفوقة عليه(65)، فنحن نتكلم عن إبداع فكري بشري يدخل في
+إطار حقوق الملكية الفكرية المتعلقة بالجانب الأدبي
+(62) S. Vanuxem, Pour une approche mésologique de la notion de chose en droit. S -
+minaire mésologique, [En ligne], 12 Avril 2013. S. Guinchard, Th. Debard, Lexique
+des termes juridiques, 2013, Dalloz. D. Gutmann, Du matériel à l'immatériel dans le
+droit des biens, Les ressources du langage juridique, APD, 1999, T. 43, Pp. 65-78.
+G. Loiseau, Pour un droit des choses, Recueil Dalloz. 2006, n° 44, p. 3015.
+(63) A. Lucas, La responsabilité civile du fait des choses immatérielles, In Le droit pr -
+vé français à la fin du XXe siècle : études offertes à P. Catala, Litec, Paris, 2001,
+Pp. 817-826.
+(64) Art. (1243), PLRRC Urvoas 2017.
+(65) رغم كل ما يقال عن التطورات الهائلة في مفهوم الذكاء الاصطناعي، مازلنا بعيدين عن فكرة الذكاء
+«Strong artificial intelligence» الاصطناعي الحقيقي أو ما يعرف بالذكاء الاصطناعي القوي
+الذي يجاري أو يجاوز حدود الذكاء البشري، وإنما نحن فيما يعرف بالذكاء الاصطناعي المحدود
+أو الضعيف «Artificial intelligence weak» ، المعتمد على الذكاء الإنساني، وإن بنسب ومعايير
+مختلفة، والمرتبط بظاهرتي التعلم والاكتساب، اللتين تتمان وفق أشكال ثلاثة: التعلم بالممارسة
+وفق مفهوم المكافأة، حيث تطرح قضايا معينة، ي danasr naoin
+الإجابة الصحيحة، تكافئ الآلة، أو يوحى لها بأن هذه هي الإجابة الصحيحة، كتدريب الحيوانات في
+السيرك. التعلم الموجه «L'apprentissage supervisé) حيث تزود الآلات بكميات هائلة من البيانات
+والمعطيات حول الموضوعات التي نود اختبارها فيها، ويترك لها حرية تقديم الإجابة الأمثل وفق
+معادلة خوارزمية محددة هي التي تتحكم بطريقة تفكيرها ووصولها للنتائج، كتحديد مفهوم المركبة
+وقيادتها، ومن أمثلته:
+La Siri d' Apple et Cortana en Windows et les GPS en Google.
+وأخيراً التعليم غير الموجه «Lapprentissage non supervisé»، ويتناول التعليم على اكتساب
+المهارات المقررة للإنسان، ضمن مفهوم التنبؤ بالتصرف دون القدرة على التحكم بالنتائج، كما في
+تربية الأولاد أو الحيوانات.
+T. Lebrun, L'apprentissage machine est une appropriation, Les Cahiers de propriété
+intellectuelle., n° 3, Vo. 30, n° spec, op, cit, Pp. 897-926. J. Burrell, How the machine
+'thinks': Understanding opacity in machine learning algorithms', Big Data & Society
+3 (1): 2016, Pp. 1-12
+(66) C. Aubin. Intelligence artificielle et brevets, Les Cahiers de propriété intellectuelle.,
+op., cit., Pp. 949-986.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+127
+
+--- Page 22 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+كنه الذكاء الاصطناعي بين الحق والشيء باعتباره من الحقوق الشخصية ذات القيمة
+المالية، ما دفع جانبا كبيرا من الفقه، وهو محق(67)، إلى انتقاد أي ربط للذكاء الاصطناعي
+بالمفهوم الشيئي، مؤكدين أنه برمجية رقمية قادرة على التعلم واكتساب المهارات، ومن
+ثم التصرف باستقلالية، ترتبط بالعالم الافتراضي لا الواقعي.
+بالمقابل وفيما يتعلق بمفهوم: «عدم الحياة» في توصيف الشيء، فمن غير الخافي أن
+هذا التوصيف هو المرادف لصفة الجمود، وعدم القدرة على التحرك المستقل أو على
+الأقل غير المتوقع بشكل كامل(68). هنا، إن كان ينطبق مفهوم الشيء غير الحي على الذكاء
+الاصطناعي، باعتباره مفهوماً مرتبطاً بالحياة البشرية أو الحيوانية، فإن مفهوم الجمود
+وعدم القدرة على التحرك، لا ينطبق على الذكاء الاصطناعي؛ ذلك أن الآلية التي يعمل
+بها حامل الذكاء الاصطناعي، لاسيما الروبوتات أو الإنسآلة ((Robots» تجعله يخرج عن
+إطار الجمود إلى الحركة، بما فيها السيارات ذاتية القيادة «69) (Robotic Car) والطائرات
+المسيرة (70)(Drones)، الأمر الذي يجعل من الضرورة بمكان التمييز بين الآلة ذات
+(67) M. Soulez, Propriété intellectuelle - Le droit de la propriété intellectuelle à l'épreuve
+des technologies robotiques. 2016, JCP G, p. 972. M. Soulez, Questions juridi-
+ques au sujet de l'intelligence artificielle, Enjeux numériques., n°l mars 2018.
+J. Larrieu, Robot et propriété intellectuelle, Dalloz, Paris, 2016, IP/IT, p. 291.
+E. Lavallée, La propriété intellectuelle de l'intelligence artificielle, Le Droit de
+savoir, septembre 2017, [En ligne].
+(68) A. Tunc, Garde du comportement et garde de la structure dans la responsabilité
+du fait des choses inanimées, JCP 1957. I., p. 1384. A. Tunc, La détermination
+du gardien dans la responsabilité du fait des choses inanimées: JCP 1960, I, p.
+.1592
+(69) تقليديا المركبة شيء ومن يقودها إنسان، لكن أن تكون المركبة شيء تقاد ضمن مفهوم الذكاء
+الاصطناعي، ذلك شيء يطرح السؤال حول تكييف هذه المركبة. وبالتالي تبرز مسألة هذا الشيء الذي
+يقوده «شيء»، فنحن أمام شيء مؤكد المفهوم في القانون «المركبة»، يقاد من قبل عنصر غير محدد
+المفهوم في القانون «الذكاء الاصطناعي»، ما أوجد لنا مركزا قانونيا لهذا لشيء خارج إطار التحديد
+والمفهوم القانوني. بالتالي نحن نتحدث عن كائن «شيئي» فريد، يخرج من مفهوم الشيء المألوف إلى
+مفهوم الشيء غير المألوف.
+M. Swan, Connected Car: quantified self becomes quantified car, Journal of
+Sensor and Actuator Networks 4(1) 2015, Pp. 2-29. F. Girardin et J. Blat, The
+co-evolution of taxi drivers and their in-car navigation systems, Pervasive and
+Mobile Computing. 6(4): 2010, Pp. 424-434.
+(70) S. Hogan, "The Drone Revolution: How Robotic Aviation Will Change the
+World," CreateSpace, 2015. A. Leal, J. Bouchet, et autres, Conception de l'inte-
+raction homme-machine et partage d'autorité: application aux systèmes de dro-
+nes. In 21st International Conférence on Association Francophone d'Interaction
+Homme-Machine, Octobre 13-16, 2009. Grenoble, France, Pp. 283-290.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+128
+
+--- Page 23 ---
+أ. د. محمد عرفان الخطيب
+الطبيعة الإجرائية الصرفة «الآلة الأتوماتيكية» والآلة ذات الطبيعية التنفيذية المستقلة
+((الآلة الذكية»، أي التمييز بين مفهوم المكننة ((Automate» والاستقلالية «Autonomie».
+إن المسؤولية المستندة إلى العمل الآلي لا تثير إي إشكاليات قانونية تذكر، فنصوص
+القانون المدني الحالي كافية للإحاطة بمختلف جوانبها، لكن الإشكالية تبرز في قضية
+الاستقلالية التي يتمتع بها هذا الذكاء، ذلك أن هذه الاستقلالية مهما قلت أو اتسعت
+مساحتها، إنما تضع قواعد المسؤولية المدنية الحالية موضع نظر، في مدى قدرتها على
+تحديد المسؤول عن الضرر وتحقق رقابته من عدمها (71)، وبالتالي التمكين من التعويض
+عنه (72) .
+وهنا نشير، إلى أن المفهوم الحركي غير الحي للذكاء الاصطناعي لا يقربه من الطبيعة
+الشيئية للحيوان، نظرا للاعتبارات الخاصة للحيوان، لاسيما في ضوء كيانه المادي لا
+الافتراضي بخلاف الذكاء الاصطناعي، ناهيك عن كون الحيوان، هو شيء حي بينم
+الذكاء الاصطناعي هو شيء غير حي وإن كان غير جامد، غير أن نقطة التمايز الجوهري
+بينهما تكمن في مفهوم الذكاء بذاته، الذي يتمتع به الذكاء الاصطناعي على حساب
+الحيوان(73)، وإن كان مفهوم الذكاء المنسوب للذكاء الاصطناعي موضع نظر بالنسبة
+للكثيرين الذين يرون أنه ذكاء تراكمي لا عقلي(74)، بمعنى أنه يقوم على المنطق الرياضي
+لا المنطق الفلسفي، ما يجعل منه مخزونا معرفيا أكثر منه ذكاءً إنسانياً، حيث يعبر عن
+الذكاء الاصطناعي بالقدرة على التعلم وحل المسائل وفهم البديهيات والتفاعل مع المحيط
+المجتمعي بطريقة منطقية.
+في حين أن الذكاء موضوعاً وفلسفةً لا يرتبط بحجم المعارف أو المهارات التي يمتلكها
+الشخص، دون أن ننفي أنها - كما المخزون المعرفي - تساعد على زيادة فاعلية الذكاء
+(71) راجع الفقرة المعنونة: «الذكاء الاصطناعي والتحلل من الحراسة» من هذا البحث.
+(72) U. Pagallo, What Robots Want: Autonomous Machines, Codes and New
+Frontiers of Legal Responsibility. Human Law and Computer Law: Comparati-
+ves perspectives, Dordrecht, Springer, 2013, Pp. 47-65. A. Smith, Responsibility
+for Attitudes: Activity and Passivity in Mental Life, Ethics, vol. 115, n° 2, 2005,
+Pp. 236-271.
+(73) Est un produit tout bien meuble, même s'il est incorporé dans un immeuble, y
+compris les produits du sol, de l'élevage, de la chasse et de la pêche. L'électricité
+est considérée comme un produit. Art. (1245-2). "Code civil 2017" J. Ghestin,
+Le nouveau titre IV bis du Livre III du Code civil. JCP, 1998, 1, p. 148.
+(74) ليث أثير يوسف، مرجع سابق، ص. 1.-14 ناصر شبكة، مرجع سابق، ص 19.-33
+A. Fisher, The logic of real arguments, 2"d edition, Cambridge University Press,
+UK, P.149.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+129
+
+--- Page 24 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+وتطويره، فالتخزين المعرفي شيء والذكاء شيء آخر منفصل عنه(75). فالتخزين المعرفي
+المفتقر للذكاء لا يفضي إلا إلى عملية تراكمية من المعارف التي لا يمكن وصف حاملها
+بالذكاء، كما لو كانت موسوعة الكون ونشآته محملة في مكتبة عملاقة، أو موضوعة
+في قرص صلب ذي طاقة تخزينية ضخمة. موقف نتفق معه، دون أن يلغي ذلك حقيقة
+وأهمية هذا الاعتبار في الاختلاف بين مفهوم الحيوان والذكاء الاصطناعي، لاسيما في
+ضوء تصرفات هذا الأخير الممكن التكهن بها وتأطيرها أكثر منها تلك المتعلقة بالحيوان.
+عليه، وخلاصة لما سبق، يمكن القول إن التحليل والتفكير المتأني بهذا الكائن الجديد «الفريد»
+المتعدد المهارات (76)، يجعل من اعتباره، في ضوء أحكام هذه المسؤولية، بحكم الشيء أمراً
+فيه نظر، فجميع سمات الشيء العامة لجهة الطبيعة المادية، الجامدة غير الحية، لا يمكن
+إطلاقها على الذكاء الاصطناعي، كما أنَّ سمة الانقياد الأعمى المنعدم التفكير، لا توجد
+لديه كذلك، ما يجعله أيضًا بعيدًا عن فكرة الحيوان، ما يطرح السؤال عن إمكانية اعتباره
+مُنَتجاً، وبالتالي تطبيق قواعد المسؤولية المدنية عن المنتجات المعيبة عليه.
+2. الذكاء الاصطناعي ومفهوم «المنتج»
+وفق التعريف القانوني، المثَّتج يتناول جميع الأشياء المنقولة دون تحديد لطبيعتها
+المادية أو المعنوية(77)، وفق هذا التوصيف الأولي يمكن القول مبدئياً بانطباقه على الذكاء
+الاصطناعي ببعديه المعنوي الخالص أو المادي وفقا لحامله. لكن هل هذا الاستنتاج
+صحيح بالمطلق؟! يذهب جانب من الفقه الذي نؤيده، للقول بخلافه(78)، معتبرين أن
+مفهوم المنتج ينطبق من حيث الأصل على مفهوم الشيء المعنوي أو المادي، لكن وفق
+التوصيف القانوني للشيء، وضمن حالات من المسؤولية عنه لم تغطها أحكام النصوص
+القانونية السابقة للمسؤولية المدنية بشكل عام. ولما كان الذكاء الاصطناعي يخرج عن
+(75) A-Y Portnoff, et J-F. Soupizet. Intelligence artificielle: opportunités et risques,
+Futuribles, vol. 426, n° 5, 2018, Pp. 5-26
+(76) S. Canselier, Les intelligences non-humaines et le droit. Observations à partir de
+l'intelligence animale et de l'intelligence artificielle, Archives de philosophie du
+droit, n° 55, 2012, p. 207.
+محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...، مرجع سابق، ص 19.-58
+(77) Est un produit tout bien meuble, même s'il est incorporé dans un immeuble, y
+compris les produits du sol, de l'élevage, de la chasse et de la pêche. L'électricité
+est considérée comme un produit. Art. (1245-2). "Code civil 2017". D. Mainguy,
+Réflexions sur la notion de produit en droit des affaires, RTD Com. 1999 p. 47.
+(78) M. Gemignani, Product liability and software, Rutgers Computer & Technology
+Law Journal, vol. 8 (2), 1981, Pp. 173s. M. Gestner, Liability issues with artificial
+intelligence software, Santa Clara Law Review, vol. 33, n° 1, 1993, Pp. 239-265.
+130
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 25 ---
+أ. د. محمد عرفان الخطيب
+مفهوم الشيء كما سبق بيانه، نظراً لطبيعته المعنوية والحركية ذات الاستقلالية، فإنه لا
+يمكن اعتباره مُنَتجا تنطبق عليه أحكام هذه المسؤولية.
+في موقف أقل تشدداً، يرى آخرون أنه إن كان اعتبار الحامل المادي للذكاء الاصطناعي
+مُنتجا لا يثير كثير إشكال، فإن الأمر يوجب بعض التفصيل في بعده المعنوي الخالص،
+المنسوب للذكاء ذاته لا للبشر (79). فالذكاء الاصطناعي بنسبته للبشر يعتبر مُنَتجاً فكرياً
+معنويا يرتبط بحق المؤلف، يمكن مع التحفظ، اعتباره مُنَتجاً. لكن هل يمكن تطبيق
+نصوص هذه المسؤولية على المُنتج الرقمي الخالص، فيما بات يعرف ب: حقوق الملكية
+الفكرية الرقمية الخالصة(80)، حينما تبدع الآلة بذاتها لوحة فنية أو تكتب نصاً سينمائياً
+ما (81)، ذلك سؤالٌ آخر .
+يرى هؤلاء أن الخدمة التي يقدمها المُنتج في ضوء الذكاء الاصطناعي هي مُنَتج جديد،
+غير منظمة في نصوص القانون(82)، كما يرون أن الذكاء الاصطناعي ببعده المعنوي
+الخالص لا يمكن أن يعتبر مُنتجاً، إلا في حال تجسيده في حامل مادي ملموس، ما يجعل
+(79) J. Larrieu, Les robots et la propriété intellectuelle, Propriété industrielle., n°2, 2013.
+A. Lebois, Quelle protection juridique pour 36 les créations des robots journalistes?
+Communication Commerce Electronique., n° 1, 2015. G. Loiseau., A. Bonnet, La
+responsabilité du fait de l'intelligence artificielle, op, cit., p. 36.
+(80) Droits de propriété intellectuelle de l'intelligence artificielle.
+(81) يمكن أنْ نشير هنا إلى الإنسالة إي دفيد «E-David»، المطور من قبل مجموعة الباحثين الألمان، المتمثل
+بذراع كرتونية تعمل من خلال مجموعة معادلات لوغاريتمية وكاميرا، وعبر عملية الاسترجاع
+البصري برسم لوحات منفصلة عن اللوحات التي يتم تزويدها بها، فاصلا نفسه عن البرمجة البشرية
+في ابتكار إبداعاته التصويرية الخاصة به.
+E-David, le robot qui a une vraie fibre artistique, Développé par des chercheurs
+de l'Université allemande de Konstanz, et une intelligence artificielle. https://
+humanoides.fr/e-david-le-robot-qui-a-une-vraie-fibre-artistique/
+كما يمكن الإشارة إلى فيلم بنجامين «Benjamin)) الذي اشترك في مسابقة الأفلام السينمائية الأمريكية
+لعام 2016، والذي تمت كتابته بالمطلق وفق عملية الذكاء الاصطناي Ma R r al
+قام الجهاز بوضع أول سيناريو لفيلم سينمائي مدته ست دقائق.
+«Benjamin», Intelligence artificielle, Un film créé par un chercheur spécialisé dans
+l'intelligence artificielle, Ross Goodwin, et le réalisateur Oscar Sharp. https://www.
+slate.fr/story/119343/robot-scenario-film.
+محمد عرفان الخطيب، ضمانات الحق في العصر الرقمي، «من تبدل المفهوم .... لتبدل الحماية»، مرجع
+سابق، ص 251.-324
+(82) محرك البحث هو المُنتج، وعملية البحث هي الخدمة الجديدة التي يقدمها المُنتج. ونعتقد أن هذا التفصيل
+مبالغ فيه، يخدم التأسيس للتحلل من المسؤولية كما سنرى لاحقا.
+A. Strowel, Quand Google défie le droit, Plaidoyer pour un Internet transparent et de
+qualité, De boeck & larcieréd. 2010.
+131
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 26 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+المنَتج ذا طبيعة مادية لا معنوية (83)، الأمر الذي نعتقد أن فيه نظر، وبحاجة لتحليل أكثر
+دقة، فمما لا شك فيه أن شراء برمجية ذكية معينة مع حاملها المتحرك (Robots» أو
+الساكن («CD))، إنما يحقق الفرضية السابقة.
+لكن من المتصور كذلك، شراء هذه البرمجية دون حاملها، عبر الشراء المباشر لها، بالتالي
+هنا نحن نتحدث عن توصيف معنوي صرف للذكاء الاصطناعي، بعيدا عن الحامل المادي
+المقرر له. لكن، وهو ما نعتقد أنه يصوب هذا الخلط بين الذكاء الاصطناعي وحامله أنه لا
+يمكن بأي حال من الأحوال وضع الذكاء الاصطناعي موضع التطبيق الفعلي الذي هو
+أحد اشتراطات المُنَتج، إلا في حال إمكانية استخدمه عبر حامل مادي معين (84).
+يُضاف إلى ذلك، أن هذه المسؤولية تقوم على مفهوم العيب «Défaut»، المتمثل بعدم قدرة
+المنتج على تقديم الأمان (السلامة) «Sécurité» الذي يمكن توقعه منه بشكل مشروع
+(85) ،
+ما يجعل مفهوم العيب الموجب للمسؤولية، أضيق من مفهوم العيب الموجب للمسؤولية
+في النظرية العامة للمسؤولية المدنية(80)؛ كونه لا يشمل مختلف أشكال العيب الموجب
+(83) 1. Lutte, La responsabilité du fait des produits de la technologie, In Responsabilités:
+traité théorique et pratique. Titre III. La responsabilité du fait des choses, Bruxelles,
+Kluwer, 2004, Livre 33.
+(84) ما يعيدنا لذات الفكرة وهي انفصال الذكاء الاصطناعي عن حامله، علما بأن حامل الذكاء الاصطناعي
+قد يكون الإنسان، حينما يمكن تنزيل برمجيات الذكاء الاصطناعي عليه، بذات المنهجية التي تحمل فيها
+البرمجيات على الحاسب ضمن ما يعرف بالغيمة الرقمية. علما بأن هناك من يحاول إسقاط ذات الفكرة
+في حال نقل هذه البرمجيات للإنسان في ضوء ما يعرف بالتحول الإنساني، موقف لا نتفق معه حتى
+حينه؛ ذلك أن مختلف هذه البرمجيات إنما تدخل للإنسان مع الشرائح المحملة عليها، وبالتالي الحامل
+المادي موجود.
+P. Lemyre, Les logiciels libres sous l'angle de la responsabilité civile, Mémoi-
+re, Montréal, 2002, Pp. 51-52. X. Labbée, L'homme augmenté, Recueil Dalloz,
+Paris, 2012, p.23.
+(85) Art. (1245-3 al. 1), Nouveau C.C.
+(86) Ch. Garin, L'application des règles relatives à la responsabilité du fait des produits
+défectueux et à la sécurité générale des produits aux biens matériels, Journal des
+sociétés, 2013, p. 16. Y. Ninane, J. Van Zuylen, Le vice dont répond le gardien ou
+propriétaire sur le fondement des articles 1384, alinéa ler et 1386 du Code civil. In
+Les défauts de la chose : responsabilités contractuelles et extracontractuelles, Limal,
+Anthemis, 2015, Pp. 225-293.
+حسن عبد الباسط جميعي، مسؤولية المُنتج عن الأضرار التي تسببها منتجاته المعيبة : دراسة مقارنة،
+دار النهضة العربية، القاهرة، 2000، ص 184. حسين الماحي، المسؤولية الناشئة عن المنتجات المعيبة
+في ضوء أحكام التوجيه الأوروبي الصادر في 25 يوليو 1985، دار النهضة العربية، القاهرة، 1988،
+ص 54. فتحي عبد الرحيم عبد الله، دراسات في المسؤولية التقصيرية - نحو مسؤولية موضوعية،
+منشأة المعارف، الإسكندرية، 2005، ص 185.
+132
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 27 ---
+أ. د. محمد عرفان الخطيب
+للمسؤولية، وإنما يتعلق بافتقاد المنتج هامش الأمن والسلامة المتوقعين منه، مؤطراً إياه
+بمفهوم العيب الصناعي أو التقني ((8)، مع صعوبة هذا الإثبات أو حتى استحالته حينما
+يرتبط العيب في الذكاء الاصطناعي بمفهومه المعنوي البرمجي، لاسيما ما يرتبط بقدرة
+المُنِتج على التمسك بحالة المعرفة العلمية والتقنية، في الوقت الذي وضع فيه المُنَتج في
+التداول، الذي لم يمكن من الكشف عن وجود هذا العيب
+عليه، إن كان من الممكن القول بأن تعريف المنتج قد يساعد في اعتبار الذكاء الاصطناعي
+مُنَتجاَ، فإن روح وفلسفة النصوص القانونية التي تتناول أحكام هذه المسؤولية تجعل
+من الواجب التعامل مع هذه النتيجة بكثير من الحيطة والحذر
+(89) ، بما يضمن عدم فقدان
+جانب التنافسية القانونية والاقتصادية للقانون المدني الفرنسي في المنظومة القانونية
+الغربية عموماً والأوروبية خصوصاً (90)، فنحن نتحدث عن مُنَتج شيئي فريد يبتعد عن
+مواصفات المُنتج الشيئي التقليدي.
+ثانياً- الذكاء الاصطناعي وقواعد الحراسة
+تطبيق قواعد الحراسة على الذكاء الاصطناعي يقتضي بالضرورة البحث في تحديد
+مفهوم الحارس في الذكاء الاصطناعي، قبل الحديث عن قواعد التحلل من هذه
+الحراسة.
+1. مفهوم «الحارس» في الذكاء الاصطناعي
+يختلف مفهوم الحارس في الذكاء الاصطناعي، بين ما يمكن تسميته بالحارس الرقمي
+للذكاء الاصطناعي
+ي (01)، الذي يدافع عنه أنصار نظرية الشخصية القانونية للذكاء
+(87) V. Berg, La notion de risque de développement en matière de responsabilité du fait
+des produits défectueux, JCP 1996. I. p. 3945. G. Raymond, Premières vues sur la loi
+n° 98-389 du 19 mai 1988 relative à la responsabilité du fait des produits défectueux,
+Contrats, conc. Consom., 1988, chron., p. 7.
+(88) Art. (1245-10 n. 4), Nouveau C.C.
+(89) Livre vert de la Commission européenne, sur la responsabilité civile du fait des
+produits défectueux. (COM [1999] 396 final - document E 1296)., p. 22. J. Ghestin,
+Le nouveau titre IV bis du Livre III du Code civil., op, cit., p. 148.
+(90) Cour d' Appel de Paris, La réforme du droit français de la responsabilité civile et les
+relations économiques. Rapport du groupe de travail. Université de Versailles. Avril
+2019, p. 107s.
+(91) Garde numérique d'intelligence artificielle.
+133
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 28 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+الاصطناعي 20، والحارس التقليدي للذكاء الاصطناعي (د الذي يراه أنصار النظرية
+(94) .
+التقليدية للحراسة، ممكن التطبيق على الذكاء الاصطناعي
+فالمنادون بفكرة الشخصية القانونية المستقلة للذكاء الاصطناعي المؤسسة لفكرة
+مسؤوليته القانونية، يرفضون بالمطلق فكرة الحارس التقليدي وينادون بفكرة الحارس
+Agent artifici)()أما ا ع ا
+الافتراضي لهذا الذكاء المتمثل بمحرك الذكاء
+الذكاء الاصطناعي ذاته، بين الذكاء الاصطناعي «Intelligence artificielle»، كخوارزمية
+برمجية متكاملة، وبين محرك الذكاء «Agent artificiel»، المسؤول عن عمل الذكاء
+الاصطناعي بوصفه العقل المتخذ للقرار الذي يقوم به الجسد المتمثل في الهيكل المادي
+الذي يَبرز فيه هذا الذكاء (96). وبالتالي هو حارس هذا الجسد المادي المتمثل بالمفهوم
+الشيئي، باعتباره ضمن الروبوتات، هو من يعطي الأمر، ما يجعله مسؤولاً عن الجانب
+التطبيقي والتنفيذي للذكاء الاصطناعي على أرض الواقع
+تحليل لا نتفق معه، لا لكونه توصيفاً قانونياً جديداً لمفهوم الحارس، يخالف النظرية التقليدية
+في مفهوم الحارس التي تقوم على التمييز بين حارس الهيكل وحارس الاستعمال(98)، أو
+لكونه غير موجود بالمطلق ضمن نصوص القانون المدني، ولما يحز حتى حينه الإجماع
+(92) N. El Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle., op, cit,
+p. 25. G. Loiseau., A. Bonnet, La responsabilité du fait de l'intelligence artificielle,
+op, cit., P. 9.
+(93) Le gardien traditionnel de l'intelligence artificielle.
+(94) N. El Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle., op, cit.,
+P. 39. G. Loiseau., A. Bonnet, La responsabilité du fait de l'intelligence artificielle,
+op, cit., p. 19. Ch. Troi, Le droit à l'épreuve de l'intelligence artificielle, Droit, 2017,
+P. 40.
+(95) L. Chartrand, Agencéité et responsabilité des agents artificiels, Éthique publique [En
+ligne], vol. 19, n° 2, 2017.
+(96) C. Castelfranchi, et R. Falcone, From automaticity to autonomy: The frontier
+of artificial agents, In H. Hexmoor, C. Castelfranchi et R. Falcone (eds.), Agent
+Autonomy, Kluwer, 2003. Pp. 103-136
+(97) هذا التحليل يقرب محرك الذكاء («Agent artificiel» لمفهوم الخلايا العصبونية المسؤولة عن عمل
+الدماغ البشري، الذي يمكن إسقاط الذكاء الاصطناعي عليه باعتباره من يمتلك القدرة التحليلية
+والتنبئوية للذكاء الاصطناعي الخالصة والخاصة به، عبر تحليل مختلف البيانات التي تدخل إليه ومن
+ثم اتخاذ القرار المناسب بشأنها.
+M. Zalnieriute, et al., The Rule of Law and Automation of Government Deci-
+sion-Making, Modern Law Review 82. 2019, Pp. 397-424.
+(98) B. Goldman, Garde de la structure et garde du comportement, Melanges P. Roubier,
+Dalloz 1961, Tome II, p. 51. B. Goldman, La détermination du gardien du fait des
+choses inanimées, th., Paris, 1946.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+134
+
+--- Page 29 ---
+أ. د. محمد عرفان الخطيب
+الفقهي، وإنما لكونه يقوم على الخلط بين مفهوم الوعي أو الإدراك الاصطناعي ومفهوم
+الاستقلالية التي يتمتع بها محرك الذكاء ((Agent artificiel»، كون القدرة على اتخاذ
+القرارات من بين الخيارات المتعددة المتاحة أمامه، إنما تتم وفق عملية خوارزمية محددة، تتيح
+التعامل مع الظروف المستجدة وفق ما يمكن وصفه ب: ((الآليات الاستدلالية» («Mécanismes
+بعيداً عن الاعتبارات القيمية للمجتمع، أما عن التوقع أو عدم المتوتي(si d sile "
+ليس له علاقة بالمنظور الحسابي المجرد، وهو بذلك قد يكون مختلفاً عن المحاكمة الإنسانية
+في تقدير جسامة الضرر أو حتى المفاضلة بين الضرر
+(99)
+ولذلك، نعتقد لصحة البناء الفقهي لهذا الطرح الذي يمكن أن يؤسس لتبنَّ تشريعي
+مستقبلي، يجب أن يتوافر لمحرك الذكاء «Agent artificiel))، إضافةً للذكاء الحسابي،
+البديهة والقدرة على التكييف، القادر على إدراك قيم المجتمع الاقتصادية والثقافية
+والاجتماعية، ومعرفة الأوليات الاجتماعية الخاصة بذلك (100)
+كذلك، هذا المفهوم «المعنوي» الذي قد يحدث ضرراً مادياً كما قد يحدث ضرراً معنوياً،
+يطرح على مفهوم الحراسة سؤالا حول مدى تحقق مساءلة «الحارس المعنوي» عن
+الضرر المادي أو المعنوي
+ي (101). فمن المعلوم أن الضرر المعنوي أو المادي إنما ينسب إلى
+شيء مادي محدد مكانيا، هو الإنسان بمفهومه الطبيعي أو الاعتباري
+. ونعني
+هنا مكانيا أن مسبب الضرر مرئي إما بوجوده المادي الإنسان، أو وجوده الاعتباري
+الشخص الاعتباري
+الاصطناعي فهو إنما ينسب إلى شيء معنوي غير مادي
+(104) .
+(99) كما لو أن تفادي حادث ما، لا يتم إلا من خلال التورط بحادث أقل ضرراً، كتفادي الاصطدام بباص
+مدرسي بالاصطدام بمحل تجاري، أو سيارة عابرة.
+(100) الأمر قد يكون ممكنا مستقبلا في قضية تعليم الآلة التعامل مع مفهوم المخاطر المتعددة، واتخاذ
+الخيارات الأمثل في هذه الفرضيات، لكنه حتى حينه، غير قائم حقيقة وفعلا.
+(101) N. EL Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle.,
+op., cit., p. 25. G. Loiseau., A. Bonnet, La responsabilité du fait de l'intelligence
+artificielle, op., cit., P. 9.
+(102) Le préjudice, colloque du CREDO, numéro spécial de la revue Responsabilité et
+assurance. 1997.
+(103) A. Besson, La notion de garde dans la responsabilité du fait des choses : thèse,
+Dijon, 1927. D. Mayer, La « garde » en commun, RTD civ., 1975, p. 197.
+مصطفى العوجي، القانون المدني: الجزء الثاني - المسؤولية المدنية، مؤسسة بحسون للنشر،
+بيروت، 1996 ص 545.
+(104) C. Coulon, Du robot en droit de la responsabilité civile : à propos des dommages
+causés par les choses intelligentes. Responsabilité civile et assurance, n° 4, avril
+2016, étude 6, Pp. 17-21.
+محمد عرفان الخطيب، المركز القانوني للإنساكة (Robots) ...، مرجع سابق، ص 19.-58
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+135
+
+--- Page 30 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+إضافةً لما سبق، هذا التوجه يثير إشكاليةً أخرى تتعلق بتحديد المحكمة المختصة في النظر
+في النزاع المفترض. فمن المعلوم أن المتضرر له الحق في رفع دعواه إما أمام محكمة
+موطن المدعى عليه، أو لدى محكمة مكان وقوع الضرر أو مكان صدور الفعل الضار
+فما هي محكمة موطن المدعى عليه؟! فالذكاء الاصطناعي الذي يعمل في بيئة رقمية غير
+مادية، لا يمكن القول بوجود موطن له، ناهيك عن أنه غير معترف له بالشخصية القانونية
+للبحث في موطنه، إلا إن كان موطنه هو مكان حصول الضرر، وفي هذه الحالة ستكون
+العبرة في مكان وقوع الضرر لا موطن المدعى عليه. كذلك، لا يمكن القول بأن المحكمة
+المختصة هي المحكمة التي يقع في دائرتها الفعل الموجب للضرر، ذلك أن هذا الفعل في
+ضوء طبيعته الرقمية غير المحسوسة، سيكون تحديد موطن له أمراً في غاية التعقيد.
+«Garde numérique virtuelle» كل ما سبق جعل فكرة الحارس الرقمي الافتراضي
+فكرةً غير قابلة للتحقق على الذكاء الاصطناعي، معيداً التركيز على مفهوم الحارس
+في النظرية التقليدية بوصفه من يملك السيطرة عليه، وهو الأمر الذي أرسى قواعده
+الاجتهاد القضائي
+(100)، وعمل مشروع القانون المعدل لأحكام المسؤولية المدنية على
+تكريسه، مشددا على أن الحارس هو من يملك سلطة الاستعمال، أو الرقابة، أو السيطرة،
+أو إدارة الشيء وقت إحداث الفعل الضار، وبأن المالك هو الحارس المفترض الذي تتوافر
+فيه هذه الصفات (107).
+تحديدٌ رغم أهميته، يبقى بالنسبة إلينا كما للعديد من رجال الفقه الفرنسي، قاصراً في
+الذكاء الاصطناعي
+ي(108) بسبب الكيفية التي سينظر فيها له، ببعديه: المعنوي الصرف
+بمفهوم الذكاء، أم المادي بمفهوم الحامل المادي، الذين يقتضيان تدخل عدد كبير من
+الفاعلين: المبرمج الرقمي، والمصمم المادي، والشركات المصنعة على اختلاف مستوياتها
+وأدوارها، والمشغل والوسطاء والمستخدم وحتى المالك(109). فضمن مفهوم الذكاء
+(105) P. Cerka, J. Grigiene, G. Sirbikyte, Liability for damages caused by artificial
+intelligence, Computer law & security review, vol. 31, 2015, Pp. 376-389.
+محمد عرفان الخطيب، المركز القانوني للإنسالة (Robots) ...، مرجع سابق، ص 19-58
+(106) L'arrêt Franck. Cass. Ch. Réunies, 2 décembre 1941
+(107) Art. (1243), PLRRC Urvoas 2017.
+(108) S. Larriere, Confier le droit à l'intelligence artificielle, le droit dans le mur?
+Lamy Droit de 1'Immatériel. ler février 2017. P. de Filippi, Repenser le droit à
+l'ère numérique: entre la régulation technique et la gouvernance algorithmique. V.
+Gautrais, P.E. Moyse, Droit et Machine, 3, Éditions Thémis, 2017.
+(109) إذاً نظراً للذكاء الاصطناعي في بعده المعنوي الصرف، فنحن نتحدث عن برمجيات وخوارزميات
+يشارك في إعداها مجموعة كبيرة من المتخصصين من مختلف العلوم ذات الطبيعة العلمية
+والإنسانية، فتحويل اللغة الإنسانية للغة خوارزمية لا يمكن أن يكون جهد فرد بذاته، بل هو جهد
+136
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 31 ---
+أ. د. محمد عرفان الخطيب
+الاصطناعي للإنسالة «Robots)»، لتحديد الحارس، يجب التحري عن مصدر الضرر إن
+كان باعتباره آلة، في ضوء الجسم المادي له، من حيث سوء التصنيع أو الخطأ في طريقة
+الاستخدام أو الاستعمال أو الحفظ أو توجيه الأوامر وكل ما يتعلق بدليل الاستخدام، أو
+باعتباره ذكاءً اصطناعيا بوصفه العقل الذي يعمل به الروبوت (Robots»
+(110) .
+كذلك، إن تعريف الحراسة السابق إنما وضع لمفهوم حارس الشيء وفق المواصفات
+والسمات التقليدية لمفهوم الشيء المادي، الجامد غير المتحرك، المتسم ب: «الغباء». صفاتٌ
+جميعها لا تتوافق مع الذكاء الاصطناعي ذي الطبيعة المعنوية الافتراضية، المتحركة
+والمتمتع ب: («الذكاء». كما أن هذا التحديد لمفهوم الشيء، ونظر الرؤيته لمفهوم الشيء الذي
+يمكن القول إنها تستند لنظرة تقليدية بدائية لهذا المفهوم، جعلت مفهوم الحارس من يمتلك
+إحدى هذه السلطات أو من يمتلكها جميعها، المفترض كونه المالك، ما يجعل المسؤول وفق
+مفهوم الحارس أحد هؤلاء أو من يملك جميع هذه السلطات، وبالتالي الأصل أن يكون
+شخصا واحدا، نظرا لطبيعة الحراسة التي ترتبط، بحيازة الشيء الفعلية أو المفترضة،
+وهو الأمر الذي قد لا يتحقق في الذكاء الاصطناعي
+أضف لذلك، إن كان مفهوم الحراسة التقليدي لا يتعارض مع مفهوم الحركة للشيء
+المادي موضوع الحراسة، بحيث إنه يمكن أن يتحقق في حال كونه ساكنا أو متحركا،
+وإن مع اختلاف القرينة الموجبة للمسؤولية بين الأمرين(112)، إلا أنه سيغدو موضع
+مجموعة، تتداخل فيه جمله من العلوم، ما يطرح السؤال عن المسؤول عن التحليل الخاطئ للذكاء
+الاصطناعي لبعض المصطلحات مثلا . هل هو المدقق اللغوي أو من قام بتحويل هذه المصطلحات إلى
+لغة برمجية، أو من استخدم هذه المصطلحات في العملية البرمجية، أما إذا نظرنا له في بعده المادي
+المتمثل بالحامل المادي، كما في الربوتات، فمن الحارس الواجب تحميله المسؤولية، هل هو المصمم،
+أم المصنع، أم المُنتج، أو الموزع أو المستخدم، أم المالك.
+M. Scherer, Regulating artificial intelligence systems: risks, challenges,
+competencies, and strategies, Harvard Journal of Law & Technology, vol. 29, n° 2,
+2016, Pp. 353-400. M. Thomas, Should We Trust Computers? Gresham Lectures:
+London, 20 Octobre 2015. [En ligne].
+(110) إذا ما أردنا أن نمثل هذه القاعدة على الإنسان، فإننا نتحدث عن مسؤولية العقل ومسؤولية الجسد،
+لكن لما كان عقل الإنسان لا ينفصل عن جسده، والأصل مسؤولية الإنسان الشخصية عن أفعاله،
+فهذه القضية الفلسفية لا تثور في نطاق البحث في نطاق مسؤولية الإنسان، فلا انفصال بين
+الملموس «الجسد» وغير الملموس «العقل»، لكن هذه الفرضية تثور وبقوة في نطاق الذكاء الاصطناعي
+كون العبرة في المساءلة هي للذكاء الاصطناعي بذاته، وليس للحامل الذي يختلف.
+(111) راجع الفقرة المعنونة: («الذكاء الاصطناعي والتحلل من الحراسة» من هذا البحث
+(112) S. Retif, Un critère unique de la garde d'une chose: la faculté de prévenir le préjudice
+qu'elle peut causer? Resp. civ. et assur., n 11, 2004, ch. n°24.
+عاطف النقيب، النظرية العامة للمسؤولية الناشئة عن فعل الأشياء، المنشورات الحقوقية صادر، بيروت،
+1999، ص 37.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+137
+
+--- Page 32 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+اختلاف فقهي بتحققه في حال كون هذا «الشيء» المعنوي يتسم بالاستقلالية المستندة
+لذكاء قد لا يكون متحكما به وبنتائجه بشكل كلي، ما سيجعل مفهوم الحراسة التقليدي
+مفهوماً قاصراً عن شمول حراسة الأشياء المعنوية ذات البعد الاستقلالي.
+فنحن أمام مفهومين غير متناظرين، فالاستقلالية التي يتمتع بها محرك الذكاء
+الاصطناعي، تتنافى مع مفهوم الرقابة الذي يتمتع به الحارس والذي تقوم على أساسه
+مسؤوليته المدنية عن عمل هذا الشيء (113)، فطالما أن الشيء له خياراته المستقلة بمعزل
+عن حارسه المفترض، فإن مسؤولية الحارس تكون قائمة ومفترضة في هذه الفرضية،
+لكن هذه المسؤولية تصبح موضع نظر حينما يتمتعٍ هذا الشيء بقدر من الاستقلالية
+باتخاذ القرارات، أو التصرفات، ما يفتح المجال واسعا لفرضيات التحلل من المسؤولية.
+2. الذكاء الاصطناعي والتحلل من الحراسة
+فكرة الاستقلالية في عمل الذكاء الاصطناعي، قسمت الفقه بين منادٍ بتحلل حارس
+الذكاء الاصطناعي من المسؤولية تحللاً كاملاً استناداً لتوصيف عمل الذكاء الاصطناعي
+بالقوة القاهرة، وبين رافضٍ لهذا التوجه(114)، حيث يؤكد بعض الفقه أنه في اللحظة التي
+يُنشأ فيها هذا الذكاء يصبح مستقلاً بذاته عن جميع المتعاملين معه، ما يوجب تحميله
+المسؤولية بذاته، كما اعتباره، شرطاً للإعفاء من المسؤولية بالنسبة للمتعاملين مع هذا
+الذكاء(115) ، معتبرين أن مفهوم الاستقلالية للذكاء الاصطناعي إنما يطرح من وجهتين
+ليت القريا اجد اهما معلنة تتمثل في القرار المتخذ، والثانية خفية تتمثل في آكية الوصول
+وطالما أن القرار أتى مستقلاً وغير متوقع، فإن الآليات الإجرائية للوصول إلى هذا القرار
+إنما تتبع ذات الصفة. وبالتالي هذه القدرة على الانتقائية في القرار التي تصل حد عدم
+(113) N. EL Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle.,
+op., cit., p. 42. G. Loiseau., A. Bonnet, La responsabilité du fait de l'intelligence
+artificielle, op., cit., p. 44. Ch. Troi, Le droit a l'épreuve de l'intelligence artificielle,
+op., cit., p. 40.
+(114) N. El Kaakour, L'intelligence artificielle et la responsabilité civile délictuelle, op.,
+cit., p. 28. Th. Leemans, La Responsabilité Extracontractuelle de l'Intelligence
+Artificielle, op., cit., p. 20. G. Loiseau, A. Bonnet, La responsabilité du fait de
+l'intelligence artificielle, op., cit., p. 23.
+(115) K. Sheriff, Defining Autonomy in the Context of Tort liability: Is Machine Learning
+Indicative of Robotic Responsibility, Thèse, Atlanta, Emory University of Law,
+.2015
+(116) M. Zalnieriute, et al., The Rule of Law and Automation of Government Decision-
+Making, op., cit., Pp. 397-424.
+138
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 33 ---
+أ. د. محمد عرفان الخطيب
+التوقع من قبل الإنسان تجعل قرارات الذكاء الاصطناعي غير متوقعة بالنسبة له، ولا
+يمكن دفعها من قبله، ما يحقق شروط القوة القاهرة (117) .
+تحليل لا نتفق معه، لعدة أمور، من أهمها أن الذكاء الاصطناعي بطبيعته قائم على عدم
+التوقع، فسماته الأساسية في ضوء طبيعته والبرمجيات التي يعتمد عليها هي: «عدم
+التوقع». بالتالي غير المتوقع الدائم فيه هو المتوقع الدائم، ما دفع بعض الفقه (118)، إلى
+التأكيد بتثبيت نظرية الآثار الجانبية للبرمجيات على عملية الذكاء الاصطناعي، بمعنى،
+أنَّه عندما يوضع برنامج معين في إطار الذكاء الاصطناعي المعتمد على التعليم بالتتابع،
+فيجب أنْ توضع هذه البرامج تحت التجربة، وعلى فترة زمنية معقولة للبحث في آثاره
+الجانبية في هذا المجال، لتحديد مدى كفاءته وصحته، وبعد ذلك يمكن اعتماده، شأنه
+في ذلك شأن الاختبارات السريرية للأدوية، التي تخضع لمراحل متعددة لمعرفة مدى
+نجاعتها والآثار الجانبية التي يمكن أنْ ترتب عليها 119)، علماً بأنه يجب ألا ننسى أن فكرة
+عدم التوقع كأحد الأسباب المعفية من المسؤولية تقتضي الطبيعة الاستثنائية الوقتية
+وليس الدائمة (120) .
+وبالتالي عدم التوقع لا يمكن بالضرورة إسقاطه على الذكاء الاصطناعي بذاته؛ كون
+القرار المتخذ هو المتوقع ضمن جملة التكوين العصبي لهذا الذكاء، ضمن مفهوم أعم هو
+عدم التوقع الإنساني القائم على التوقع الاصطناعي، فإن كانت من الخيارات التي تبناها
+الذكاء الاصطناعي لم تكن متوقعة أو محتملة إنسانيا، إلا أنها وبالضرورة من ضمن
+الخيارات المتوقعة اصطناعيا، والتي بناها هذا الذكاء بمفهومه ولغته الرقمية الخالصة
+المتوقعة.
+(117) The Guardian, Microsoft 'deeply sorry' for racist and sexist tweets by Al chatbot,
+2016. [En ligne]. S. Migayron, Pratique contentieuse: Intelligence artificielle: qui
+sera responsable? Revue Communication commerce électronique, n° 4, 2018. S.
+Hocquet-Berg, Gardien cherche force majeure.. désespérément.., Responsabilite
+civile et Assurance, n° 6, 2003.
+(118) 1. Poirot, Robotique et médecines: quelle(s) responsabilité (s)? Journal International
+de Bioéthique, vol. 24, 2013/4, Pp. 99-124.
+(119) Ibid.
+(120) S. Hocquet-Berg, Gardien cherche force majeure. désespérément., op., cit., n° 6,
+.2003
+عاطف النقيب، مرجع سابق، ص 33. عبد الرزاق السنهوري، الوسيط في شرح القانون المدني
+الجديد: مصادر الالتزام، مجلد 1، دار النهضة العربية، القاهرة، ص 878. مصطفى العوجي، مرجع
+سابق، ص 350 و 603.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+139
+
+--- Page 34 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+وعليه تبقى المسؤولية قائمة حتى وإن تمتع الذكاء الاصطناعي ببعض الاستقلالية،
+باعتبار أن هذه الأخيرة هي جزء من وظيفته، كونه يعمل ضمن احتمالية استشرافية
+تتناول إمكانية إلحاق هذه الشيء الضرر بالنفس أو بالغير وقبوله بهذه المخاطرة (121) .
+بالتالي لا يمكن القول بانتقال الرقابة، طالما أن هذا الذكاء يعمل وفق برمجيته: «هو»
+وقدرته الذاتية على الاختيار ضمن مروحة خيارات متوقعة اصطناعيا، وغير متوقعة
+إنسانياً.
+كذلك، يُبرز الذكاء الاصطناعي مشكلة المسؤولية المتعددة أفقياً(122)، ذلك أن الذكاء
+الاصطناعي بوصفه العقل المتخذ للقرار لا يعمل وحده، بل يعمل ضمن بيئة تعمل بذاتها
+وفق مفهوم الذكاء الاصطناعي الرديف أو المساعد (123)، كما هو الحال في البنية الرقمية
+التحتية للطرقات التي تعمل عليها السيارات الذكية «Robotic Car» ونظام الربط الرقمي
+عبر الأقمار الصناعية(124)، الذي يعمل بدوره بالذكاء الاصطناعي
+(125)
+ذات الأمر يمكن تصوره بالنسبة للروبوتات «Robots)) التي تعمل وفق مفهوم السحابة
+(الغيمة) الرقمية «Cloud numérique» التي تشبك عمل هذه الروبوتات ببعضها
+بعضا، وفق منظومة اجتماعية رقمية تعمل وفق مفهوم السحابة (الغيمة) الرقمية
+. (120) Cloud numérique»
+لذلك اقترح البعض اتباع نظام العلبة السوداء «Boite noire)) في السيارات الذكية
+مبدئيا، ومن ثم توسعة نطاقه ليشمل جميع الآلات التي تعمل با an rot)
+الاصطناعي، بما فيها العاملة وفق مفهوم إنترنت الأشياء «Internet of Things»، بما
+(121) N. Nevejans, Traité de droit et d'éthique de la robotique civile, op. cit., p. 611. (Dir.)
+Ph. Le Tourneau, Droit de la responsabilité et des contrats, 9 éd., éd. Dalloz, Paris,
+2013, n° 7785.
+(122) J-S. Borghetti, Etendue du recours entre coresponsables: la responsabilité du fait des
+produits à la pointe de l'égalité. D. 2015, p.245. S. Hamladji, La voiture autonome:
+en route vers le future, Planète robots, n° 28, juillet/août 2014, Pp. 30-33.
+(123) Intelligence artificielle auxiliaire.
+(124) Système d'interconnexion numérique par satellite.
+(125) M. Schellekens, Self-driving cars and the chilling effect of liability law, Computer
+law & security review, vol. 31, 2015, Pp. 506-517. J. Millar, Ethics Setting for
+Autonomous Vehicles. In P. Lin, R. Jenkins, K. Abney et G.A. Bekey (dir.) Robot
+Ethics 2.0., Oxford University Press, UK, 2017.
+(126) M. Monot-Fouletier, Véhicule autonome: vers une autonomie du régime de
+responsabilité applicable? Recueil Dalloz, Paris, 2018, p. 129. Governing Artificial
+Intelligence, Data & Society. 2018. [En ligne].
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 35 ---
+أ. د. محمد عرفان الخطيب
+يُمكن من تحديد المسؤول عن الفعل المفضي للضرر'
+ر (127) ، غير أن هذا الاقتراح لا محالة
+سوف يصطدم بحماية الحياة الخاصة، وحماية البيانات الشخصية للأفراد، فإن كان
+مقبولا تينيه في إطار السيارات العامة، فإن الأمر قد يكون خلاف ذلك في السيارات
+أخيراً، وفى ضوء حاجتنا المتزايدة للذكاء الاصطناعي الذي وصل حد الارتهان الكلم
+في بعض الأحيان، يُطرح سؤال حول من يرتهن لمن (129)؟! ومن يتحكم في من؟! ومن
+هو حارس من؟!، ذلك أن الاستقلالية التي تعمل بها، تجعلها بعيدة عن أي تحكم من قبل
+المستخدم والمالك، حيث يمكن للمستخدم أن ينفي المسؤولية عن نفسه بكونه ليس المتحكم
+بتصرفاته، وذات الأمر يمكن أن يطرحه المالك (130، والسؤال البديهي الذي سيطرح في
+تحديد هذه المسؤولية من يتحكم؟! إجابةٌ بقدر بساطتها، بقدر تعقيدها (131) :
+كل ذلك يجعل الذكاء الاصطناعي مفهوماً متعدداً يتجاوز الذكاء الاصطناعي بحارسه
+التقليدي الذي يتعامل بشكل مباشر مع المتضرر، إلى الذكاء الاصطناعي غير المباشر
+الذي يكون له دور في القرار الذي يتخذه الذكاء الاصطناعي مُحدث الضرر، لا مسببه، ما
+يجعل هناك عوامل أخرى تتسم بالذكاء الاصطناعي تشارك الذكاء الاصطناعي محدث
+الضرر في إحداث الضرر. وإن ما يزيد من التعقيد في تطبيق قواعد الحراسة على
+المسؤولية المدنية، أن الصعوبة الكبرى تبرز عندما يحصل الضرر المعنوي من عنصر
+معنوي آخر يعمل بالذكاء الاصطناعي، حين ذاك يصبح تحديد العنصر المفضي للضرر
+أمرا في غاية الصعوبة والتعقيد.
+(127) 1. Vingiano, Les limites juridiques à l'introduction d'une «boîte noire» dans les
+véhicules connectés, Congrès ATES ITS «Les rencontres de la mobilité intelligente
+2016», Paris, 2016.
+(128) Ibid.
+(129) N. Denis, Interface cerveau-machine: qui contrôle qui? Planète robots, n°14, mars/
+avr. 2014, Pp. 46-49. N. Denis, Les robots affectifs, que serions-nous sans eux?
+Planète robots, n° 29, sept/oct. 2014, Pp. 52-59.
+(130) L. Edwards, et M. Veale, 'Slave to the Algorithm: Why a Right to an Explanation Is
+Probably Not the Remedy You Are Looking for.' 2017. Duke L. & Tech. Rev. 16. L.
+Loumé, Des robots au service des personnes âgées, Planète robots, n 27, mai/juin
+2014, Pp. 50-56.
+(131) S. Dormont, Quel régime de responsabilité pour l'intelligence artificielle? Comm.
+com. élect., nov. 2018, n° 11, étude 19, p. 1.
+141
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 36 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+الخاتمة
+تناولنا في هذه الدراسة البحث في إمكانية مساءلة الذكاء الاصطناعي، سواءً في ضوء
+الاعتبار الشخصي لهذا الذكاء، استناداً لإمكانية اعتباره يتمتع بالشخصية القانونية
+والبناء على هذه الأخيرة في مساءلته؛ أو وفقا لقواعد المسؤولية الموضوعية، استناداً
+لإمكانية اعتباره شيئا أو مُنتجا، وبالتالي ترتيب قواعد المسؤولية الشيئية أو مسؤولية
+الضمان عليه.
+دراسةٌ مكنت من الوصول إلى نتيجةٍ وتوصية: نتيجةٌ، مفادها عدم إمكانية تطبيق أي من
+هاتين النظريتين على الذكاء الاصطناعي. وتوصية مضمونها الدعوة إلى تجديد قواعد
+المسؤولية المدنية بما يتناسب مع هذا القادم الجديد.
+1. قواعد المسؤولية المدنية التقليدية وعدم الكفاية التشريعية
+خلصت الدراسة إلى عدم إمكانية تطبيق أي من هاتين النظريتين تطبيقا مطلقا على الذكاء
+الاصطناعي، كوننا أمام حالة تتسم بالتفرد والتميز لا يمكن مساءلتها بذاتها عن أفعالها،
+لا لكونه لا يستطيع أن يمتلك الشخصية القانونية، وإنما لكونه لا يمتلك العنصر المعنوي
+الموجب للمسؤولية، ونعني به: «الإدراك الاصطناعي». كما أن أي توصيف قانوني لهذا
+الذكاء بطبيعته الحركية العاقلة شبه المستقلة بالشيء هو توصيف خاطئ، في الوقت ذاته
+الذي لا يمكن اعتباره مُنتجا نظراً لطبيعته المعنوية ذات البعد الذكائي، ما جعل تطبيق أي
+من هذين المفهومين عليه يتسم بالقصور وعدم الموضوعية.
+كما بيَّن البحث أنه وإن كانت قواعد المسؤولية عن المنتجات المعيبة هي الأكثر استخداماً
+على قضايا الذكاء الاصطناعي، فإنها تعالج، بالرغم من أوجه القصور التي تعتريها،
+الجانب المادي لهذا الذكاء، المتمثل في الحامل المادي للذكاء، باعتباره مُنتجا، في حين أن
+الجانب المعنوي لهذا الذكاء المتمثل في البرمجيات والخوارزميات، لا يزال خارج التأطير
+القانوني.
+2. قواعد المسؤولية المدنية التقليدية والحاجة للتجديد
+استناداً للقصور السابق، رأى البحث أنه حري بالمشرع المدني الفرنسي أن يضع قواعد
+قانونية خاصة تتناول أحكام هذه المسؤولية الرقمية، التي يمكن توصيفها ب: «المسؤولية
+المدنية للذكاء الاصطناعي»
+(132)، ضمن أنظمة المسؤولية المدنية الخاصة، إلى جانب قواعد
+(132) Résponsabilité civile de l'intelligence artificielle.
+142
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 37 ---
+أ. د. محمد عرفان الخطيب
+مسؤولية المنتجات المعيبة، والضرر البيئي، وفعل المركبة البرية ذات المحرك (133) ، يعالج
+فيها مختلف جوانب الخصوصية والتفرد ضمن هذا الذكاء ببعديه المعنوي والمادي، كما
+يمنحه مكانته القانونية التي يستحق باعتباره شيئاً فريداً، أعلى من الشيء بمفهومه
+التقليدي وأقل من الإنسان، باعتباره يجمع بعضاً من صفات الشيء وبعضاً من صفات
+الإنسان، وبخصوصية تميزه عن المنتج بمفهومه المادي، بما يضمن المعالجة القانونية
+الصحيحة لهذا الذكاء، ويوقف حالة التردد التشريعي التي تَسِمُ موقف المشرع الفرنسي.
+هذا الموقف الذي لم يعد يرتبط بعدم فهم كيفية التعامل مع هذا الذكاء أو خصوصيته رغم
+أهميته، وإنما بالطبيعة الفلسفية لهذا النظام التشريعي الذي لا يزال مترددا في الإقرار
+بهذه الخصوصية والتفرد.
+موقفٌ، نعتقد أن استمرار المشرع المدني الفرنسي في السير فيه، سيزيد من تعقيد
+قواعد المسؤولية المدنية وارتباكها في التعامل مع هذا الذكاء، في حين أن السير بخلافه،
+وتبني نهج أكثر انفتاحا وعقلانية في التعامل مع هذا المفهوم، سيكون له تأثيرٌ أكثر فائدة
+للصورة الفلسفية والمنهجية لهذا التشريع.
+(133) تمت إضافة قواعد هذه المسؤولية في مشروع القانون المعدل لأحكام المسؤولية المدنية لعام 2017.
+Le fait des véhicules terrestres à moteur. Arts. (1285 à 1288). PLRRC Urvoas 2017.
+143
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 38 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+المراجع (134)
+أولاً- باللغة العربية
+1- الكتب
+- زياد عبد الكريم القاضي، مقدمة في الذكاء الصناعي، ط1، دار صفاء للنشر،
+عمان، الأردن، 2010.
+- حسن عبد الباسط جميعي، مسؤولية المُنتج عن الأضرار التي تسببها منتجاته
+المعيبة : دراسة مقارنة، دار النهضة العربية، القاهرة، 2000.
+- مصطفى العوجي، القانون المدني: الجزء الثاني، المسؤولية المدنية، مؤسسة
+بحسون للنشر، بيروت، 1996.
+- عادل عبد النور، مدخل إلى عالم الذكاء الصناعي، مدينة الملك عبد العزيز للعلوم
+والتقنية، الرياض، 2005.
+- عاطف النقيب، النظرية العامة للمسؤولية الناشئة عن فعل الأشياء، المنشورات
+الحقوقية صادر، بيروت، 1999.
+- عبير أسعد، الذكاء الصناعي، ط1، دار البداية للنشر، عمان، الأردن، 2017.
+- فتحي عبد الرحيم عبد الله، دراسات في المسؤولية التقصيرية - نحو مسؤولية
+موضوعية، منشأة المعارف، الإسكندرية، 2005.
+2- الأبحاث
+- كريم موسى حسين، الذكاء الاصطناعي من منظور فلسفة العقل، مجلة الفلسفة،
+الجامعة المستنصرية، بغداد، 2014، العدد 11.
+- ليث أثير يوسف، مشكلة الاستقراء والذكاء الصناعي، مجلة آداب المستنصرية،
+الجامعة المستنصرية، بغداد، 2011، العدد 5.
+- محمد عرفان الخطيب،
+• المركز القانوني للإنسالة (Robots) قراءة في القواعد الأوروبية في القانون
+المدني للإنسالة (Robots) لعام 2017، «الإشكاليات والتحديات ... دراسة
+(134) نظرًا لتعدد المراجع القانونية والفقهية في البحث، فقد تم الاكتفاء بذكر أهمها، علمًا بأنَّ كافة المراجع
+مسددة في متن البحث.
+144
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 39 ---
+أ. د. محمد عرفان الخطيب
+تأصيلية مقارنة»، مجلة كلية القانون الكويتية العالمية، العدد التسلسلي 24،
+السنة السادسة، العدد الرابع، ربيع الأول / ربيع الثاني 1440 ه - ديسمبر
+2018م.
+• ضمانات الحق في العصر الرقمي، «من تبدل المفهوم .... لتبدل الحماية»:
+قراءة في الموقف التشريعي الأوروبي والفرنسي وإسقاط على الموقف
+التشريعي الكويتي، مجلة كلية القانون الكويتية العالمية، أبحاث المؤتمر
+السنوي الدولي الخامس، التحديات المعاصرة للضمانات القانونية في عالم
+متغير (10-9 مايو 2018)، ملحق خاص، العدد الثالث، الجزء الأول، شعبان
+1439 ه - ديسمبر 2018م.
+• إضاءة على مشروع قانون إصلاح نظرية المسؤولية المدنية في التشريع
+المدني الفرنسي الحديث: «المبررات والنتائج»، مجلة العلوم القانونية
+والسياسية، جامعة الشهيد حمة لخضر بالوادي، الجزائر، المجلد 10، العدد
+1، سنة 2019.
+- ناصر شبكة، الذكاء الاصطناعي ومنطق تمثيل المعرفة : منطق المكونات المادية
+المتعددة، المجلة العربية الدولية للمعلوماتية، جامعة نايف للعلوم الأمنية،
+الرياض، المجلد الأول، العدد الثاني، 2012.
+ثانياً- باللغة الفرنسية
+I. Articles
+- A-S. Choné-Grimaldi, Le projet de réforme de la responsabilité civile:
+observations article par article, Gazette du Palais, Paris, 2017, n° 23.
+- A-Y. Portnoff, et J-F. Soupizet, IA: opportunités et risques, Futuribles,
+vol. 426, n° 5,2018.
+- Bensamoun et G. Loiseau,
+• L'intelligence artificielle à la mode éthique, Recueil Dalloz,
+Paris, 2017.
+• L'intégration de l'intelligence artificielle dans l'ordre juridique en
+droit commun : questions de temps, Dalloz IP/IT, Paris, 2017, n°4.
+145
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 40 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+- Bensoussan, Le droit de la robotique: aux confins du droit des biens
+et du droit des personnes, Revue des juristes de Sciences Po, n° 10,
+hiver 2015.
+- Bensoussan, Plaidoyer pour un droit des robots: de la «personne
+morale» à la «personne robot», La Lettre des juristes d'affaires,
+23 oct. 2013, n° 113.
+- Mendoza-Caminade, Le droit confronté à l'intelligence artificielle des
+robots: vers l'émergence de nouveaux concepts juridique? Recueil
+Dalloz n° 8, Paris 2016.
+- S. Choné-Grimaldi, P. Glaser, Responsabilité civile du fait du robot
+doué d'intelligence artificielle: faut-il créer une personnalité robotique?
+Comm. com. élect. 2018, n° 1, foc. 1.
+- Touati, Il n'existe pas, à l'heure actuelle, de régime adapté pour gérer
+les dommages causés par les robots, Revue Lamy Droit civil, n° 145,
+1°r février 2017.
+- Bessermann, Les enjeux du développement de la responsabilité
+numérique pour les assureuses. Dalloz IP/IT, n° 3, Paris, 2020,
+- Bévière-Boyer, responsabilité numérique : le défi d'une responsabilité
+spécifique humanisée. Dalloz IP/IT, n° 3, Paris, 2020.
+- Aubin, Intelligence artificielle et brevets, Les Cahiers de propriété
+intellectuelle., n° 3, Vo. 30, n. spécial: Droit + intelligence artificielle. 2018.
+- Bossée-Pilon et I. Francoz, La responsabilité civile en matière
+d'intelligence artificielle, Affiches parisiennes, 1°r mars 2019.
+- Coulon, Du robot en droit de la responsabilité civile: à propos des
+dommages causés par les choses intelligentes. Responsabilité civile et
+assurance, n° 4, avril 2016, étude 6.
+- Ch. Byk, Présentation des enjeux de la responsabilité numérique. Dalloz
+IP/IT. 2020, n° 3.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+146
+
+--- Page 41 ---
+أ. د. محمد عرفان الخطيب
+- Gruson, Régulation positive de l'intelligence artificielle en santé : les
+avancées de la garantie humaine algorithmique. Dalloz IP/IT. 2020, n° 3.
+- Mainguy, Réflexions sur la notion de produit en droit des affaires, RTD
+Com. 1999.
+- G'Sell, Ver l'émergence d'une «responsabilité numérique», Dalloz IP/
+IT, 2020, n° 3.
+- Courtois, Robots intelligents et responsabilité : quels régimes, quelles
+perspectives ? Dalloz IP/IT. 2016, n° 6.
+- J-S. Desroches et Sh. Jiang, Intelligence artificielle: la délicate
+interaction entre les défis juridiques et technologiques, Journal Le Droit
+de savoir, avril 2017, n° 514.
+- L. Chartrand, Agencéité et responsabilité des agents artificiels, Éthique
+publique, vol. 19, n° 2, 2017.
+- L. Szuskin, Intelligence artificielle et responsabilité, Communication
+Commerce électronique, n° 6. 2018.
+- Monier J-C, Personne humaine et responsabilité civile, Droit et culture,
+1996,n°1.
+- Mouly C., Responsabilité objective ou responsabilité pour faute? Petites
+affiches, 1° juillet 1992, n° 79.
+- N. Denis, Interface cerveau-machine: qui contrôle qui ? Planète robots,
+n° 14, 2014.
+- N. Nevejans, Responsabilité des robots: appliquons nos règles de droit!
+Le point, 11 avril 2017.
+- O. Siary, Quelle responsabilité juridique pour les robots? Village de la
+justice, 26 janvier 2017.
+- P-Y. Oudeyer, Robotique: les grands défis à venir, futuribles n° 399,
+mars-avril 2014.
+147
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 42 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+- P. Brun, La responsabilité du fait des objets connectés. Lamy Droit de
+la responsabilité, 2018, n° 350.
+- Ph. Le Tourneau, La responsabilité civile des personnes atteintes d'un
+trouble mental, JCP, 1971. Il.
+- Responsabilite civile, Panorama, novembre 2017. 2018, D. 2019.
+- Retour sur la saga d'aibo, Le robot-chien, Par Screetch, Planète robots,
+n° 6,2010.
+- S. Canselier, Les intelligences non-humaines et le droit, Observations à
+partir de l'intelligence animale et de l'intelligence artificielle, Archives
+de philosophie du droit, n° 55, 2012.
+- S. Hamladji, La voiture autonome: en route vers le futur. Planète robots,
+n° 28, juill/août 2014.
+- S. Migayron, Pratique contentieuse: Intelligence artificielle: qui sera
+responsable? Revue Communication commerce électronique, n° 4 avril 2018.
+- X. Delpech, Vers un droit civil des robots. AJ Contrat 2017.
+- X. Labbée, Esquisse d'une définition civiliste de l'espèce humaine, D.,
+1999, chro.
+Il. Ouvrages, Thèses, Reportes et Actes
+- Besson,
+• La notion de garde dans la responsabilité du fait des choses, thèse,
+Dijon, France, 1927.
+• La responsabilité du fait de l'intelligence artificielle, Mémoire,
+Université Panthéon-Assas, Paris, 2015.
+- Ch. Troi, Le droit à l'épreuve de l'intelligence artificielle, Droit,
+Mémoire, 2017.
+148 مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 43 ---
+أ. د. محمد عرفان الخطيب
+- Enjeux et légitimité du développement de la responsabilité numérique,
+Dossier Dalloz, Dalloz IP/IT. 2020, n° 3.
+- Être, vouloir, pouvoir: la responsabilité des agents autonomes - Une
+introduction, Galatea Network, 2018.
+- J. Carbonnier, Droit civil - Introduction - Les personnes - La famille -
+l'enfant - le couple, PUF, Paris, 2004.
+- M. Soulez, Questions juridiques au sujet de l'intelligence artificielle,
+In L'intelligence artificielle, un enjeu d'économie et de civilisation,
+Enjeux numériques, n° 1. Mars 2018, Ed. Annales des Mines.
+- N. Maximin, Vers des règles européennes de droit civil applicables aux
+robots, Dalloz actualité, lere mars 2017.
+- P. Lemyre, Les logiciels libres sous l'angle de la responsabilité civile,
+Mémoire, Montréal, 2002.
+- Rapport du groupe de travail, Cour d'Appel de Paris, La réforme du
+droit français de la responsabilité civile et les relations économiques,
+Université de Versailles, Avril 2019.
+- Résolution du Parlement européen du 12 février 2019 sur une politique
+industrielle européenne globale sur l'intelligence artificielle et la
+robotique (2018/2088(INI)).
+- Teyssie, Droit civil, les personnes, coll. Manuels, 12ème éd.,
+LexisNexis, 2010.
+- Th. Leemans, La Responsabilité Extracontractuelle de l'Intelligence
+Artificielle - Aperçu d'un système bientôt obsolète, Mémoire, Université
+catholique de Louvain, Belgique, 2017.
+ثالثاً- باللغة الإنجليزية
+- Allen, W. Wallach, Moral machines: Contradiction in Terms of
+Abdication of Human Responsibility? Robot Ethics, the ethical and
+social implications of robotics, Cambridge, MIT Press, 2012.
+149
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+
+--- Page 44 ---
+المسؤولية المدنية والذكاء الاصطناعي ... إمكانية المساءلة؟!
+- Castelfranchi, et R. Falcone, From automaticity to autonomy: The
+frontier of artificial agents, In H. Hexmoor, C. Castelfranchi et R.
+Falcone (eds.). Agent Autonomy, Kluwer, 2003.
+- Fisher, The logic of real arguments, 2nd edition, Cambridge University
+Press, UK
+- J. Burrell, How the machine 'thinks': Understanding opacity in machine
+learning algorithms' Big Data & Society 3(1), 2016.
+- J. Millar, Ethics Setting for Autonomous Vehicles. In P. Lin, R. Jenkins,
+K. Abney et G.A. Bekey (dir.) Robot Ethics 2.0., Oxford University
+Press, UK, 2017.
+- K. Sheriff, Defining Autonomy in the Context of Tort liability: Is
+Machine Learning Indicative of Robotic Responsibility, Thèse, Atlanta,
+Emory University of Law, 2015.
+- L. Edwards, et M. Veale, 'Slave to the Algorithm: Why a Right to an
+Explanation Is Probably Not the Remedy You Are Looking for', Duke
+L. & Tech. Rev. 16, 2017.
+- M. Chinen, The Co-Evolution of Autonomous Machines and Legal
+Responsibility, Virginia Journal of Law & Technology, vol. 20, n° 2, 2016.
+- M. Schellekens, Self-driving cars and the chilling effect of liability law.
+Computer law & security review, vol. 31, 2015.
+- M. Scherer, Regulating artificial intelligence systems: risks, challenges,
+competencies, and strategies. Harvard Journal of Law & Technology,
+vol. 29, n° 2, 2016.
+- M. Zalnieriute, et al., The Rule of Law and Automation of Government
+Decision-Making. Modern Law Review 82. 2019.
+- P. Cerka, J. Grigiene, G. Sirbikyte, Liability for damages caused by
+artificial intelligence. Computer law & security review, vol. 31, 2015.
+- U. Pagallo, What Robots Want: Autonomous Machines, Codes and
+New Frontiers of Legal Responsibility. Human Law and Computer
+Law: Comparatives perspectives, Dordrecht, Springer 2013.
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+150
+
+--- Page 45 ---
+أ. د. محمد عرفان الخطيب
+المحتوى
+الموضوع
+الملخص
+المقدمة
+المطلب الأول- الذكاء الاصطناعي والمسؤولية المدنية القائمة على الاعتبار
+الشخصي
+أولاً - إمكانية الاعتبار الشخصي للذكاء الاصطناعي
+1- ضمن المفهوم الفلسفي
+2- ضمن المفهوم القانوني
+ثانيا- جدوى الاعتبار الشخصي للذكاء الاصطناعي
+الشخصية القانونية والمسؤولية ... صحة الربط
+الشخصية القانونية والمسؤولية ... محاذير الربط
+المطلب الثاني-الذكاء الاصطناعي والمسؤولية المدنية القائمة على الاعتبار
+الموضوعي
+أولا - الذكاء الاصطناعي بين مفهومي «الشيء» و«المنتج»
+1- الذكاء الاصطناعي ومفهوم «الشيء»
+2- الذكاء الاصطناعي ومفهوم «المنتج»
+ثانياً- الذكاء الاصطناعي وقواعد الحراسة
+1- مفهوم «الحارس» في الذكاء الاصطناعي
+2- الذكاء الاصطناعي والتحلل من الحراسة
+الخاتمة
+المراجع
+الصفحة
+107
+108
+113
+113
+114
+116
+118
+119
+121
+126
+126
+126
+130
+133
+133
+138
+142
+144
+مجلة كلية القانون الكويتية العالمية - السنة الثامنة - العدد 1 - العدد التسلسلي 29 - رجب - شعبان 1441 ه - مارس 2020 م
+151
+
+--- Page 46 ---
+
+
