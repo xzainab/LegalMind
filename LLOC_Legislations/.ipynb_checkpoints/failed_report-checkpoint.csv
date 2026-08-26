@@ -1,0 +1,23 @@
+﻿category,page,legislation_index,legislation_code,title_ar,text_url,error,attempts
+تشريعات الصحة,1,2,,,,"Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7e2a3abb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff7e2a3ac10+15210]
+	chromedriver!(No symbol) [0x7ff7e2565b56]
+	chromedriver!(No symbol) [0x7ff7e25b2833]
+	chromedriver!(No symbol) [0x7ff7e25e9c12]
+	chromedriver!(No symbol) [0x7ff7e25e3a22]
+	chromedriver!(No symbol) [0x7ff7e25e31e2]
+	chromedriver!(No symbol) [0x7ff7e252e2bb]
+	chromedriver!(No symbol) [0x7ff7e252e912]
+	chromedriver!(No symbol) [0x7ff7e252eed5]
+	chromedriver!GetHandleVerifier [0x7ff7e305b79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff7e3055ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff7e307bcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff7e2a58ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff7e2a6147c+3ba7c]
+	chromedriver!(No symbol) [0x7ff7e252d83c]
+	chromedriver!GetHandleVerifier [0x7ff7e32235e8+7fdbe8]
+	KERNEL32!BaseThreadInitThunk [0x7ffed62dccb7+17]
+	ntdll!RtlUserThreadStart [0x7ffed742ad6c+2c]
+",1
