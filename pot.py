@@ -1,7 +1,192 @@
-import streamlit as st
+import os
+import sys
+import argparse
 import time
 import random
 import re
+
+# ============================================================
+# RAG BACKEND (EMP_LLM) — imports
+# ============================================================
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import TextLoader
+from langchain_chroma import Chroma
+from langchain_ollama import ChatOllama, OllamaEmbeddings
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_classic.chains import create_retrieval_chain
+from langchain_classic.chains.combine_documents import create_stuff_documents_chain
+
+
+# ============================================================
+# RAG BACKEND (EMP_LLM) — global configuration
+# ============================================================
+TXT_FILES_DIR = "my_txt_files"          # source .txt documents (Arabic content)
+VECTOR_DB_DIR = "./my_vector_db"        # on-disk Chroma persistence directory
+COLLECTION_NAME = "my_rag_project"      # Chroma collection name
+
+EMBEDDING_MODEL = "bge-m3"              # local Ollama embedding model
+LLM_MODEL = "qwen2.5:3b"                # local Ollama chat model
+
+CHUNK_SIZE = 400
+CHUNK_OVERLAP = 50
+RETRIEVAL_K = 3
+INGEST_BATCH_SIZE = 10
+
+COLLECTION_METADATA = {"hnsw:space": "cosine"}
+
+RAG_PROMPT_TEMPLATE = """
+أنت مساعد ذكي ومتخصص في تحليل النصوص العربية ومحدد جداً. مهمتك هي الإجابة على سؤال المستخدم بناءً على السياق المستخرج المقدم فقط.
+
+شروط الإجابة:
+1. يجب أن تعتمد إجابتك بالكامل على السياق المرفق أدناه.
+2. لا تضف أي معلومات خارجية تماماً من خارج هذا النص.
+3. يمكنك فهم المعنى المرادف لغوياً بدقة.
+4. إذا لم تكن الإجابة واضحة بشكل مباشر، يجب عليك تحليل النص بدقة واستنباط الإجابة الصحيحة بناءً على الفهم والربط المنطقي بين الأفكار الواردة.
+5. يجب عليك دائماً ذكر اسم الكتاب أو المصدر الذي استخرجت منه الإجابة في نهاية ردك.
+
+السياق المستخرج:
+{context}
+
+السؤال:
+{input}
+"""
+
+
+# ============================================================
+# RAG BACKEND (EMP_LLM) — ingestion pipeline
+# ============================================================
+
+def load_text_documents(folder_path: str = TXT_FILES_DIR):
+    if not os.path.isdir(folder_path):
+        raise FileNotFoundError(
+            f"Source folder '{folder_path}' does not exist. "
+            f"Create it and add .txt files before running ingestion."
+        )
+
+    documents = []
+    for filename in sorted(os.listdir(folder_path)):
+        if filename.endswith(".txt"):
+            file_path = os.path.join(folder_path, filename)
+            loader = TextLoader(file_path, encoding="utf-8")
+            documents.extend(loader.load())
+
+    if not documents:
+        raise ValueError(
+            f"No .txt files found in '{folder_path}'. Nothing to ingest."
+        )
+
+    return documents
+
+
+def chunk_documents(
+    documents,
+    chunk_size: int = CHUNK_SIZE,
+    chunk_overlap: int = CHUNK_OVERLAP,
+):
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=chunk_overlap,
+    )
+    return text_splitter.split_documents(documents)
+
+
+def get_embeddings() -> OllamaEmbeddings:
+    return OllamaEmbeddings(model=EMBEDDING_MODEL)
+
+
+def get_vector_db(embeddings: OllamaEmbeddings) -> Chroma:
+    return Chroma(
+        embedding_function=embeddings,
+        collection_name=COLLECTION_NAME,
+        persist_directory=VECTOR_DB_DIR,
+        collection_metadata=COLLECTION_METADATA,
+    )
+
+
+def index_documents(db: Chroma, chunks, batch_size: int = INGEST_BATCH_SIZE):
+    total = len(chunks)
+    for i in range(0, total, batch_size):
+        batch = chunks[i : i + batch_size]
+        db.add_documents(batch)
+        print(f"Indexed chunks {i} to {i + len(batch)} of {total}")
+
+
+def build_vector_index(
+    folder_path: str = TXT_FILES_DIR,
+    chunk_size: int = CHUNK_SIZE,
+    chunk_overlap: int = CHUNK_OVERLAP,
+    batch_size: int = INGEST_BATCH_SIZE,
+) -> Chroma:
+    embeddings = get_embeddings()
+    documents = load_text_documents(folder_path)
+    chunks = chunk_documents(documents, chunk_size, chunk_overlap)
+
+    db = get_vector_db(embeddings)
+    index_documents(db, chunks, batch_size)
+
+    print("==== Ingestion complete. Data persisted to disk. ====")
+    return db
+
+
+# ============================================================
+# RAG BACKEND (EMP_LLM) — retrieval chain
+# ============================================================
+
+def build_rag_chain():
+    embeddings = get_embeddings()
+    db = get_vector_db(embeddings)
+    retriever = db.as_retriever(search_kwargs={"k": RETRIEVAL_K})
+
+    llm = ChatOllama(model=LLM_MODEL, temperature=0)
+    prompt = ChatPromptTemplate.from_template(RAG_PROMPT_TEMPLATE)
+
+    doc_chain = create_stuff_documents_chain(llm, prompt)
+    return create_retrieval_chain(retriever, doc_chain)
+
+
+# ============================================================
+# RAG BACKEND (EMP_LLM) — CLI entry points
+# ============================================================
+
+def _run_cli(argv):
+    parser = argparse.ArgumentParser(
+        prog="app.py",
+        description="EMP_LLM RAG utilities (ingestion + one-off queries).",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    ingest_parser = subparsers.add_parser(
+        "ingest", help="Build/refresh the Chroma vector index from my_txt_files."
+    )
+    ingest_parser.add_argument(
+        "--folder", default=TXT_FILES_DIR, help="Folder of .txt files to ingest."
+    )
+
+    ask_parser = subparsers.add_parser(
+        "ask", help="Ask a single question against the indexed vector DB."
+    )
+    ask_parser.add_argument("question", help="The question to ask, e.g. in Arabic.")
+
+    args = parser.parse_args(argv)
+
+    if args.command == "ingest":
+        build_vector_index(folder_path=args.folder)
+    elif args.command == "ask":
+        chain = build_rag_chain()
+        response = chain.invoke({"input": args.question})
+        answer = response.get("answer", response) if isinstance(response, dict) else response
+        print(f"\nAI: {answer}\n")
+
+
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] in ("ingest", "ask"):
+    _run_cli(sys.argv[1:])
+    sys.exit(0)
+
+
+# ============================================================
+# STREAMLIT APPLICATION
+# ============================================================
+import streamlit as st
 
 
 # ============================================================
@@ -16,27 +201,10 @@ st.set_page_config(
 )
 
 
-# ============================================================
-# CONFIG: RATE LIMITING (NOT anti-bot / not anti-detection)
-# ============================================================
-# ملاحظة هندسية مهمة:
-# لا يوجد هنا أي منطق مصمم لمحاكاة سلوك بشري أو للتحايل على
-# أنظمة الحماية / الحظر الخاصة بأي موقع (حكومي أو غيره).
-# ما يوجد أدناه هو "تحكم بمعدل الطلبات" (Rate Limiting) بسيط
-# وشفاف، الهدف منه فقط تجنّب إغراق أي خدمة خلفية (Backend/API)
-# بطلبات متتالية بسرعة كبيرة أثناء تطوير الواجهة.
-# إن كان لدى العميل (CLB) اتفاقية وصول رسمية إلى مصادر مثل
-# LLOC أو المحكمة الدستورية، يجب استخدام الـ API الرسمي الخاص
-# بتلك الجهات بدلاً من أي شكل من أشكال الجلب الآلي غير المصرّح.
-
-MIN_REQUEST_INTERVAL_SECONDS = 1.0  # الحد الأدنى بين طلبات الواجهة الخلفية
+MIN_REQUEST_INTERVAL_SECONDS = 1.0
 
 
 def enforce_backend_rate_limit():
-    """
-    تحكم بسيط بمعدل الطلبات نحو الواجهة الخلفية (RAG / API).
-    يمنع فقط الطلبات المتلاحقة السريعة جداً من نفس الجلسة.
-    """
     now = time.time()
     last_call = st.session_state.get("last_backend_call_ts", 0)
     elapsed = now - last_call
@@ -46,13 +214,6 @@ def enforce_backend_rate_limit():
 
     st.session_state["last_backend_call_ts"] = time.time()
 
-
-# ============================================================
-# القاموس القانوني - تفكيك الرموز والاختصارات البحرينية
-# ============================================================
-# هذا القاموس يُستخدم لتوسيع الاختصارات القضائية البحرينية
-# الشائعة قبل إرسال السؤال إلى النموذج، وأيضاً لعرضها للمستخدم
-# ضمن المراجع عند ظهورها في السؤال أو الإجابة.
 
 LEGAL_ABBREVIATIONS = {
     "د.ت": "دعوى تجارية",
@@ -69,65 +230,33 @@ LEGAL_ABBREVIATIONS = {
 
 
 def expand_legal_abbreviations(text: str) -> str:
-    """
-    يبحث عن أي اختصارات قانونية معروفة داخل النص ويعيد نسخة
-    موضحة بها المعنى الكامل بين قوسين، دون تغيير النص الأصلي.
-    """
     expanded_text = text
-
     for abbreviation, full_meaning in LEGAL_ABBREVIATIONS.items():
         if abbreviation in expanded_text:
             expanded_text = expanded_text.replace(
                 abbreviation,
                 f"{abbreviation} ({full_meaning})"
             )
-
     return expanded_text
 
 
 def find_abbreviations_in_text(text: str):
-    """يرجع قائمة بالاختصارات القانونية الموجودة فعلياً في نص معيّن."""
     found = []
-
     for abbreviation, full_meaning in LEGAL_ABBREVIATIONS.items():
         if abbreviation in text:
             found.append((abbreviation, full_meaning))
-
     return found
 
-
-# ============================================================
-# SYSTEM INSTRUCTION - البرومبت التوجيهي للنموذج القانوني
-# ============================================================
 
 SYSTEM_INSTRUCTION_TEMPLATE = """
 أنت مساعد قانوني متخصص في التشريعات والأنظمة القضائية لمملكة البحرين،
 تعمل ضمن مشروع تعاوني بين General Assembly و Capital Legal Base (CLB).
 
 التزامات إلزامية عند الإجابة:
-
-1. النبرة والأسلوب:
-   - استخدم نبرة قانونية رصينة، دقيقة، ومهنية بالكامل.
-   - تجنّب اللغة العامية أو التبسيط المخل بالمعنى القانوني.
-   - لا تقدّم رأياً قانونياً نهائياً؛ صِغ إجاباتك كمعلومات
-     استرشادية قابلة للمراجعة من محامٍ مرخّص.
-
-2. الالتزام بالمصادر:
-   - أجب فقط استناداً إلى النصوص والمستندات القانونية المرفقة
-     فعلياً في سياق الجلسة (مثل ملفات لوائح الدعاوى أو الفواتير
-     المصححة أو أي مواد قانونية أخرى تم رفعها).
-   - إن لم تتوفر لديك مادة مرجعية كافية للإجابة، صرّح بذلك
-     بوضوح بدلاً من الاستنتاج أو التخمين.
-
-3. تفكيك الرموز القضائية البحرينية:
-   - عند ورود أي اختصار قضائي بحريني في سؤال المستخدم أو في
-     المستندات المرجعية، وضّح معناه الكامل صراحة في إجابتك.
-   - أمثلة: (د.ت = دعوى تجارية)، (أ.ج.م = أمر جنائي مؤقت).
-   - إن ظهر اختصار غير مألوف لديك، أشر إلى ذلك بدلاً من تخمين معناه.
-
-4. التوثيق:
-   - كلما استندت إلى مادة أو نص قانوني، اذكر رقم المادة
-     والمصدر والصفحة إن توفرت هذه المعلومات في المستند.
+1. النبرة والأسلوب: استخدام نبرة قانونية رصينة ودقيقة.
+2. الالتزام بالمصادر: الإجابة فقط استناداً إلى النصوص المرفقة.
+3. تفكيك الرموز القضائية البحرينية: توضيح معناها الكامل.
+4. التوثيق: ذكر رقم المادة والمصدر والصفحة.
 
 الاختصارات القضائية البحرينية المعروفة لديك:
 {abbreviations_list}
@@ -141,7 +270,6 @@ def build_system_instruction(category: str) -> str:
         f"- {short} = {full}"
         for short, full in LEGAL_ABBREVIATIONS.items()
     )
-
     return SYSTEM_INSTRUCTION_TEMPLATE.format(
         abbreviations_list=abbreviations_list,
         category=category,
@@ -149,110 +277,108 @@ def build_system_instruction(category: str) -> str:
 
 
 # ============================================================
-# CUSTOM CSS
+# CUSTOM CSS (UPDATED FOR PERFECT CENTERING AND TOOLBAR FIX)
 # ============================================================
 
 st.markdown("""
 <style>
 
-/* ============================================================
-   خطوط ودعم اللغة العربية عالمياً
-   ============================================================ */
-
+/* Global RTL Support */
 html, body, [class*="css"] {
     direction: rtl;
     text-align: right;
     font-family: "Tahoma", "Segoe UI", sans-serif;
 }
 
-
-/* ============================================================
-   GENERAL PAGE
-   ============================================================ */
-
 .stApp {
     background-color: #fcfbf9;
     direction: rtl;
 }
 
-
 /* ============================================================
-   MAIN CONTENT - توسيط كامل للمحتوى الرئيسي
+   STREAMLIT HEADER & TOOLBAR (DEPLOY & 3-DOTS MENU POSITIONING)
    ============================================================ */
-.block-container {
-    max-width: 900px;
-    margin-left: auto !important;
-    margin-right: auto !important;
-
-    /* نخلي الصفحة تبدأ بمسافة مريحة من الأعلى */
-    padding-top: 6rem !important;
-    padding-bottom: 110px;
-
-    padding-right: 3rem;
-    padding-left: 3rem;
+/* Positioning the Streamlit header bar inside the top-right corner of the main pane */
+[data-testid="stHeader"] {
+    background-color: transparent !important;
+    position: absolute !important;
+    top: 10px !important;
+    right: 0px !important;
+    left: auto !important;
+    width: auto !important;
+    z-index: 99999 !important;
 }
 
+/* Ensure the toolbar actions (Deploy, 3 Dots) render properly */
+[data-testid="stToolbar"] {
+    right: 20px !important;
+    left: auto !important;
+    display: flex !important;
+    flex-direction: row-reverse !important;
+    align-items: center !important;
+}
 
-/* عند فتح الشريط الجانبي، نمنح المحتوى الرئيسي مساحة كافية
-   عبر ضبط أقصى عرض بدلاً من الاعتماد على هامش ثابت فقط */
+/* Fix sidebar toggle icon placement */
+[data-testid="collapsedControl"] {
+    right: 15px !important;
+    left: auto !important;
+    top: 15px !important;
+}
+
+/* ============================================================
+   MAIN CONTENT CONTAINER - ACCURATE CENTERING
+   ============================================================ */
 section.main {
     direction: rtl;
+    display: flex;
+    justify-content: center;
 }
 
+.block-container {
+    max-width: 850px !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 4rem !important;
+    padding-bottom: 110px !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
 
 /* ============================================================
-   SIDEBAR - نقلها بالكامل إلى جهة اليمين
+   SIDEBAR POSITIONING (RIGHT SIDE)
    ============================================================ */
-
 [data-testid="stSidebar"] {
     background-color: #ffffff;
-
     position: fixed !important;
-
     right: 0 !important;
     left: auto !important;
-
     top: 0 !important;
     bottom: 0 !important;
-
     direction: rtl;
-
     border-left: 1px solid #eeeeee;
     border-right: none;
-
     z-index: 999999;
 }
 
-/* عندما تكون مفتوحة، ندفع المحتوى الرئيسي بعيداً عن اليمين
-   كي لا يتغطى أو يتداخل معها */
+/* Layout adjusting when Sidebar opens */
 [data-testid="stSidebar"][aria-expanded="true"] ~ section.main {
-    margin-right: 21rem;
-    margin-left: 0;
+    margin-right: 21rem !important;
+    margin-left: 0 !important;
     transition: margin 0.2s ease-in-out;
 }
 
 [data-testid="stSidebar"][aria-expanded="false"] ~ section.main {
-    margin-right: 0;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
     transition: margin 0.2s ease-in-out;
 }
 
-
-/* زر فتح/إغلاق الشريط الجانبي - نقله لينسجم مع الجهة اليمنى */
-[data-testid="collapsedControl"] {
-    right: 0.5rem;
-    left: auto;
-}
-
-
-/* Sidebar inner content */
-
+/* Sidebar contents */
 [data-testid="stSidebar"] > div:first-child {
     direction: rtl;
     text-align: right;
 }
-
-
-/* Sidebar text */
 
 [data-testid="stSidebar"] p,
 [data-testid="stSidebar"] label,
@@ -261,48 +387,20 @@ section.main {
     text-align: right;
 }
 
-
-/* عناصر select / input داخل الشريط الجانبي */
-[data-testid="stSidebar"] .stSelectbox,
-[data-testid="stSidebar"] .stButton {
-    direction: rtl;
-}
-
-
-/* ============================================================
-   HEADINGS
-   ============================================================ */
-
+/* Headings */
 h1, h2, h3 {
     color: #800020 !important;
     text-align: center;
     direction: rtl;
 }
 
-
-/* ============================================================
-   MAIN TITLE BLOCK
-   ============================================================ */
-
+/* Main title wrapper */
 .main-title-wrapper {
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
-    padding: 0;
     text-align: center;
     direction: rtl;
-}
-
-.main-title-wrapper h1 {
-    margin-top: 0 !important;
-    margin-bottom: 10px !important;
-    padding: 0 !important;
-    line-height: 1.5 !important;
-    text-align: center !important;
-}
-
-.main-title-wrapper .main-subtitle {
-    margin-top: 0 !important;
 }
 
 .main-subtitle {
@@ -320,11 +418,6 @@ h1, h2, h3 {
     margin-top: 6px;
 }
 
-
-/* ============================================================
-   RED LINE
-   ============================================================ */
-
 .bahrain-line {
     width: 80px;
     height: 4px;
@@ -332,11 +425,6 @@ h1, h2, h3 {
     border-radius: 5px;
     margin: 15px auto 25px auto;
 }
-
-
-/* ============================================================
-   EXAMPLE QUESTIONS
-   ============================================================ */
 
 .example-title {
     text-align: center;
@@ -347,17 +435,16 @@ h1, h2, h3 {
     margin-bottom: 12px;
 }
 
-
 /* ============================================================
-   CHAT - توسيط ومحاذاة يمين
+   CHAT MESSAGES & INPUT (CENTERED IN AVAILABLE SPACE)
    ============================================================ */
-
 [data-testid="stChatMessage"] {
     direction: rtl;
     text-align: right;
+    width: 100%;
     max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 [data-testid="stChatMessageContent"] {
@@ -371,12 +458,12 @@ h1, h2, h3 {
     text-align: right !important;
 }
 
-/* صندوق إدخال السؤال - توسيط وضبط الأبعاد */
+/* Chat Input Bar */
 [data-testid="stChatInput"] {
     direction: rtl;
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 850px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 [data-testid="stChatInput"] textarea {
@@ -384,11 +471,9 @@ h1, h2, h3 {
     text-align: right;
 }
 
-
 /* ============================================================
    FIXED DISCLAIMER
    ============================================================ */
-
 .fixed-disclaimer {
     position: fixed;
     left: 0;
@@ -412,11 +497,6 @@ h1, h2, h3 {
     color: #999999;
     line-height: 1.4;
 }
-
-
-/* ============================================================
-   SIDEBAR SEPARATOR / COLLABORATION
-   ============================================================ */
 
 .sidebar-separator {
     border: 0;
@@ -453,30 +533,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
-
-/* ============================================================
-   SIDEBAR INFO BOX
-   ============================================================ */
-
-[data-testid="stSidebar"] [data-testid="stAlert"] {
-    direction: rtl;
-    text-align: center;
-}
-
-
-/* ============================================================
-   BUTTONS
-   ============================================================ */
-
 .stButton button {
     border-radius: 8px;
     direction: rtl;
 }
-
-
-/* ============================================================
-   EXPANDER (المراجع القانونية)
-   ============================================================ */
 
 [data-testid="stExpander"] {
     direction: rtl;
@@ -488,7 +548,7 @@ h1, h2, h3 {
 
 
 # ============================================================
-# SIDEBAR
+# SIDEBAR UI
 # ============================================================
 
 with st.sidebar:
@@ -529,7 +589,6 @@ with st.sidebar:
         ],
     )
 
-    
     st.divider()
 
     if st.button("📞 التواصل مع المكتب", use_container_width=True):
@@ -601,7 +660,7 @@ with col3:
 
 
 # ============================================================
-# SESSION STATE - تاريخ المحادثة
+# SESSION STATE
 # ============================================================
 
 if "messages" not in st.session_state:
@@ -668,23 +727,15 @@ if (
 
 
 # ============================================================
-# BACKEND CALL PLACEHOLDER
+# BACKEND GENERATION FUNCTION
 # ============================================================
-# هذه الدالة هي نقطة الربط مع نظام الـ RAG الفعلي (البحث في
-# المستندات القانونية البحرينية المرفقة ثم توليد الإجابة عبر
-# النموذج). حالياً تُرجع إجابة تجريبية توضيحية فقط.
+
+@st.cache_resource(show_spinner=False)
+def get_rag_chain():
+    return build_rag_chain()
+
 
 def generate_legal_answer(query: str, category: str):
-    """
-    نقطة الدمج مع الواجهة الخلفية الفعلية للـ RAG.
-    يجب استبدال المنطق التجريبي أدناه بطلب حقيقي نحو:
-      1. قاعدة بيانات/مخزن المتجهات (Vector Store) الذي يحوي
-         المواد القانونية البحرينية المرفوعة فعلياً (مثل ملفات
-         لوائح الدعاوى والفواتير المصححة).
-      2. النموذج اللغوي، مع تمرير system_instruction الناتجة
-         عن build_system_instruction(category).
-    """
-
     enforce_backend_rate_limit()
 
     system_instruction = build_system_instruction(category)  # noqa: F841
@@ -692,29 +743,42 @@ def generate_legal_answer(query: str, category: str):
     expanded_query = expand_legal_abbreviations(query)
     found_abbreviations = find_abbreviations_in_text(query)
 
-    answer_text = f"""
-**سؤالك:**
+    try:
+        chain = get_rag_chain()
+    except Exception as exc:
+        answer_text = (
+            "⚠️ تعذر الاتصال بمحرك البحث القانوني (Ollama / قاعدة بيانات "
+            "المتجهات). تأكد من تشغيل `ollama serve` ومن بناء قاعدة "
+            "البيانات مسبقاً عبر الأمر: `python app.py ingest`.\n\n"
+            f"تفاصيل الخطأ: {exc}"
+        )
+        return answer_text, [], found_abbreviations
 
-{expanded_query}
+    try:
+        response = chain.invoke({"input": expanded_query})
+    except Exception as exc:
+        answer_text = (
+            "⚠️ حدث خطأ أثناء معالجة سؤالك عبر محرك البحث القانوني. "
+            f"تفاصيل الخطأ: {exc}"
+        )
+        return answer_text, [], found_abbreviations
 
-**الإجابة التجريبية:**
+    answer_text = (
+        response.get("answer", "") if isinstance(response, dict) else str(response)
+    )
 
-هذه نسخة تجريبية من المساعد القانوني ضمن نطاق البحث
-"{category}".
-
-في النسخة النهائية، سيقوم النظام بالبحث في قاعدة البيانات
-القانونية البحرينية (RAG) واسترجاع المواد والمستندات ذات
-الصلة الفعلية قبل إنشاء الإجابة، مع الالتزام الكامل بالنبرة
-القانونية الرصينة والتوثيق الدقيق لكل مادة يستشهد بها.
-"""
-
-    sources = [
-        {
-            "title": "مستند تجريبي (سيتم استبداله بمصدر فعلي)",
-            "article": "—",
-            "page": "—",
-        }
-    ]
+    retrieved_docs = response.get("context", []) if isinstance(response, dict) else []
+    sources = []
+    for doc in retrieved_docs:
+        metadata = getattr(doc, "metadata", {}) or {}
+        source_path = metadata.get("source", "مصدر غير معروف")
+        sources.append(
+            {
+                "title": os.path.basename(source_path),
+                "article": metadata.get("article", "غير محدد"),
+                "page": metadata.get("page", "غير محدد"),
+            }
+        )
 
     return answer_text, sources, found_abbreviations
 
