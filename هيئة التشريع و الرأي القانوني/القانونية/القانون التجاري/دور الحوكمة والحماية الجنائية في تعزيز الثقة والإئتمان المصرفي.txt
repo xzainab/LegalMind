@@ -1,0 +1,1009 @@
+--- Page 1 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+دور الحوكمة والحماية الجنائية
+في تعزيز الثقة والإئتمان المصرفي
+دراسة تطبيقية على جرائم الإمتناع أو الإعتداء على المنظومة المصرفية
+د.محمد نصر القطري
+جامعة طيبة - بالمدينة المنورة
+يلعب النشاط المصرفي دورا رئيسيا في الحياة الاقتصادية والاجتماعية لأي بلد فالبنك يختص
+بالخدمات المالية والنقدية ، ويقدم خدمات متنوعة لعملائه ويساهم كوحدة خدمية في خلق
+الائتمان وتوزيعه من أجل دفع عملية التنمية الاقتصادية ، وتمويل المشروعات التجارية والخدمية
+المختلفة التي تعود بالفائدة على المجتمع ككل ، إذ لا تخلو عملية تجارية من تدخل البنوك
+ولا غنى عن هذا التدخل في إتمامها ، وفي سياق التطور الاقتصادي توسع النشاط المصر في
+واحتل تدريجيا مكانا متفوقا معتمدا في ذلك على الثقة والائتمان(١)، فضلا عن الخبرة فى
+المجال الإقتصادي، إلى أن أصبح هذا النشاط يعني عددا هائلاً سواء بالنسبة للفرد العادي
+أو من الشركات، ثم أضحى البنك بذلك معتبرا بالنسبة للتجارة الداخلية و الخارجية، حيث
+نجلت إدارة الدولة فى هذا الإطار من خلال عدة محاور، كان أهمها إطلاق الحافز الفردى
+وتدعيم ثقة الآفراد فى المؤسسات الاقتصادية التى تضطلع بدور فى خدمة الاقتصاد، وقد
+ألقى ذلك بظلاله على وظيفة الدولة، فتخلت عن مبدأ الدولة الحاكمة وجنحت صوب فكرة
+الدولة الحارسة، بل وتقلص إلى حد كبير مفهوم السيادة الاقتصادية للدولة(٢)، بل إن حماية
+المؤسسات الائتمانية ومنها البنوك كان موضع اهتمام القضاء حيث قررت المحكمة العليا
+الفرنسية أن مجرد رفض تقديم المعلومات المطلوبة في المادة ٥٦٣-١ من قانون النقد والمالية ،
+موجب لتوقيع الجزاء (٣) ، ودون التذرع بحسن النية (٤) .
+1. V. M. Vasseur, « Droit et économie bancaires », Maîtrise, Fasc. l-A, « Institutions
+bancaires », Les cours de droit, 19851986-, P. 303 sq. Adde, T. Bonneau, Droit bancaire,
+coll. Domat droit privé, Montchrestien, ge éd., 2011, n° 131, p. 94 ; J.-P. Kovar et J.
+Lasserre Capdeville, Droit de la régulation bancaire (préf. C. Noyer), Revue Banque éd.,
+2012, n° 107, p. 64 sg.
+٢. أ. دينا جلال , جرائم الائتمان المصرفى فى فترة الانفتاح رؤية تشريحية للمناخ العام و السياسات الاقتصادية, المجلة
+الجنائية القومية, عدد خاص عن الجرائم المتعلقة بنشاط الائتمان فى البنوك, ص ٦٧.
+3. CE, 31 mars 2004, no 256355, Nextup SA,
+4. Sur l'inadéquation des procédures de contrôle interne et de maîtrise des risques, la société
+Nextup SA tente de se justifier en invoquant sa bonne foi. Le Conseil d'Etat considère
+cependant qu'à supposer la bonne foi établie, cette circonstance n'était pas de nature à
+entacher d'illégalité la décision attaquée, dans la mesure ou la décision de la Commission
+bancaire est fondée sur la méconnaissance, par la société Nextup SA, des dispositions
+de l'instruction du 18 octobre 2000. Il était en outre reproché à la société d'avoir modifié
+sa dénomination sociale alors qu'elle n'avait pas reçu l'agrément préalable émanant du
+Comité des établissements de crédit et des entreprises d'investissement.
+العدد السابع -
+٣١١
+
+--- Page 2 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+أهمية البحث:
+تأتي الأنظمة المصرفية - فى الوقت الراهن - على رأس الأولويات الرامية إلى زيادة النشاط
+التجاري في اقتصاد الدولة ، بيد أن هذه الأنظمة قد تطورت - خلال النصف الثانى من القرن
+الماضى - تطورا عكس الفلسفة السياسية التى سادت كل حقبة زمنية ، ففى البداية عرفت
+المملكة نظام الصرف منذ مئات السنين ، فقد كان متمركزا في كل من جدة ومكة والمدينة
+المنورة بهدف إستبدال العملات المختلفة التى يجلبها الحجاج والمعتمرون معهم خلال موسم
+الحج والعمرة.
+كان النظام المصرفي السعودي قد تبلور عام ١٩٥٠ م من ثلاث فئات ، هم :
+١- فئة الصيارفة.
+٢- فرع للشركة التجارية الهولندية (الذى تحول بعد ذلك الى البنك السعودى الهولندى).
+٣- شركة صالح عبد العزيز الكعكي وسالم بن محفوظ (التي تحولت بعد ذلك إلى البنك
+الأهلي التجاري).
+الموكري وموم مورها فى معم الإقاء الواي من خال فياها النمام الأهية (البناك
+١- إصدار النقد السعودي ودعمه وتوطيد قيمته.
+٢- القيام بأعمال بنك الحكومة (إيرادات ومدفوعات ونقد أجنبى).
+٣- الترخيص للبنوك التجارية والمشتغلين بأعمال الصرافة(١) .
+٤- الإحتفاظ بالأرصدة النقدية الإحتياطية.
+٥- ممارسة أعمال المقاصة بين البنوك.
+٦- تحديد نسبة الاحتياطي القانوني (وعدم المساس به لأنه الغطاء للعملاء وللإستثمارات) (٢) .
+٧- الموافقة على تغيير شكل رأس المال وفتح الفروع للبنوك المحلية.
+1. Cass. 1re civ., 20 févr. 2007, n° 0615074-, Crédit municipal de Nantes (à propos d'une
+question de compétence juridictionnelle) : Bull. civ. 1, n° 73, p. 64 (rejet) ; JCP G 2007,
+IV, 1637 ; AJDA 2007, 932 ; RJDA 2007, n° 1174 ; D. 2007 Act. Jurispr., p. 794, obs.
+X. Delpech ; D. 2008, Pan. p. 871, obs. H. Synvet - Cass. com., 9 déc. 2008, n° 06-
+20526 [rejet], Guy Legris c/CMP Banque (nullité d'une ouverture de crédit consentie par
+une caisse de crédit municipal à son directeur général) : Juris-Data n° 2008046220-:
+Banque et droit mars-avr. 2009, n° 124, P. 27, obs. T. Bonneau ; RD bancaire et fin.
+2009, comm. 79, obs. F.-J. Crédot et T. Samin.
+2. Le 21 septembre 2002, Mme A... a souscrit aupres de la banque Rives de Paris un contrat
+«'Réserve Pro'» pour un montant initial de sept mille euros (7.000).Le 28 mai 2004, la
+banque, invoquant des incidents de paiement, a bloque temporairement 'utilisation de
+la «'Réserve Pro'».Par courrier recommandé avec avis de réception du 25 juin 2004,
+la banque Rives de Paris a fait connaître à Mme A... qu'elle mettrait fin aux concours
+accordés à l'expiration d'un délai de soixante jours.Le 30 septembre 2004, Mme A... a
+été radiée du registre du commerce. Par courrier recommandé avec avis de réception du
+12 octobre 2004, la banque Rives de Paris a fait connaître à Mme A... qu'elle procédait
+à la clôture de son compte courant. CA Paris 201121746/09 21-01-.
+٣١٢
+
+--- Page 3 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+٨- التفتيش على البنوك. (١)
+٩- تدريب العاملين بالقطاع المصرفي على الأعمال المصرفية.
+ففي عام ١٩٥٧ تم تأسيس بنك الرياض، وفي عام ١٩٦٦ تم تنظيم العلاقة بين مؤسسة النقد
+العربي السعودي (كبنك مركزي) والبنوك التجارية ، ووضع القواعد العامة للرقابة والإشراف
+على هذه البنوك في مجال الإئتمان .(٢)
+في عام ١٩٧٦ إتجهت الدولة إلى سعودة البنوك الأجنبية عن طريق إنتقال الجزء الأكبر من
+رأس مالها وكذلك إدارتها إلى المواطنين السعوديين، وقد أصدر المشرع المصري القانون رقم
+" البنوك الأجنبية العاملة فى مصر دون
+٢٢ لسنة ١٩٥٧ الذى تخلص أحكامه إلى " تمصير
+تأميمها، ثم أعقب ذلك صدور القانون رقم ١٦٣ لسنة ١٩٥٧ الذى أحكم الرقابة الحكومية
+المباشرة على البنوك وعهد إلى البنك الأهلى المصرى بأعمال البنك المركزى للدولة، وفى عام
+١. «وقد تم تعديل تشكيل لجنة مؤسسات الائتمان وشركات الاستثمار في فرنسا والمسئولة عن الرقابة عن البنوك وغيرها
+من المؤسسات المالية ،بتشكيل لجنة يترأسها محافظ بنك فرنسا، رئيس اللجنة المصرفية أو من ينوب عنه إلى هذه
+اللجنة: المادة ٦٢١-٣ .L. ويشمل كذلك مدير الخزانة أو من ينوب عنه (أو رؤساء السلطات الذي وافق برنامج
+لنشاط الشخص الذي ترى اللجنة بطلب الموافقة) رئيس لجنة الاوراق المالية والبورصات رئيس مجلس الاسواق
+المالية أو ممثليهم، والمدير التنفيذي لصندوق الضمان المشار إليها في المواد ٣١٢-٤ .L إلى ٣١٢-١٨ .L، أو
+أحد أفراد ممثل التنفيذي و (ستة) ثمانية أعضاء أو نوابهم، عين بأمر من وزير الاقتصاد لمدة ثلاث سنوات، وهي
+عضو مجلس الدولة، المستشار في محكمة النقض، وهو ضابط مؤسسة الائتمان وضابط شركة استثمار، وهو ما
+يمثل رابطة مؤسسات الائتمان وشركات الاستثمار الفرنسية (أ) اثنين من ممثلي النقابات التي تمثل موظفي الشركة
+أو المنشأة الإدلاء بالبيانات تخضع لموافقة اللجنة وعضوين عن اختصاصها. ويتم اختيار أعضاء كاملي العضوية
+من المجلس الوطني للائتمان والأوراق المالية «.
+Article 20 modifiant les articles L. 6123- et L. 6117- du Code monétaire et financier (C.M.F.)
+dans les termes suivants :Article L. 6213- : « Le Comité des établissements de crédit et
+des entreprises d'investissement est présidé par le gouverneur de la Banque de France,
+président de la Commission bancaire, ou son représentant à cette Commission. Il comprend,
+en outre, le directeur du Trésor ou son représentant (le ou les présidents des autorités qui
+ont approuvé le programme d'activité de la personne dont le Comité examine la demande
+d'agrément) le président de la Commission des opérations de bourse, le président du
+Conseil des marchés financiers ou leur représentant, le président du directoire du fonds
+de garantie mentionné aux articles L. 3124- à L. 31218-, ou un membre du directoire
+le représentant, ainsi que (six) huit membres ou leurs suppléants, nommés par arrêté du
+ministre chargé de l' Économie pour une durée de trois ans, à savoir : un conseiller d'État,
+un conseiller à la Cour de cassation, un dirigeant d'établissement de crédit et un dirigeant
+d'entreprise d'investissement, représentant l' Association française des établissements
+de crédit et des entreprises d'investissement, (un) deux representants des organisations
+syndicales représentatives du personnel des entreprises ou établissements soumis à
+l'agrément du Comité et deux personnalités choisies en raison de leur compétence. Les
+membres titulaires sont choisis au sein du Conseil national du crédit et du titre ». LA LOI
+DU 15 MAI 2001 RELATIVE AUX NOUVELLES REGULATIONS ECONOMIQUES
+2. CE, 28 juill. 2004, 6e et lre ss-sect. réunies, n° 261301, Caisse de crédit municipal
+de Strasbourg, [rejet] : Rec. CE, tables, p. 595 ; JCP E 2004, Pan. 1305 ; CE, 28 déc.
+2005, 6e et lre ss-sect. réunies, n° 265089 Caisse de crédit municipal de Reims, [rejet]
+: Rec. CE, p. 595. D. 2007, Pan. p. 754, obs. H. Synvet ; AJDA 2006, 621 ; RFDA
+2006, 201 ; JCP E 2006, Pan. 1150 ; RD bancaire et fin. 2006, comm. 150, obs. F.-J.
+Crédot et T. Samin.
+٣١٣
+العدد السابع -
+
+--- Page 4 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+١٩٦٠ صدر القانون رقم ٤٠ لسنة ١٩٦٠ بتأميم البنك الأهلى المصرى.
+أما عام ١٩٦١، فقد شهد إحتكار الدولة بالكامل للقطاع المصرفي، بإصدار القانون رقم ١١٧
+نسنة ١٩٦١ الذى أمم جميع البنوك العاملة فى مصر تجارية كانت أم متخصصة.
+ولم يأت عام ١٩٧٤ في مصر إلا وتغيرت ملامح السياسة الاقتصادية للدولة، فأصدر المشرع
+المصري قانون إستثمار رأس المال العربي والأجنبي القانون رقم ٤٣ لسنة ١٩٧٤ الذى فتح
+الباب أمام الاستثمارات العربية والاجنبية فى المجال المصرفى، و سمح لها بإنشاء بنوك
+تجارية تشارك الدولة فى ملكيتها(١)، وفى التسعينات توالى إصدار قوانين الخصخصة، التى
+وسعت إلى حد بعيد من قاعدة مشاركة القطاع الخاص فى النشاط الاقتصادى ولاسيما
+المصرفى، وفى فترة تالية دخلت مصر عصر الانفتاح الاقتصادى ثم مرحلة الخصخصة، فظهر
+الاتجاه نحو التضيق من نطاق المال العام، بإصدار العديد من التشريعات كان آخرها القانون
+رقم ٨٨ لسنة ٢٠٠٣ المعدل بالقانون رقم ١٦٢ لسنة ٢٠٠٤ فى شأن البنك المركزى والجهاز
+المصرفى والنقد، الذى أعلى الحرية الفردية، فسمح بإنقضاء الدعوى الجنائية بالتصالح مع
+عميل البنك مقابل رد هذا الأخير لكافة ما يكون قد استولى عليه من أموال(٢).
+والواقع أن الحماية الجنائية للنشاط المصرفى لم تنل قسطاً وفيراً من الدراسة فى الفقه
+المصرى، ولعل ذلك يرجع إلى عوامل ثلاثة(٣).
+أولها: يتصل بذاتية أعمال البنوك من حيث كونها ذات طبيعة تجارية، ومن ثم نظرية العقد
+وما يتولد عنها من مسئولية-عقدية - أساسا لها ، أو مسئولية تقصيرية بحسب الأحوال.
+وثانيها: يتعلق بذاتية نصوص التجريم والعقاب التى تأبى القياس والتوسع فى التفسير،
+خلافا للأعمال المصرفية التى تتسم بقدر كبير بأنها ذات طبيعة مالية(٤)، الأمر الذى يدعو
+المضرور إلى التفكير أولا في كيفية إصلاح ما حاق به من ضرر مادي قبل الحكم بعقوبة مقيدة
+على المتهم ، ومن ثم ما يشغله أساسا هو المسئولية المدنية للبنك وإستئداء البنك لحقوقه
+١. احمد فتحى عبد العزيز , الجوانب القانونية للاعمال المصرفية فى صور احكام القانون ١٧ لسنة ١٩٩٩ بإصدا
+ون التجارة, مجلة المحاماة, العدد الثالث ٢٠٠٣ , ص ٥٥٥
+٢. د. أسامة حسنين عبيد, الصلح فى قانون الإجراءات الجنائية, ماهيته والنظم المرتبطة به, دراسة مقارنة, رسالة
+دكتوراه - كلية الحقوق القاهرة, دار النهضة العربية, الطبعة الأولى ٢٠٠٥, ص ٤١٨ وما بعدها .
+٣. د.غادة عماد الشربينى , المسئولية الجنائية عن الأعمال البنكية, رسالة دكتوراه, كلية حقوق عين شمس. ١٩٩٩ -
+4. ancien article 48, 1, de la loi bancaire du 24 janvier 1984 modifiée, devenu l'article L.
+61323- du Code monétaire et financier avant son abrogation par l'ordonnance n° 2010-
+76 du 21 janvier 2010. Comme un auteur l'a justement relevé, la loi ne faisait ici « que
+reconduire et énoncer de manière expresse la solution que, dans le silence ou l'ambiguïté
+des textes, le Conseil d'Etat avait consacrée à propos de la Commission de contrôle
+des banques ». V. M. Vasseur, « Droit et économie bancaires », Maîtrise, Fasc. I-B,
+Institutions bancaires, Les cours de droit, 19851986-, p. 619.
+٣١٤
+
+--- Page 5 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+المالية وليس المسئولية الجنائية لأحد موظفيه(١).
+مشكلة البحث:
+من المعلوم أن المسئولية الجنائية هي الإعتداء أو الغش أو العمل على زعزعة الائتمان المصرفى
+بوصفه جوهر الوظيفة المصرفية ، وقد أدلى الفقه بتعريفات عديدة لفكرة الائتمان المصرفى،
+وهى وإن كانت كذلك إلا أنه يمكن تأصيلها إلى عدة ضوابط تحكم العلاقة بين البنك
+والعميل، ولاشك أن الهاجس الأكبر هو أن تكون البنوك وسيطا لعمليات غسل الأموال ، وهو
+ما شددت عليه القوانين المقارنة (٢).
+أما الضابط الأول فهو الثقة، فالإئتمان علاقة عقدية تبادلية بين البنك والعميل قوامها أمران:
+أولهما رغبة أكيدة للعميل فى الوفاء بالتزاماته فى تاريخ استحقاقها مقترنة بمركز مالي
+متين(٣)، وثانيهما إيمان البنك بفاعلية الضمان الذى يوفره للعميل فى نجاح مشروعه.
+1. La Cour italienne considère en l'espèce qu'une responsabilité extracontractuelle de la
+banque est envisageable dans la mesure ou son employé a manqué à l'obligation de
+diligence « proportionnée» à la nature de l'activite exercée. Le niveau de diligence qui doit
+être pris en compte pour la constatation de la faute professionnelle est indiqué à l'article
+1176, alinéa 2, du Code civil italien, aux termes duquel la diligence doit être évaluée
+par rapport à la nature de l'activité exercée. Corte supreme di cassazione (Cour de
+cassation italienne), 30 janv. 2006, n° 1865, M. Vasile contre Deutsche Bank SpA,Corte
+supreme di cassazione (Cour de cassation italienne), 30 janv. 2006, no 1865, M. Vasile
+contre Deutsche Bank SpA, V. B. Martin Laprade, « Les orientations et attentes de la
+commission des sanctions de P'ACP » : RTDF 20122, p. 12 sq., spec. p. 13.
+Mais ne pas exécuter une opération, c'est prendre alors le risque d'exposer sa
+responsabilité civile. En témoignent deux décisions récentes. La première a été rendue par
+la Chambre commerciale de la Cour de cassation le 21 janvier 200416dans une espèce
+ou l'émetteur de bons de capitalisation refusait de les rembourser en se prévalant des
+dispositions relatives à la lutte contre le blanchiment des capitaux. La Cour de cassation
+décide que la seule circonstance que le porteur n'agit pas pour son propre compte et
+refuse de fournir les renseignements requis par l'article L. 5631- du Code monétaire et
+financier ne l'autorise pas à s'exonérer de son obligation de remboursement. La seconde
+a été rendue par la cour d'appel de Paris le 9 avril 2004 qui juge que les articles L.
+5611- et suivants du Code monétaire et financier ne prévoient pas qu'un établissement
+bancaire puisse de sa propre initiative refuser d'effectuer une opération17. Quant à la
+déclaration de soupçons, elle devient de fait, quasiment systématique, dans la mesure ou
+doivent être déclarées toutes les opérations complexes dont la preuve de l'origine licite
+n'est pas rapportée.
+Le constat s'impose alors : celui d'une incohérence du dispositif de prévention et de lutte
+contre le blanchiment d'argent à laquelle il est urgent de remédier. La proposition de
+directive du Parlement et du Conseil « relative à la prévention de l'utilisation du système
+financier aux fins de blanchiment de capitaux y compris le financement du terrorisme »
+présentée par la Commission européenne le 30 juin 2004, appelée à se substituer à la
+directive de 1991 en vigueur, telle que modifiée en 2001, qui serait abrogée, devrait être
+l'occasion d'appréhender de manière globale le dispositif pour en assurer la cohérence,
+condition sine qua non de sa pertinence et de son efficacité.
+٣. د.أشرف توفيق شمس الدين, الحماية الجنائية للائتمان المصرفي من الخداع, دراسة مقارنة, دار النهضة العربية,
+القاهرة, ٢٠٠٤ , ص ١٦.
+٢١٥
+العدد السابع -
+
+--- Page 6 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+وعن الضابط الثاني فهو الزمن ، فلا محل للحديث عن الإئتمان ما لم تفصل فترة زمنية بين
+البنك الدائن من تسهيل مالى للعميل المدين ، وما يحصل عليه من هذا الأخير من فائدة ،
+لأن الزمن هو الذى سيكشف عن مدى صحة عملية الإئتمان(١).
+خطة البحث:
+إتبع الباحث المنهج الإستقرائي لبيان ما يخل بالثقة والإستقرار المصرفي ، ثم تعرض للمنهج
+الوصفي لجريمة الامتناع عن أداء بعض الالتزامات القانونية واللائحية وذلك في (المبحث
+لاول)، ولجريمة الإعتداء على الإحتكار المصرفي فى (المبحث الثاني)، ثم للمنهج التحليل
+يان جريمة ممارسة المهنة المصرفية دون الترخيص في (المبحث الثالث) ،ولجريمة الإستعمال
+غير المشروعة للمصطلحات المصرفية فى (المبحث الرابع)، ولجريمة الإدعاء بالقيد فى قائمة
+البنوك فى (المبحث الخامس).
+المبحث الأول
+جريمة الإمتناع عن آداء بعض الإلتزامات القانونية واللائحية
+ذهب جانب من الفقه الالماني إلى القول بعدم جدوى مكافحة أنماط السلوك الماسة بالائتمان
+بالطريق الجنائِي، ويرجع ذلك فى رأيهم إلى أمرين(٢) : اولهما: ما قدِ يكتنف ملاحقة هذه
+الافعال جنائيا من صعوبة بالغة ترجع إلى اشخاص مرتكبيها ، إذ كتيرا ما يكون هولاء ممن
+يعتلوا مواقع سياسية ومالية مرموقة، وتانيها: أن الضرر الذى يصيب المجتمع من جراء
+ملاحقة هذه الأفعال جنائيا يعلو فى رأيهم على المنفعة المتولدة من مباشرتها ، فقد صور
+البعض إدخال الأفعال الماسة بسلامة الائتمان المصرفى تحت نطاق التجريم على أنه ردة عن
+مبدأ الإقتصاد الحر ، وإخلال بفرص الاستثمار ، وإضعاف لسمعة الدولة الاقتصادية.
+غير أن الرد على الحجتين السابقتين ليس من الصعوبة بمكان: فلا يصح من ناحية أولى
+التعلل بصعوبات الواقع العملي لحصر التجريم و العقاب عن أنماط معينة من السلوك تهدر
+مصالح قانونية يحميها الشارع ، وإنما يتعين البحث عن آليات تفعل مضمون التجريم والعقاب،
+ومن ناحية ثانية ، فإن مبدأٍ النفعية ذاته هو الذى يبرر تأثيم الاعتداء على الائتمان المصرفي ،
+فهذا الاعتداء يخلف ضررا كبيرا بحركة التداول التى تعد عصب الحياة الاقتصادية والنقدية
+١. د.علي محمود علي حموده, تحديد المسئولية الجنائية للعاملين في البنوك عن عمليات الائتمان المصرفي الخاطئ,
+حث منشور ضمن أبحاث المؤتمر العلمي السنوي الثالث لكلية الحقوق - جامعة حلوان خلال الفترة من ١٢ إلي
+١٣ مايو ٢٠٠٤ , ص٢٢.
+٢. د. أشرف توفيق شمس الدين, المرجع السابق, ص ٣.-٤
+Dégonflement des bilans et recentrage sur le coeur demétier L'incidence du deleveraging sur
+le total des actifs bancaires allemands n'est pas aisément décelable dans les statistiques
+monétaires agrégées et les bilans comptables. D'abord, les instruments financiers dérivés,
+comptabilisés en juste valeur (à l'actif lorsque leur valeur de marché est positive, au
+passif lorsqu'elle est négative), brouillent généralement l'analyse des comptes. Ensuite,
+les bilans des exercices 2010 et 2011 sont difficilement comparables avec ceux des
+années précédentes, la loi de modernisation du droit comptable allemand de 2010 ayant
+conduit à une ugmentation
+artificielle de leur taille (notamment en modifiant les règles de comptabilisation des instruments
+dérivés détenus à des fins de trading). En témoigne la multiplication par 5 du poste
+'autres actifs' du bilan agrégé des banques allemandes entre les mois de novembre et
+de décembre 2010. Par ailleurs, les portefeuilles cédés par certains établissements ont
+pu être acquis par d'autres banques. http://economic-research.bnpparibas.com. DTE
+23Mar2017.
+٣١٦
+
+--- Page 7 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+في الدولة (١).
+بل إن المشرع الفرنسي وسع من اختصاص اللجنة المصرفية للرقابة المالية حتى على مؤسسات
+الائتمان وضم إليها المؤسسات الائتمانية موجب المادة ١-٦١٣ من قانون النقد والمالية: "إن
+اللجنة المصرفية مسؤولة عن رصد امتثال المؤسسات الائتمانية للأحكام التشريعية والتنظيمية
+المعمول بها إليهم ومعاقبة الفشل ". أنه بموجب المادة ٢-٦١٣ من قانون: "كما وتحرص اللجنة
+المصرفية الامتثال للقوانين والأنظمة ( ...) من قبل مقدمي خدمات الاستثمار ( ...). الولايات
+المتحدة عقوبات على القصور التي تم تحديدها وفقا للمادة ٢١-٦١٣ ". في الأول من المادة
+٢١-٦١٣ على ما يلي: "إذا كان مؤسسة ائتمان أو الشخص المذكور في الفقرة الأولى من المادة
+٢-٦١٣ انتهك قانون أو لائحة تتعلق نشاطها، (...) والمصرفي، يخضع لصلاحيات مجلس
+الأسواق المالية، قد فرض واحد من العقوبات التأديبية التالية: ١. إنذار، ٢ . اللوم. ٣ . حظر
+لأداء بعض العمليات وغيرها من القيود على ممارسة هذا النشاط. ٤. تعليق مؤقت واحد أو
+أكثر من الأشخاص المذكورين في المادة ٥١١-١٣، والمادة ٢-٥٣٢ مع أو بدون تعيين مدير مؤقت؛
+٥. من مكتب واحد أو أكثر من نفس هؤلاء الناس مع أو بدون تعيين مدير مؤقت؛ ٦. إلغاء
+مؤسسة الإئتمان أو قائمة الشركات أو شركات الإستثمار أو المؤسسات الإئتمانية مع أو بدون
+تعيين مصف ". وفقا لأحكام المادة (٦١٣-٢٣(٢
+١. لستر ثارو ، "الصراع على القمة: مستقبل المنافسة الاقتصادية بين أمريكا واليابان"، عالم المعرفة، العدد ٢٠٤،
+١٩٩٥، ص٥٣.
+2. Considérant qu'aux termes de l'article L. 6131- du Code monétaire et financier : « La
+Commission bancaire est chargée de contrôler le respect par les établissements de crédit
+des dispositions législatives et réglementaires qui leur sont applicables et de sanctionner
+les manquements constatés » ; qu'aux termes de l'article L. 6132- du même code
+: « La Commission bancaire veille également au respect des dispositions législatives
+et réglementaires (...) par les prestataires de services d'investissement (...). Elle
+sanctionne les manquements constatés dans les conditions prévues à l'article L. 61321-
+» ; que le l de l'article L. 61321- dispose : « Si un établissement de crédit, ou une des
+personnes mentionnées au premier alinéa de l'article L. 6132- a enfreint une disposition
+législative ou réglementaire afférente à son activité, (...) la Commission bancaire, sous
+réserve des compétences du Conseil des marchés financiers, peut prononcer l'une des
+sanctions disciplinaires suivantes : 1° l'avertissement ; 2° le blâme ; 3° l'interdiction
+d'effectuer certaines opérations et toutes autres limitations dans l'exercice de l'activité
+; 4° la suspension temporaire de l'une ou de plusieurs des personnes mentionnées à
+l'article L. 51113- et à l'article L. 5322- avec ou sans nomination d'administrateur
+provisoire ; 5° la démission d'office de l'une ou de plusieurs de ces mêmes personnes
+avec ou sans nomination d'administrateur provisoire ; 6° la radiation de l'établissement
+de crédit ou de l'entreprise d'investissement de la liste des établissements de crédit ou
+des entreprises d'investissement agréées avec ou sans nomination d'un liquidateur » ;
+qu'aux termes de l'article L. 61323- du même code : « Lorsque la Commission bancaire
+statue en application de l'article L. 61321-, elle est une juridiction administrative » ;
+Sur la régularité de la procédure suivie par la Commission bancaire :Considérant, en premier
+lieu, qu'aux termes de l'article L. 6136- du Code monétaire et financier : « Le secrétariat
+général de la Commission bancaire, sur instruction de la Commission bancaire, effectue
+des contrôles sur pièces et sur place » ;Considérant qu'il ressort des pièces du dossier
+que, par une décision en date du 24 janvier 2002, la Commission bancaire a décidé
+d'inscrire la société Etna Finance Transmission, ultérieurement dénommée Etna Finance
+Securities, au programme des enquêtes devant être effectuées sur le fondement de
+l'article L. 6136- ; que la date à laquelle a été établi l'ordre de mission par lequel le
+secrétaire général de la Commission bancaire a chargé un inspecteur de la Banque de
+France de procéder à la vérification de la société est sans incidence sur la régularité de
+la procédure, dés lors que l'enquëte n'a débuté que le 29 janvier, postérieurement à la
+décision de la Commission ; que, par suite, le moyen tiré de ce que l'enquête aurait été
+déclenchée dans des conditions irrégulières ne peut qu'être écarté ;
+٣١٧
+العدد السابع -
+
+--- Page 8 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+فضلا عن ذلك فإن الاعتداء واسع النطاق من حيث الاشخاص ، وتوضيح ذلك أن التسهيلان
+لائتمانية التى يقدمها البنك المجنى عليه للجانى ، ما هى فى النهاية إلا أموال المودعير
+الذين يزيد عددهم على الآلاف (١) أضف إلى ذلك أن هذا النوع من الجرائم يؤثر سلبيا على
+مبدأ حسن النية الذى يجب أن يسود المعاملات التجارية(٢) ، كما أنه يخل بقواعد المنافسة
+المشروعة بتوفيره جدارة ائتمانية وهمية للجانى، تفضي إلى تمتعه بملاءة مالية تفوق غيره
+من المتنافسين فى السوق رغم أنه لا يستحقها، وأخيرا تتجلى علة تجريم المساس بالإئتمان
+المصرفي إذا ما لاحظنا اتصاله بعدد كبير من الجرائم المضرة بالمصلحة العامة ، تأتى على
+رأسها جرائم الفساد الزظيفى ألأى الرشوة وما يلحق بها ، إذ عادة ما يكون الاستيلاء غير
+المشروع على أموال البنوك بإسم الائتمان مستندا إلى الاتجار غير المشروع بأعمال الوظيفة
+المصرفية(٣) .
+يلقى المشرع على عاتق البنوك، سواء مباشرة أو عن طريق تعليمات لائحية تصدر عن مؤسسة
+النقد السعودية ، أو عن البنك المركزى المصري ، بحسب الأحوال ، مجموعة التزامات يتعين
+عليها مراعاتها، بحيث يعتبر الإخلال بها مكونا للسلوك الإجرامى المعاقب عليه ، وتقع هذه
+الجريمة بإحدى صورتين:
+الأولى: الإخلال بتعليمات مؤسسة النقد ، أو البنك المركزى:(٤)
+يقرر المشرع لمؤسسة النقد السعودي، وللبنك المركزى المصري حق تحديد نسبة الأموال السائلة
+التى يجب على البنوك التجارية الاحتفاظ بها ، كذلك يحدد البنك المركزي مجالات معينة
+يحظر على تلك البنوك الاستثمار فيها. فإذا خالفت البنوك هذه الإلتزامات يكون للبنك
+المركزي توقيع الجزاء الذى يقرره القانون ، وهو يتمثل إما فى خصم جزء من رصيد البنك
+المخالف لديه ، أو حل مجلس الإدارة وتعيين مفوض لإدارة البنك فى الحالات الجسمية .
+غفي المادة الثالثة، من وظائف مؤسسة النقد العربي السعودي بالنسبة لعمليات النقد ومراقبة
+المصارف التجارية هي كما يلي:
+(١) تثبيت ودعم القيمة الداخلية والخارجية للعملة،
+(أ) العمل على تقوية غطاء النقد .
+(ب) حفظ الأموال الاحتياطية المرصدة لأغراض النقد على أساس أنها أموال لا يجوز
+تشغيلها إلا بالعمليات المتعلقة بالنقد فقط.
+(ج) سك وطبع و إصدار النقد السعودي وكافة الأعمال الأخرى المتصلة بذلك طبقاً لنظام
+النقد السعودي رقم ٢٤.
+١. د. محمد حافظ الرهوان, حماية أموال البنوك, مجلة كلية الدراسات العليا بأكاديمية مبارك للأمن, العدد السابع يوليو
+٢٠٠٢ , ص ٢٥.
+2. V. R. Chapus, Droit du contentieux administratif, coll. Domat droit public, Montchrestien,
+12e éd., 2006, n° 113, p. 113114- écrivant : « on est fondé à apprécier comme une
+contre-indication excluant le caractère juridictionnel d'un organisme, sa qualification
+d'autorité administrative indépendante ».
+٣. د. أشرف توفيق شمس الدين ، المرجع السابق ، ص٧.
+٤. د.غادة عماد الشربيني ، المرجع السابق ، ص ١٨١ وما بعدها.
+٣١٨
+
+--- Page 9 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+(د) مراقبة المصارف التجارية والمشتغلين بأعمال مبادلة العملات ووضع التعليمات الخاصة
+بهم كلما رئي لزوم لذلك.
+وعلى كل بنك تجاري يعمل في المملكة أن يقدم إلى مؤسسة النقد العربي السعودي في كل شهر
+بيانا عن مركزه المالي وذلك طبقا للنماذج التي تعدها المؤسسة لهذا الغرض(١) .
+وكذلك عليه أن يقدم للمؤسسة البيانات التي تطلبها والتي من شأنها إيضاح أو تكملة البيانات
+السابقة ولا يجوز أن تكون في البيانات التي تطلبها المؤسسة من البنوك إفضاء عن حسابات
+العملاء الخاصة (٢).
+(ه) تكليف المصارف التجارية بالاحتفاظ في مؤسسة النقد العربي السعودي برصيد دائم
+نسبة معينة مما لديها من الودائع، وتحدد هذه النسبة من وقت إلى آخر بحسب
+الأحوال بقرار يصدره وزير المالية بناء على اقتراح المؤسسة، وعلى كل مصرف أن ينفذ
+بدقة التعليمات الصادرة في هذا الشأن من المؤسسة.
+ونص المنظم السعودي فى المادة الثانية عشرة على الجزاء على مخالفة الإلتزامات القانونية
+واللائحية المقررة فى النظام: يعاقب بغرامة لا تتجاوز عشرة آلاف ريال سعودي كل من إمتنع
+من المصارف والمشتغلين بأعمال مبادلة العملات عن إعطاء المعلومات التي تطلبها منه المؤسسة
+طبقا للبند (د) من المادة الثالثة، أو إمتنع عن الاحتفاظ في المؤسسة من الرصيد المنوه عنه
+في البند (ه) من تلك المادة بالنسبة التي يقررها وزير المالية، ويجوز للحكومة في حالة العودة
+فضلا عن تطبيق العقوبة السابقة الذكر إيقاف المحل مرتكب المخالفة أو غلقه.
+والثانية: الإحجام عن تقديم بيانات معينة:
+أوجب المنظم على البنوك المختلفة مد مؤسسة النقد السعودي(٣) والبنك المركزى المصري
+بالقرارات التى تصدر بتعيين أعضاء مجالس الإدارة والمديرين العاملين للبنوك المسئولين عن
+الائتمان أو الاستثمار، وما يتعلق بهم من بيانات، فقد استشعر المنظم ضرورة تمتع هؤلاء بقدر
+من الكفاءة والخبرة يتناسب مع خطورة المهنة التى يضطلعون بمهامها . أضف إلى ذلك أن
+هناك من هم ممنوعون قانونا من مباشرة مثل هذه الأعمال ، ومن ثم لا يمكن التحقق من
+ذلك إلا بالنص على الإلتزام بالنص المذكور .
+وقد تضمن النظام السعودي فى المادة العاشرة أن، المحافظ هو الذي يدير شئون المؤسسة
+وينوب عنها أمام القضاء، ويعين نائب المحافظ بمرسوم ملكي بناء على اقتراح وزير المالية،
+وموافقة مجلس الوزراء، ويحل محل المحافظ أثناء غيابه في جميع اختصاصاته وينحى عن
+. د.صالح بكر الطيار ، المؤتمر العربي لمكافحة الفساد (المحور الرابع): جامعة نايف العربية للعلوم الامنية، الرياض
+١٤٢٤ ، ١٠ ه ٢٠٠٣م، ص ٩
+2. V. B. Martin Laprade, « Réflexions sur la nature juridique de la commission des sanctions
+de l' Autorité de contrôle prudentiel (ACP) », in Mélanges en l'honneur de Philippe Bissara,
+éd. ANSA, 2013, p. 189, Contra : J.-P. Kovar, « La Commission des sanctions de
+P'ACP : juridiction ou administration ? [Brèves remarques sur la qualification de juridiction
+administrative spéciale de la Commission des sanctions de l'ACP] » : LPA 9 nov. 2012,
+n° 225, p. 29.
+٣. ونص المنظم السعودي فى المادة الثانية عشرة على الجزاء على محالفة الإلتزامات القانونية واللائحية المقررة فى
+النظام: يعاقب بغرامة لا تتجاوز عشرة آلاف ربال سعودي كل من إمتنع من المصارف والمشتغلين بأعمال مبادلة
+لعملات عن إعطاء المعلومات التي تطابها منه المؤسسة طبقاً للبند (د) من المادة الثالثة.
+العدد السابع -
+٣١٩
+
+--- Page 10 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+عمله بنفس الطريقة، ويحدد راتب المحافظ ونائب المحافظ ومكافآت أعضاء مجلس الإدارة
+بقرار من مجلس الوزراء و بناء على اقتراح وزير المالية، ويكون تعيين باقي موظفي المؤسسة
+غير المحافظ ونائب المحافظ وترقيتهم وفصلهم بواسطة المحافظ طبقا للائحة يقرها مجلس
+الإدارة وتراعى فيها بصفة عامة القواعد والأنظمة الصادرة في هذا الشأن بالنسبة لموظفي
+ومستخدمي المملكة من السعوديين والأجانب، وللمحافظ أن يحدد راتب هؤلاء الموظفين
+والمستخدمين وأجورهم ومدد وشروط خدماتهم وواجباتهم ومسئولياتهم بما لا يتعارض مع
+تلك اللائحة.
+وقد أعطى المشرع المصري لرئيس الوزراء المصري بعد استشارة محافظ البنك المركزى الحق
+فى استبعاد أى من أعضاء مجالس الإدارة أن المديرين المذكورين إذا كان ثمة شك فى قدرتهم
+على القيام بمهام الوظيفة أو توافر لديهم مانع قانوني يحول دون ذلك، وفى نفس المعنى ينص
+المشرع الفرنسي على معاقبة مدير البنك الذى يسمح بإدراج أسماء أشخاص غير مسموح
+بظهورهم فى سجلات البنك وأوراقه (١)فالمادة ٤٣٣/١٨ من قانون العقوبات الفرنسي تقرر
+عقوبة الحبس الذى لا تزيد مدته على ست سنوات والغرامة التى لا تتجاوز ٧٥٠٠ يورو لمن
+رتكب هذا السلوك ، شريطه أن يكون الأشخاص السابق ذكرهم من بين أعضاء طائفة معينة
+ددها المشرع على سبيل الحصر ، وان يدكر هولاء فى اوراق البنك بصفتهم الوظيفية
+تمثل هذه الطائفة فى الأشخاص الآتى ذكرهم:
+- أعضاء الحكومة الحاليين و السابقين سواء كانوا من الوزراء أم وكلائهم.
+- أعضاء البرلمان سواء الجمعية الوطنية أو مجلس الشيوخ.
+- أعضاء المجلس الأوروبي.
+- أعضاء المجلس الدستوري.
+- قضاة مجلس الدولة ومحكمة النقض ، حاليين كانوا أم سابقين.
+- أعضاء المجلس الأعلى للقضاء.
+- أعضاء مجلس إدارة البنك المركزي .
+- الحاصلون على أوسمة من الدولة.
+وتقترب جريمة الإمتناع عن أداء بعض الإلتزامات القانونية من تلك المنصوص عليها فى المادة
+٢٠١ من قانون النقد والتسليف اللبناني(٢) فتنص هذه الأخيرة على مسئولية كل شخص معتمد
+لتوقيع أو عضو مجلس إدارة أو مدير أو مستخدم فى البنك أو المؤسسة المالية ، إذا قدم للبنك
+المركزي بيانات حسابية أو معلومات أو شروحا ناقصة أو مخالفة للحقيقة بقصد الغش، وتكون
+العقوبة الحبس الذى لا يقل عن ثمانية أيام ولا يزيد على ثلاثين يوما والغرامة من مائة إلى
+آلف ليرة أو إحدى هاتين العقوبتين. كذلك نص المشرع اللبناني فى المادة ٢٣ من القانون
+سالف الذكر على جريمة ممارسة محافظ البنك المركزي أو نوابه مهام قبل مرور عامين
+على تركهم العمل، فهؤلاء ممنوعون بحكم القانون لفترة زمنية محددة من مباشرة أى وظيفة
+1. F. Stasiak, Droit pénal des affaires, L.G.D.J., 2005, p. 178 - 179
+٢. د. غسان رباح, قانون العقوبات الاقتصادي, الجرائم الاقتصادية والقضاء المالي في التشريعات العربية, منشورات
+الثقافة, بيروت ١٩٩٠ , ص ١٦١.
+٣٢٠
+
+--- Page 11 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+مصرفية ، وهو ما يفسر لنا الإلتزام بضرورة إخطار البنك المركزي فى لبنان بأسماء أعضاء
+مجالس إدارات البنوك والمديرين فيها كما هو الحال فى القانون المصري.
+وفى القانون الفرنسي تنص المادة ٢٤١/١ من قانون التجارة على معاقبة من يمتنع عن ذكر
+البيانات الحقيقية الخاصة بأنصبة الشركاء فى السجل التجاري للبنك(١)، بشرط أن يكون
+لامتناع قد وقع بسوء نية(٢) وقد قرر المنظم لهذه الجريمة عقوبة الحبس الذى لا يزيد على
+عت سنوات والغرامة التى لا تزيد على ٩٠٠٠ يورو.
+المبحث الثاني
+جريمة الإعتداء على الإحتكار المصرفي
+نضع إمكانية مباشرة العمل المصرفي لترخيص بذلك من السلطة المختصة ، ويبررٍ ذلا
+طورة الأعمال المصرفية ليس فقط على المصلحة الاقتصادية للدولة(٣)، وإنما أيضا على
+المصلحة الخاصة للأفراد (٤) ويدخل في ذلك الممارسات غير القانونية للمهنة المصرفية(٥).
+عاقب المنظم السعودي أي شخص طبيعي أو معنوي في نظام مراقبة البنوك الصادر بموجب
+المرسوم الملكي رقم م/٥ وتاريخ ١٣٨٦/٢/٢٢ ه
+ويعاقب المشرع الفرنسي على هذه الجريمة بمقتضى القانون الصادر فى ١٣ يونيو ثم ١٩٤١
+ثم بالقانون الصادر فى ٢٤ يناير سنة ١٩٨٤, وباستقرار هذه القوانين, يمكن تأصيل أركان
+الجريمة محل البحث إلى ركنين مفترض ومادى ثم عن العقوبة المقررة.
+1. P. Conte et W. Jeandidier, Droit pénal des sociétés commerciales, Litéc, 2004, no 31,
+p. 31.
+2. F. Dominguez, Le Droit pénal de sociétés commerciales, Tome I, édition JG, p. 45.
+3. M. Cabrillac et B. Teyssie, Etablissement de crédit. Monopole, Nullites, (Com. 19 nov.
+1991, Lejeune c/ DPM), RTD Com. 1992, p. 426
+٤. د. مدحت صادق «أدوات وتقنيات مصرفية - دار غريب بالقاهرة - ٢٠٠١ ص ١١.
+5. Aucun auteur n'avait, en effet, releve l'existence de cette disposition pourtant déterminante
+dans la discussion. V. T. Bonneau, « Un nouveau 2 décembre 1804 ? A propos de la
+décision du 13 mai 2011 de la commission des sanctions de l'ACP » : JCP E 2011,
+1704 ; du même, Banque et droit n° 139, sept.-oct. 2011, p. 13 et les obs. ; A. Couret
+et B. Dondero, « La commission des sanctions de l' Autorité de contrôle prudentiel est une
+juridiction dont il n'est pas sérieux de contester l'indépendance » : JCP E 2011, 1544;
+Y. Paclot, « De la nature de la Commission des sanctions de l'ACP » : RD bancaire et
+fin., sept.-oct. 2011, Alertes 26, p. 2 ; M.-A. Frison-Roche, « The Autorité de contrôle
+prudentiel's sanctions Commission rules itself to be a Court of Law, concluding that is
+competent to hear a Question Prioritaire de Constitutionnalité » : Journal of Regulation,
+11-622- ; LEDB févr. 2012, P. 3, n° 4, obs. J.-P. Kovar. Adde, J.-P. Kovar, « La
+Commission des sanctions de P'ACP : juridiction ou administration ? [Brèves remarques
+sur la qualification de juridiction administrative spéciale de la Commission des sanctions
+de l'ACP] : LPA 9 nov. 2012, n° 225, p. 29 sg.
+العدد السابع-
+٣٢١
+
+--- Page 12 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+أولاً: الركن المفترض:
+كان فى التشريعات الصادرة فى الاربعينيات من القرن الماضي، لا يرتكب هذه الجريمة إلا
+شخص طبيعى، وقد نص المشرع الفرنسي صراحة على ذلك فى المادة ٢١ من القانون الصادر
+عنة ١٩٤١، التى تعاقب كل شخص يصدر عنه السلوك الإجرامي ولو كان ذلك لحساب الشركة
+التى يعمل لديها، وبصدور قانون ٢٤ يناير ١٩٨٤، تبنى المنظم فكرة إمكانية ارتكاب الجريمة
+عن طريق الشخص المعنوي أيضا .
+وتجدر الاشارة إلى أن المشرع الفرنسي قد وضع شرطاً يلزم توافره فى الجاني ، فيتعين أن
+يكون هذا الأخير من ضمن المقيدين فى قائمة البنوك لدى اللجنة المصرفية، ومع ذلك يخرج
+من نطاق التجريم العاملين فى البنوك التى يسمح لها القانون بتلقى أموال أيا كانت طبيعتها
+ولو لم تكن مقيدة بالقائمة المذكورة ، وتلك هى البنوك ذات الطابع الخاص مثل البنوك
+Le Credit Agricole وبنك الائتمان الزراعى Les Basques Popularizes الشعبية
+، وكلها تخضع للرقابة المباشرة من قبل الدولة ممثلة في وزارة الاقتصاد أو المالية أو الزراعة.
+قد حدد المشرع طائفة معينة من الأفراد لا يستطيع أى من أعضائها أن يضطلع بمهم
+ضوية مجالس إدارة البنوك أو إدارتها أو التوقيع نيابة عنها ( وتشمل هذه الطائفة: اولا
+كل من حكم عليه بعقوبة جناية ، أو أي من جرائم التزوير أو استعمال المحررات المزورة أو
+الرشوة و استغلال النفوذ أو ترهيب موظف عام، أو السرقة أو النصب أو خيانة الأمانة أو
+خفاء الاشياء المتحصلة من آى من هذه الجرائم. تانيا: كل من حكم عليه بعقوبة الحبس لمدة
+كثر من شهرين فى أى من جرائم الشيكِ. ثالثاً: كل من حكم عليه فى الخارج بعقوبة حاز
+الحكم بها قوة الأمر المقضي واعتبر حكما بالإدانة فى جناية أو جنحة وفقا لأحكام القانون
+الفرنسي. رابعا: كل من حكم بشهر إفلاسه(٢).
+ثانياً: الركن المادي:
+يدور الركن المادي لجريمة الاعتداء على الاحتكار المصرفي حول فكرة إيداع مال لدى الغير،
+غير أن المشرع الفرنسي لم يرد حصر هذه الأخيرة فى النطاق الضيق الذى تنص عليه المادة
+١٩١٥ وما بعدها من القانون المدني الفرنسي. فقد مد نطاق فكرة "الإيداع المجرم" بمقتضر
+المادة الرابعة من القانون الصادر فى ١٣ يونيو ١٩٤١ سالف الذكر، لتشمل كل تلقى للأموال
+يتم فى جوهره على غرار العمليات المصرفية.
+وعلى ذلك يعاقب المشرع على كل إيداع غير مشروع للأموال أياً ما كانت تسميته، وأياً ما كان
+1. F. Ghelfi-Tastevin, Banques et établissement financiers, Rep. Pen. Dalloz, fevrier 2002,
+no 12, p. 3.
+2. Le rapport de la mission de réflexion et de propositions sur l'organisation et le fonctionnement
+de la supervision des activités financières en France, établi par M. Bruno Deletré en 2009
+(Inspection générale des finances n° 2008-M-06902-), proposait de « supprimer le
+statut de juridiction administrative attribué à la Commission bancaire lorsqu'elle prononce
+des sanctions » (proposition n° 10, p. 37). V. Q. Epron, « Le statut des autorités de
+régulation et la séparation des pouvoirs » : RFDA 2011, p. 1007.
+٣٢٢
+
+--- Page 13 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+عببه، فيستوي فى نظر المشرع أن يتم بناء على طلب المودع(١)، أو ترغيب من الجانى لديه،
+كما يستوى فى نظر المشرع أن يكون هذا الإيداع قد تم بمقابل من عدمه، ومن ثم فلا يكفى
+انتفاء الفائدة على الأموال المودعة لإباحة السلوك(٢).
+ولكن يلزم فى جميع الأحوال أن يكون الجانى قد قام بمباشرة السلوك الإجرامى على نحو
+معتاد، ويستشف ذلك من عدد حركات الإيداع فضلا عن قيامه بذلك خلال عدة سنوات(٢) .
+العقوبة:
+يعاقب المشرع الفرنسي على هذه الجريمة بوصفها جنحة، فتنص المادة ٢١ من القانون الصادر
+س ١٣ يونيو ١٩٤١ على عقوبة الغرامة أو الحبس ، كما يجوز للمحكمة أن تحكم بعقوبة تكميليا
+جوازية، هى نشر منطوق الحكم الصادر بالإدانة فى الجريدة الرسمية وإعلانه فى الجريدة
+والأماكن التى تعينها المحكمة (٤).
+أما فى القانون الصادر في ٢٤ يناير ١٩٨٤، فقد ميز المشرع بين حالتي ارتكاب الجريمة
+بمعرفة شخص طبيعي أو شخص معنوي (٥)فبالنسبة للحالة الأولى، ينص المشرع على معاقبة
+كل من يعتدي على الاحتكار المصرفى بعقوبتين أصليتين هما الحبس لمدة ثلاث سنوات
+والغرامة التي تبلغ ٣٧٥٠٠٠ يورو، كما نص على جملة عقوبات تكميلية يمكن الحكم بها تتمثل
+فى نشر منطوق الحكم الصادر بالإدانة فى الجريدة الرسمية وإعلانه فى الأماكن التى تعينها
+المحكمة وفقا لما جاء بالمادة ١٣١/٣٥ من قانون العقوبات الفرنسى. وبالنسبة للحالة الثانية
+١. وعادة ما تثار جريمة الاعتداء عليا لاحتكار المصري من المقترض لما لذلك من ضرر مباشر يقع عليه يتمثل في
+لغاء القرض, انظر في ذلك:
+- D. Legeais, Exercice illègal de la profession de banquier Préteur se prèvalent de la violation
+du monopole, BTD. Com., 2004, P. 795.
+2. V. not. Cass. com., 4 juin 2002, n° 0016915- - Cass. com., 2 juill. 2002, n° 0021404-
+: JCP E 2003, 396, obs. J. Stoufflet - Cass. com., 7 janv. 2004, n° 0102481- : R0
+bancaire et fin. mars 2004, comm. n° 4 note F.-J. Crédot et Y. Gérard.Cette question
+sous l'empire des textes actuels n'a jusqu'à présent donné lieu qu'à un seul arrêt de la
+chambre criminelle, rendu dans des circonstances de fait très différentes de la présente
+espèce : v. Cass. crim., 22 sept. 2010, n° 0985665- - En application de la loi du 28
+déc. 1966, la Cour avait jugé que l'infraction à la législation française sur les prêts était
+constituée en France dès lors que les offres de prêts avaient été proposées et acceptées
+en France : Cass. crim., 28 nov. 1996, n° 9580168-,Cass. crim., 30 mai 1972 : Bull.
+crim., n° 180.V. en matière de délit d'initié, Cass. crim., 26 oct. 1995, n° 9483780-; 1.
+Fadlallah, « Point de vue sur l'affaire Péchiney : la localisation du délit d'initié » : RCDIP
+1996, p. 621 - ou encore en matière de blanchiment de capitaux, Cass. crim., 17 nov.
+2010, n° 0988751- : Gaz. Pal. 26 févr. 2011, p. 43, note J. Morel-Maroger.
+3. R.Ottenhof, L'affaire Milesi ou «< l'escroquerie du siecle>> Destination de l'abus de
+confiance et de l'escroquerie. Exercice illegal de la profession de banquier, Rev. Sc.
+Crim., 1995, p. 352
+4. BJB juill. 2012, n° 125, p. 282, note T. Samin ; D. 2012, Pan. p. 1908, obs. H. Synvet
+; LEDB juin 2012, p. 7, n° 081, obs. J.-P. Kovar. Adde, Y. Paclot, « La régulation des
+activités bancaires et le respect du droit » : JCP G 2012, 1091
+٤ .p,١٧ - ١٦ F. Ghelfi-Tastevin, op. cit., no .٥
+٣٢٣٠
+العدد السابع -
+
+--- Page 14 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+- حيث يكون الجانى شخصاً اعتبارياً - فينص على عقوبة الغرامة التى يصل حدها الأقصى
+إلى ١٨٧٥٠٠٠ يورو، فضلا عن العقوبات التكميلية المنصوص عليها فى المادة ١٣١/٣٩ من
+قانون العقوبات التى نذكر منها على سبيل المثال: حظر ممارسة نشاط مهني أو اجتماعي،
+الوضع تحت المراقبة القضائية، الغلق سواء بصفة مؤقتة لمدة خمس سنوات أو بصفة نهائية،
+ومصادرة الأشياء التى استخدمت فى ارتكاب الجريمة أو تحصلت عنها .
+المبحث الثالث
+جريمة ممارسة المهنة المصرفية دون ترخيص
+نص المشرع الفرنسي على هذه الجريمة فى المادة ١٢ و ٢١ من القانون الصادر فى ١٣ يونيو
+١٩٤١ والقانون الصادر فى ٢٤ يناير ١٩٨٤، كما حدد مدلول المهنة المصرفية فى المادة الأولى
+من ذات القانون(١)، فقد لوحظ خلال الربع الأخير من القرن الماضي ظهورٍ ما اصطلح على
+سميته بشركات "توظيف الأموال". ولا ريب أن هذه الظاهرة قد رتبت ضررا بالغ الجسامة لم
+قتصر نطاقه على المصالح الخاصة للأفراد، وإنما امتد إلى مصلحة المجتمع ككل(٢) فالأصل
+أن تجميع رؤوس الأموال يكون بغرض استثمارها فى المشروعات الصناعية الكبرى وتحسين
+الأداء الاقتصادي للدولة، لا فى مشروعات استهلاكية فردية غير مدروسة ، وتجدر الإشارة إلى
+عدم كفاية النصوص التقليدية لقانون العقوبات - سواء فى مصر أو فى فرنسا فى جرائم
+النصب وخيانة الأمانة ، فقد يتخلف عنصر من عناصر الركن المادي فى جريمة النصب
+كالأكاذيب أو الوسائل الاحتيالية، وبالتالى تنتفى جريمة النصب، كما يقوم الجاني باستغلال
+الأموال الموضوعة فى حيازته فى بعض العمليات المصرفية دون أن تتوافر لديه نية تملكها،
+وهو ما يتناقض مع النموذج القانوني لجريمة خيانة الأمانة.
+أولاً: الركن المادي:
+ألقى المنظم الفرنسي على عاتق المؤسسات المصرفية التزاما بضرورة القيد فى قوائم معينة
+تشرف عليها اللجنة المصرفية المختصة بالرقابة على النشاط المصرفى، فإن أخلت أى من هذه
+1. France d'un délinquant des chefs d'abus de confiance et d'exercice illégal de la profession
+de banquier, alors que l'argent versé par la victime venait d'une banque suisse et était
+destiné à une société située au Luxembourg susceptible d'avoir été constituée aux iles
+vierges britanniques par l'intermédiaire d'un compte bancaire situé à Londres, la Cour de
+cassation relève que tous les éléments préalables et accords ayant conduit au transfert
+ont eu lieu en France et que cet argent a été détourné notamment au profit de sociétés et
+activités en France, alors que les personnes de nationalité française concernées habitaient
+en France.Cass. crim.,8juill.2015,no1388557-, ECLI:FR:CCASS:2015:CR02328, M.
+Michel X (rejet pourvoi c/ ch. corr. CA Bordeaux, 26 nov. 2013), M. Guérin, prés. ; Me
+Ricard, SCP Waquet, Farge et Hazan, av.Un responsable d'une agence bancaire a été
+condamné du chef de complicité d'abus de confiance et d'exercice illégal de la profession
+de banquier par la cour d'appel de Bordeaux. L'arrêt rendu par la chambre criminelle le
+8 juillet 2015 confirme la condamnation dans des conditions assez discutables au regard
+du champ d'application dans l'espace et de la prescription du delit d'exercice illégal de
+la profession de banquier réprimé par l'article L. 5713- du Code monétaire et financier.
+2. B. Bouloc, Les infractions pénales commises lors de la constitution des sociétés
+commerciales, Rev. Int. dr. Pen., 1985 - 1986, p. 81.
+٣٢٤
+
+--- Page 15 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+المؤسسات بهذا الالتزام، بأن قامت بمباشرة أى من العمليات المصرفية قبل القيد فى قوائم
+البنوك(١)، جاز تحريك الدعوى الجنائية فى مواجهتها .
+وقد قام المشرع الفرنسي بتعريف البنوك في المادة الأولى من القانون الصادر فى ١٣ يونيو
+١٩٤١ والقانون الصادر فى ٢٤ يناير ١٩٨٤ بأنها "المشروعات والمؤسسات التى تباشر على
+نحو معتاد مهنة تلقى أموال من الجمهور فى شكل إيداعات أو غيره، بهدف توظيفها لحساب
+أصحابها فى عمليات الخصم النقدي والائتمان والعمليات المالية"(٢) .
+وعلى ذلك، يتطلب المنظم لقيام الركن المادي فى الجريمة شروطاً أربعة هى (٢):
+١- عدم القيد فى القوائم.
+٢- ممارسة المهنة على نحو معتاد .
+٣- تلقى أموال من الجمهور .
+٤- توظيف ما يتلقاه من أموال فى عمليات الخصم النقدي، والائتمان والعمليات المالية.
+١- عدمٍ القيد فى القوائم المصرفية:
+استشعارا من المشرع بأهمية الانتظام الذى يجب أن يسود النشاط المصرفى، فقد أخضع
+مباشرته لرقابة قانونية واقتصادية وفنية، تمارسها اللجنة المصرفية، فهذه الأخيرة هى المنوط
+بها - منذ قانون ٢٤ يناير ١٩٨٤ - تسجيل مشروع معين أو شطبه من قائمة البنوك، وفى هذه
+الحالة الأخيرة يكون قرارها قابلا للطعن أمام القضاء الإدارى.
+وتتضمن قائمة البنوك فى فرنسا فى الوقت الراهن أكثر من أربعمائة مؤسسة مصرفية، ما
+بين بنوك وطنية وفروع لبنوك أجنبية فى فرنسا. بيد أن المشرع الفرنسى لا يأتى على البنوك
+قاطبة التزاما بالقيد دون استثناء، فهناك بنوك تتمتع بوضع قانونى خاص، فلا تقيد فى
+قائمة البنوك، ومع ذلك يتيح لها القانون مباشرة المهنة المصرفية على النحو الذى بينته المادة
+الأولى من القانون الصادر فى ١٣ يونيو ١٩٤١، دون أن يعد ذلك سلوكا يقوم به الركن المادى
+فى الجريمة محل البحث، مثال ذلك البنوك الشعبية وصناديق التوفير والصناديق التعاونية
+للودائع والتسليف والأمانات وبنك الائتمان الزراعي.
+٢- ممارسة المهنة على نحو معتاد:
+تفترض ممارسة المهنة بصفة عامة أن يباشر صاحبها أعمالاً متكررة تكفى من حيث الكم
+لتوفير مقابل مالي يسمح له بمواجهة أعباء الحياة ، أما ما يتطلبه المشرع في المادة الأولى من
+القانون الصادر في ١٣ يونيو ١٩٤١ والمادة العاشرة من القانون الصادر في ٢٤ يناير ١٩٨٤ من
+كون الجاني يمارس المهنة المصرفية "على نحو معتاد" فلا يقصد منها سوى إبراز فكرة تكرار
+الأعمال المهنية أو التأكيد عليها ، ويلاحظ أن تقدير مدى ممارسة الجاني للمهنة المصرفية
+على نحو معتاد هي مسألة موضوعية تخضع للسلطة التقديرية لقاضى الموضوع. وعلى ذلك،
+1. P. Conte et W. Jeandidier, op. cit., no 35, p. 33.
+2. J. Cosson, Les délits en matière de banques et d'établissement Financiers, R.S.C.,
+1973, p. 2.
+3. M. Cabrillac et C. Mouly, Droit pénal du banquet et du crédit, Masson, 1982, no 41, p. 40.
+العدد السابع -
+٣٢٥
+
+--- Page 16 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+لا يشترط أن تكون الأعمال المهنية كثيرة من حيث العدد، أو تزيد على قدر معين، فيمكن
+الاكتفاء بأقل عدد من الأعمال طالما كان ذلك كافيا فى نظر المحكمة لتوافر هذا الشرط(١).
+٣ - تلقي أموالاً من الجمهور:
+إيمانا من الشارع بضرورة محاربة كافة الصور غير المشروعة لتجارة النقود، نص على مفهوم
+واسع لفكرة "تلقى" الأموال بوصفها أحد عناصر الركن المادى للجريمة، فالمادة الأولى من
+القانون الصادر فى ١٣ يونيو ١٩٤١ تقرر أن جوهر المهنة المصرفية يتمثل فى "تلقى أموال من
+الجمهور فى شكل إيداعات أو غيره" وعلى ذلك يجوز لمحكمة الموضوع أن تعول على أى تلقى
+لأموال ولو لم يأخذ هذا الأخير شكل عقد إيداع بالمعنى القانوني(٢).
+ويلاحظ أن الجريمة لا تقوم إلا بتلقى الجانى لأموال سائلة، أما غير ذلك من الأموال التى
+يكون قوامها مختلف عن هذه الأخيرة، فلا تقوم بتلقيها الجريمة ، مثال ذلك القيم المنقولة
+وحقوق الدائنية لدى الغير والعقارات، فكلها من الأموال التى لا يجوز توظيفها لحساب
+أصحابها فى العمليات المصرفية.
+وتجدر الإشارة أن مفهوم "الجمهور" ليس مرادفاً ل"الغير"، إذ يفترض أن تكون بين هذا
+الجمهور والجاني رابطة تعاقدية تكفى لإعتبار الأول عميلا لدى الثاني، أو عميلا محتملا على
+أقل تقدير. ومن هنا ينحسر مفهوم "الجمهور" عن طائفتين من الأفراد: اولاهما الموظفين
+بأجر الذين يعملون لدى الجانى. فقد نص المشرع الفرنسي فى المادة ٣/٢ من قانون ١٣ يونيو
+١٩٤١ على أن "تعتبر فى حكم الإيداعات التى تتم من الجمهور، تلك التى يتلقاها المشروع من
+العاملين لدى الجانى. وثانيهما المساهمين فى رأس المال، إذ من غير المتصور أن يتسع مفهوم
+"الجمهور" ليشمل كل من تربطه علاقة مالية أو قانونية أو اقتصادية، تسمح له بتكوين كل أو
+عض من رأس مال المشروع فى صورة إيداعات نقدية.
+٤- توظيف ما يتلقاه من أموال فى عمليات الخصم النقدي، والائتمان والعمليات
+1. F. Ghelfi-Tastevin, Banques et Etablissement Financiers, op. cit., no 25, p. 5.
+2. La Cour de justice de l'Union européenne, interrogée à plusieurs reprises sur
+l'interprétation de l'article 5, § 5, du règlement Bruxelles 1, a toujours considéré que les
+notions visées par ce texte devaient faire l'objet d'une interprétation autonome4. Elle
+retient une définition purement matérielle et non juridique de l'« établissement », reposant
+sur deux critères cumulatifs5 : l'établissement doit à la fois être dépendant de la maison
+mère6 - ce qui ne pose évidemment pas de difficulté en l'espèce - mais aussi disposer
+d'une autonomie suffisante vis-à-vis de la société mère. Cette qualification implique un
+centre d'opérations durable pourvu d'une direction et matériellement équipé de façon à
+pouvoir négocier ou conclure des affaires avec des tiers. Pour contester la compétence
+des juridictions françaises, la banque se fondait justement sur cette absence d'autonomie
+de son bureau parisien, affirmant que toutes les demandes étaient transmises au siège à
+Riga et exécutées en Lettonie, le bureau parisien ne disposant ainsi d'aucune autonomie
+de gestion, d'aucun pouvoir décisionnel et ne pouvant conclure aucune opération de
+banque. Sur la spécificité des succursales en matière bancaire, v. Gavalda C., « Les
+succursales bancaires en droit international et spécialement en droit communautaire »,
+Dr. prat. com. int. 1985, p. 427. Stoufflet J. et Gauvin A., « Le bureau de représentation,
+bras séculier des banques étrangères en France », RD bancaire et fin. 2005, art. 19.
+٣٢٦
+
+--- Page 17 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+المالية:
+قلنا فيما سبق أن العمليات المصرفية قرينة الخطر، وهو ما يتطلب إتاحة السبيل آمام البنك
+لتقدير هذا الأخير لأنه هو الذى سيتحمل مغبته(١)، والأصل أن البنك يتاجر بأموال المودعين
+، أما الربح فيذهب إلى البنك الذى وظف هذه الأموال وتحمل المخاطرة، ومن ثم فالبنك
+ستثمر أموال عملائه ولكن لحسابه وليس لحساب هؤلاء.
+وقد يحاول البعض دفع المسئولية الجنائية الناشئة عن جريمة ممارسة المهنة المصرفية
+دون ترخيص(٢)، بالقول أن العمليات التى باشرها، استثمارا للمال الذى تلقاه، كانت لحساب
+أصحاب هذا المال وليس لحسابه، بيد أن المحاكم لا تأخذ بهذا الدفع ، وإنما تنظر إلى مدى
+قيام الجانى بالتصرف الفعلي فى الأموال التى تلقاها ، فإن ثبت لديها ذلك ، كان ذلك بمثابة
+قرينه على أن الجانى قد قام بتوظيف هذه الأموال لحسابه.
+بلزم أن يكون الجاني قد قام باستغلال الموال المتلقاه فى مجالات الخصم النقدى والائتما
+ل الافتراض والكفالات، والعمليات المالية كشراء أوراق مالية
+وجدير بالذكر أن المشرع اللبنانى أورد فى المادة ١٩٥ من قانون النقد والتسليف(٤)، فنص على
+إنزال عقوبة الحبس من ثلاثة أشهر إلى سنتين وبالغرامة من خمسين إلى خمسمائة ليرة،
+على كل شخص حقيقى أو معنوى لا يمارس المهنة المصرفية و تلقى ودائع، وعلى أية مؤسسة
+مارس عملامصرفيا دون أن تكون مسجلة فى لائحة المصارف.
+ثانياً: الركن المعنوي:
+لم ينص المشرع الفرنسى على القصد الجنائى صورة للركن المعنوى في الجريمة محل البحث،
+ومن ثم يكفى أن يقيم القاضي الدليل على توافر الإهمال أو عدم مراعاة القوانين واللوائح
+ثبوت المسئولية الجنائية.
+يعاقب المشرع الفرنسي على هذه الجريمة باعتبارها جنحة، ويقرر لها - وفقاً لأحكام القانون
+الصادر فى ١٣ يونيو ١٩٤١ - عقوبة الحبس الذى لا يقل عن شهر ولا يزيد على سنتين ،
+والغرامة التى لا تقل عن ٣٦٠٠ يورو ولا تزيد على ٠٠٠,٨٠ يورو أو أى من هاتين العقوبتين،
+ويكون للمحكمة أن تنطق بعقوبة تكميلية جوازية هى نشر منطوق الحكم الصادر بالإدانة
+وإعلانا فى الجريدة الرسمية والأماكن التى تعينها المحكمة. أما فى القانون الصادر فى ٢٤
+يناير ١٩٨٤, فقد عاقب المنظم على الجريمة بالحبس لمدة ثلاث سنوات والغرامة التى تبلغ
+قيمتها ٣٧٥٠٠٠ يورو, فضلا عن العقوبة التكميلية السابق ذكرها.
+١. د.علي محمود علي حموده ، المرجع السابق ، ص ١٠.
+2. Le principe de vigilance a été mis en lumière par : C. Cass. 28 janv. 1930, Gaz. Pal.
+1930, p. 369, obs. Demogue. Il n'est pas fait mention, dans
+1930. 1. 550 ; R.T.D. Civ.
+la présente étude, du delit de banqueroute pour recours à des moyens ruineux dans
+l'intention d'éviter ou de retarder l'ouverture d'une procédure collective (art. 197 de la loi
+du 25 janv. 1985), pour lequel la complicité de la banque pourrait être retenue.
+٤. د.غسان رباح, قانون العقوبات الاقتصادي, المرجع السابق, ص١٥٨
+العدد السابع -
+٣٢٧
+
+--- Page 18 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+المبحث الرابع
+جريمة الإستعمال غير المشروع للمصطلحات المصرفية
+عادة ما تلجأ المؤسسات التى تمارس نشاطاً مصرفياً غير مشروع إلى تعمد إخفاء تعبير
+"المصرف " فى كل أعمالها ، خوفا من إثارة حفيظة الجهات الرقابية(١)، أما المؤسسات أو
+المشروعات التى تستخدم تعبير "البنك " كما هو الحال بالنسبة لبنوك الدم وبنوك العيون
+، فالأصل أنها لا تمارس أي نشاط ذي علاقة بالمؤسسات المصرفية ، ومن ثم فهى لا تدخل
+حت طائلة التجريم.
+عاقب المنظم السعودي في نظام مراقبة البنوك، في المادة الخامسة ، يحظر على أي شخص
+غير مرخص له بمزاولة الأعمال المصرفية في المملكة بصفة أساسية أن يستعمل كلمة (بنك)
+ومرادفتها أو أي تعبير يماثلها في أي لغة سواء في أوراقه أو مطبوعاته أو عنوانه التجاري أو
+اسمه أو في دعايته.
+أن نطاقشتعريم يتسي ليشل النول ت المركز الونية الة وصاديق التوفير
+ة الاستعمال غير المنظم للمصطلحات المصرفيا
+وقد تناول المشرع هذه الجريمة على نحو مفصل فى المواد ٢٣ ،١٢ من القانون الصادر فى ١٣
+يونيو ١٩٤١ و٧ مكرر من قانون ١٤ يونيو ١٩٤١ ، ونعرض فيما يلى أركان الجريمة وعقوبتها فى
+كل من هذه المواد الثلاثة، وذلك على النحو التالي:
+اولا: الركن المادي:
+ص المادة ١٢ من قانون يونيو ١٩٤١ على أنه " لا يجوز
+تا اليتول إن قائون توير ارف على أصلا وجلسة التراي راة يد تسمياً أو
+عنوان شركته أو نشراته ، أو فى نشاطه بأى حل من الأحوال.
+وعلى ذلك يتحقق الركن المادي فى الجريمة المنصوص عليها فى المادة ١٢ بمجرد استعمال آى
+من المصطلحات المذكورة فيهٍ (٢) ولا يهم أن يتم ذلك بشكل علني أو خفي ، كما يستوى فى نظر
+المشرع أن يكون المشرع فرديا أو اتخذ شكل شركة.
+وتنص المادة ٢٣ من القانون المذكور على معاقبة "كل شخص يصف مشروع مقيد فى لائحة
+البنوك, بأنه مصرف أو مؤسسة ائتمانية أو يلقب شخص بالمصر في دون أن يمارس نشاطا
+مذكورا فى هذه اللائحة, شريطة أن يقع منه هذا السلوك فى فرنسا وعلى محرر يصدق
+عليه وصف العلانية".
+وعادة ما ترتكب هذه الجريمة من مدير المشروع الذى يستعمل تعبير المصرف على نحو
+مشروع ، ويلاحظ أن اشتراط ارتكاب الجريمة في فرنسا أمر مفهوم، فهو مستفاد من مبدأ
+Ce n'est d'ailleurs pas pour rien que l'essentiel de la législation française « anti-
+blanchiment» se trouve au sein du Code monétaire et financier et que le service à
+compétence nationale Tracfin, interlocuteur placé au cœur du dispositif légal, est placé
+sous la double tutelle du ministère de l'Économie, des Finances et de l'Emploi et du
+ministère du Budget, des Comptes publics et de la Fonction publique, et non pas sous
+l'autorité du ministère de l'Intérieur ou de la Justice. P. Bérégovoy, La lutte contre le
+blanchiment des capitaux, Rev. jurispr. com. 1990, no 12, p. 377.
+2. J. Cosson, Les délits en matière de banques et d'établissement financiers, op.cit.P,3
+٣٢٨
+
+--- Page 19 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+طبيق نصوص قانون العقوبات من حيث المكان ، ويشترط في جميع الأحوال أن يكون سلوك
+الجاني قد وقع كتابة في محرر بطريقة علنية ، وعلى ذلك تدخل وثائق المشروع ونشراته
+الدورية و إعلاناته فى وسائل الإعلام فى دائرة التجريم.
+كذلك الحال بالنسبة للجريمة المنصوص عليها فى المادة ٦ مكرراً من القانون الصادر ١٤ يونيو
+١٩٤١، فتقرر هذه الأخيرة معاقبة "كل من يعطى عمدا وصف المؤسسة المالية، في محرر
+صدق عليه وصف العلانية ، لمشروع غير مسجل وفقا للشروط المنصوص عليها في المادة ٧ و
+١١ من هذا القانون «(١) ، بل إنه في سبيل عدم إفلات المجرمين بارتكاب تلك الجرائم قررت
+شرعية الأدلة الناتجة عن إقامة موقع لمتابعة جرائم الاحتيال المصرفي أو للاستخدام غير
+المشروع للمصطلحات المصرفية ، "().
+-ا وقد نص المشرع اللبنانى على الجريمة محل البحث فى المادة ١٩٥ من قانون الن
+لتسليف، فقرر معاقبة أية مؤسسة تستعمل دون أن تكون مسلجة فى لائحة المصار
+عبارات مصرف أو صاحب مصرف أو مصرفي أو أية عبارة مماثلة فى أية لغة كانت ، سواء
+فى عنوانها التجاري أو في موضوعها أو إعلاناتها (٣) .
+ثانياً: الركن المعنوي:
+يتمثل الركن المعنوي لجريمة الاستعمال غير المشروع للمصطلحات المصرفية من قبل المشروع:
+المنصوص عليها فى المادة ١٢ سالفة الذكر, أو من قبل مديره, المنصوص عليها فى المادة
+٢٣ , فى القصد الجنائى.
+فلابد أن يكون الجاني عالما بالحظر القانونى الذى يقرره المنظم فى المادتين, وأن مشروعه
+غير مسجل فى قائمة المصارف, ومع ذلك تتجه إرادته إلى توظيف المصطلحات المصرفية
+فى نشاطه خلافا للحقيقة.
+« aux motifs que l'existence et le fonctionnement du site « Carderprofit » n'ont été connus
+que par le communiqué de presse du FBI du 26 juin 2012 aux termes duquel « En juin
+2010, le FBI a mis en place un forum de carding d'infiltration dénommé « Carderprofit »
+(le site UC) permettant aux utilisateurs de discuter de divers sujets liés à la fraude à la
+carte bancaire et de communiquer, entre autre chose, des offres d'achats, de vente et
+d'échanges de biens et services liés à la fraude à la carte bancaire (carding), que du fait
+que les personnes engagées dans ces activités illégales utilisent de nombreux site de
+carding sur internet, le FBI a créé le site UC afin de pouvoir identifier ces cybercriminels,
+d'enquêter sur leurs crimes et de prévenir les dommages aux victimes innocentes, que le
+site UC a été configuré pour permettre au FBI de surveiller et d'enregistrer les discussions
+en ligne publiées sur le site, ainsi que des messages envoyés par l'intermédiaire du site
+entre utilisateurs enregistrés, que le site UC a également permis au FBI d'enregistrer le
+protocole internet (IP) de l'ordinateur des utilisateurs quand ils ont consulte le compte »
+Cour de cassation, criminelle, Chambre criminelle, 30 avril 2014, 1388.162-.
+2. Crim., 7 février 2007, pourvoi n° 0687.753-, Bull. crim. 2007, n° 37 (cassation), et les
+arrêts cités ;Crim., 16 janvier 2008, pourvoi n° 0787.633-, Bull. crim. 2008, n° 14 (rejet),
+et les arrêts cités ;Crim., 7 janvier 2014, pourvoi n° 1385.246-, Bull. crim. 2014, n° 1
+٣. د. غسان رباح ، المرجع السابق ، ص ١٥٨.
+العدد السابع -
+٣٢٩
+
+--- Page 20 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+العقوبة:
+عاقب المشرع الفرنسي على الجريمة محل البحث - فى صورها المختلفة - باعتبارها
+جنحة، فالمادة ١٢ تقرر عقوبة الحبس من شهر إلى سنتين وغرامة من ٣٦٠٠ يورو إلى ٠٠٠,٨٠
+أو أى من هاتين العقوبتين. أما الصورة الثانية المنصوص عليها فى المادة ٢٣ من قانون ١٣
+يونيو ١٩٤١، والصورة الثالثة المنصوص عليها فى المادة ٦ مكرر من قانون ١٤ يونيو ١٩٤١، فهى
+من الجرائم المعاقب عليها بالغرامة التى لا تقل عن ٣٦٠٠ يورو ولا تزيد على ٠٠٠,٤٠ يورو
+وتقترب أحكام القانون الفرنسى من أحكام القانون اللبنانى ، حيث يقرر هذا الأخير العقاب
+على الجريمة بالحبس من ثلاثة إلى سنتين والغرامة من خمسين إلى خمسمائة ليرة.
+المبحث الخامس
+جريمة الإدعاء بالقيد فى قائمة البنوك
+بنص المشرع الفرنسي في المادة ٤/٦ من القانون الصادر في ١٤ يونيو ١٩٤١ والمعدلة بالقانون
+الصادر عام ١٩٨٤م على أن كل من يقدم ادعاء، يهدف به أو يكون من شأنه أن يؤدى إلى
+الاعتقاد بقيد مشروع في قائمة البنوك، أو يثير خلطا في الذهن في هذا الخصوص(١)، يحكم
+عليه بالتعويض لصالح الشركة المضرورة ، وبالغرامة من ٣٦٠٠ يورو إلى ٠٠،٤٠. يورو إذا كان
+سلوكه قد تم بسوء نية، ونوضح فيما يلى أركان هذه الجريمة وعقوبتها.
+أولاً: الركن المادي:
+يقوم الركن المادي للجريمة محل البحث على فكرة الادعاء بالقيد فى قائمة البنوك. ويستوى
+فى هذا الادعاء أن يتم كتابة أو شفاهة، كما لو تم عن طريق الإعلانات التى تنشر بالإذاعة
+أو التليفزيون. ولابد أن يؤدى سلوك الجانى إلى الاعتقاد بأن ثمة مؤسسة مالية تتمتع بالصفة
+1. Article 6 (abrogé au 25 juillet 1984) Créé par Loi 194114-06- JORF 6 juillet 1941
+rectificatif JORF 11 septembre 1941,Abrogé par Loi 8424-01-1984 46- art. 94 1 JORF
+25 janvier 1984 en vigueur le 25 juillet 1984Les infractions aux dispositions des titres
+II, II١, IV et V ci-dessous rendent leurs auteurs passibles d'une sanction disciplinaire
+prononcée dans les conditions fixées par les articles 52 et 53 de la loi du 13 juin 1941
+portant réglementation et organisation de la profession bancaire. Toutefois, le retrait
+d'enregistrement ou d'agrément remplace la radiation de la liste des banques.Sans
+préjudice des sanctions disciplinaires prévues ci-dessus, toute personne qui, agissant
+soit pour son compte sans que son entreprise soit régulièrement enregistrée ou agréée,
+soit pour le compte d'une société non régulièrement enregistrée ou agréée, exerce les
+activités définies aux articles ler, 2, 3 et 13 du présent décret [*loi*], est passible
+des peines prévues par l'article 21 de la loi du 13 juin 1941 portant reglementation et
+organisation de la profession bancaire. Tout renseignement inexact donné à la commission
+de contrôle expose son auteur, s'il a agi sciemment, aux sanctions prévues à l'article
+22 de la loi précitée.De même, l'auteur d'une mention ayant pour but, ou pour effet, de
+laisser croire à l'inscription sur la liste des banques d'une entreprise visée par le présent
+décret [*loi*], ou de créer une confusion en cette matiere sera passible de dommages-
+intérêts au profit de l'association professionnelle intéressée et, en cas de mauvaise foi,
+d'une amende de 3.600 F à 30.000 F [*sanctions*].
+٣٣٠
+
+--- Page 21 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+لماع الملتقى بالصفة المصرفية للموية المالية، اكتفاء بمجرد خ الحمن الخلط الى
+ذهنه (٢) .
+ثانياً: الركن المعنوي:
+قع الجريمة بكل من صورتي الركن المعنوي: الخطأ غير العمدي والقصد الجنائي، ويبين
+ذلك من التفرقة التى أقامها المنظم ، فيما يتعلق بالعقوبة ، بحسب مدى توافر سوء النية من
+عدمه .
+فإذا توافرت هذه الآخيرة ، وقعت الجريمة بطريق العمد، وإن تمت بدونها يكفى عدم التبصر
+أو الإهمال.
+العقوبة:
+العمد ، فيحكم عليه فضلا عما سبق بغرامة جنائية لا تقل عن ٣٦٠٠ يورو ولا تزيد على
+٤٠٠٠٠ يورو .
+.1
+En France, comme dans plusieurs pays étrangers tels les États-Unis ou l'ltalie, les
+pouvoirs publics ont confié la régulation du marché financier à diverses institutions, que
+l'on dénomme traditionnellement « autorités de marché «3 Celles-ci possèdent, outre
+des pouvoirs de décision individuelle ou réglementaire, le pouvoir de sanctionner les «
+infractions « au droit boursier. Il aurait sans doute été préférable de bien délimiter leurs
+compétences respectives, mais il n'en a rien été. Jusqu'à la loi no 96597- du 2 juillet
+1996 de modernisation des activités financières, quatre autorités de marché - cinq même,
+si l'on tenait compte de la Commission bancaire - disposaient de pouvoirs similaires,
+notamment de sanction pécuniaire, qui pouvaient se chevaucher : la Commission des
+opérations de bourse, le Conseil des bourses de valeurs, le Conseil du marché à terme
+et le Conseil de discipline des organismes de placement en valeurs mobilières. Depuis
+la réforme, le Conseil des bourses de valeurs(CBV)4 et le Conseil du marché à terme
+(CMT)5 ont été supprimés au profit d'un « Conseil des marchés financiers «, la COB et
+la Commission bancaire se voyant octroyer pour leur part de nouvelles prérogatives en
+matière disciplinaire. Avant de s'attacher plus précisément au problème de chevauchement
+des compétences, une présentation, même succincte, de ces différentes autorités de
+marché n'apparaît pas inutile pour la clarté de l'étude envisagée.
+٢ . في نفس المعني:
+- P. Conte et W. Jeandidier, op. cit., no 35 - 36, p. 33
+3. V, à propos de décisions de la commission des sanctions de l'AMF : CE, 7 févr. 2007,
+6e et lre ss-sect. réunies, n° 288373 (considérant n° 5) ; CE, 9 nov. 2007, 6e et lre ss-
+sect. réunies, n° 298911 (consid. n° 2) - CE, 20 mai 2011, 6e et lre ss-sect. réunies, n°
+316522 (consid. n° 4) ; CE, 13 juill. 2011, 6e et lre ss-sect. réunies, n° 327980 (consid.
+n° 15) - CE, ord. réf., 12 oct. 2012, n° 362867 (consid. n° 7).
+٣٣١
+العدد السابع -
+
+--- Page 22 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+خاتمة
+الجرائم المصرفية بالمعنى العام هى أنماط من السلوك تصيب الأعمال التي استقر العرف
+المصرفى على اعتبارها ذات طبيعة مصرفية. وعادة ما يصدر الشارع نصوصاً تنظيمية تحكم
+يفية مباشرة هذه الأعمال وحدود الإستقلال أو التبعية لسلطة مصرفية يطلق عليها البنك
+المركزي.
+ويتضح ذلك إذا ما لاحظنا الإختصاصات المنوطة بمؤسسة النقد السعودي وما صدر بموجب
+المرسوم الملكي رقم ٢٣ وتاريخ ١٣٧٧/٥/٢٣ ه فى المادة الأولى: أغراض مؤسسة النقد العربي
+السعودي هي كما يلي(أ) إصدار ودعم النقد السعودي وتوطيد قيمته في داخل البلاد وخارجها
+(ب) أن تقوم بأعمال مصرف الحكومة،(ج) مراقبة المصارف التجارية والمشتغلين بأعمال مبادلة
+أما الرقابة فى مصر فقد أسندت إلى الإدارة العامة للرقابة على البنوك ، فهذه الأخيرة
+هى الجهة المنوط بها مراقبة النشاط المصرفى, وتتضمن عدة أقسام من بينها قسم الشئون
+المصرفية , ويضطلع هذا القسم بوظائف محددة تتصل بمنح تراخيص مزاولة المهنة المصرفية
+لبنوك الجديدة وتسجيلها, وإنشاء الفروع والزيادة فى رؤوس أموال البنوك.
+وفى فرنسا تلعب اللجنة المصرفية مهام الدور الإشرافى على المؤسسات المصرفية، فقد أنشئت
+هذ اللجنة بمقتضى الصادر فى ٢٤ يناير سنة ١٩٨٤ وحددت اختصاصاتها فى المادة ٣٧ على
+النحو التالي:
+- مراقبة احترام المؤسسات المصرفية للنصوص القانونية واللائحية التى تخضع لها وتوقيع
+الجزاء على من يخالفها .
+- التحقق من توافر شروط مباشرة الوظيفة ومدى متانة المركز المالى للمؤسسات المصرفية.
+- مراقبة احترام القواعد التى تضمن حسن سير العمل فى المؤسسات المصرفية.
+- إعطاء تقارير استشارية للمحاكم المنظورة أمامها الدعاوى التى نشأت بسبب ارتكاب
+الجرائم المنصوص عليها في هذا القانون.
+وقد خلصنا من الدراسة الى التوصيات الآتية:
+١- اسناد الرقابة المالية على المصارف للجنة تتسم بالتخصص والحياد ، مع تحديد نسبة
+مالية معينة على المخالفات التي قد ترتكبها البنوك.
+- تشديد العقوبات على زعزعة الثقة المصرفية ، وشمول ذلك لاي وسيلة قد تزعز
+ستقرار في المعاملات المصرفية
+٣- رفع قيمة الغرامات المالية وجعلها بنسبة مئوية من الأرباح التي تحققها تلك المؤسسات
+المصرفية.
+٤- ادراج قوائم البنوك ورأسمالها على موقع البنك المركزي المصري ومؤسسة النقد السعودي.
+٥- إصدار قانون شامل للرقابة المالية ، وتحديد الحماية الإجرائية والموضوعية الواجبة
+الإتباع.
+٣٣٢
+
+--- Page 23 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+قائمة المراجع
+- . لمراسة مقارية، صالة وكتورق -كلية الحقوق القاهرة محار التهضة المعريد
+الطبعة الأولى ٢٠٠٥.
+- د. أشرف توفيق شمس الدين ، الحماية الجنائية للائتمان المصرفي من الخداع ، دراسة
+مقارنة ، دار النهضة العربية ، القاهرة ، ٢٠٠٤
+- أ. دينا جلال ، جرائم الائتمان المصرفى فى فترة الانفتاح رؤية تشريحية للمناخ العام
+و السياسات الاقتصادية، المجلة الجنائية القومية ، عدد خاص عن الجرائم المتعلقة
+نشاط الائتمان فى البنوك ، ٢٠٠٢م.
+و ص ٤١٨ وما بعدها .
+- د.غادة عماد الشربينى ، المسئولية الجنائية عن الأعمال البنكية، رسالة دكتوراه ، كلية
+حقوق عين شمس . ٢٠٠٠ - ١٩٩٩ .
+- د. غسان رباح ، قانون العقوبات الاقتصادي ، الجرائم الاقتصادية والقضاء المالي في
+التشريعات العربية ، منشورات الثقافة، بيروت ١٩٩٠ .
+المجلات والدوريات:
+- أ. أحمد فتحى عبد العزيز ، الجوانب القانونية للأعمال المصرفية فى صور أحكام
+القانون ١٧ لسنة ١٩٩٩ بإصدار قانون التجارة، مجلة المحاماة، العدد الثالث ٢٠٠٣.
+- د.علي محمود علي حموده ، تحديد المسئولية الجنائية للعاملين في البنوك عن عمليات
+الائتمان المصرفي الخاطئ, بحث منشور ضمن أبحاث المؤتمر العلمي السنوي الثالث
+كلية الحقوق - جامعة حلوان خلال الفترة من ١٢ إلي ١٣ مايو ٢٠٠٤ .
+- للموم الأميا يال الم٤٢٤ اكامة الفساد (المحور الرابع)، جامعة نايف العربية
+- د. محمد حافظ الرهوان ، حماية أموال البنوك ، مجلة كلية الدراسات العليا بآكاديمية
+مبارك للأمن، العدد السابع يوليو ٢٠٠٢.
+- B. Bouloc, Les infractions pénales commises lors de la constitution
+des sociétés commerciales, Rev. Int. dr. Pen., 1985 - 1986.
+- Contra : J.-P. Kovar, « La Commission des sanctions de l'ACP :
+juridiction ou administration ? [Brèves remarques sur la qualification
+de juridiction administrative spéciale de la Commission des sanctions
+de 1'ACP] » : LPA 9 nov. 2012.
+- D. Legeais, Exercise illegal de la profession de banquier Préteur se
+prévalent de la violation du monopole, BTD. Com., 2004, p. 795.
+العدد السابع -
+٣٣٣٠
+
+--- Page 24 ---
+دور الحوكمة والحماية الجنائية في تعزيز الثقة والإئتمان المصرفي
+- F. Dominguez, Le Droit pénal des sociétés commerciaux, Tome I,
+édition JG, 2001.
+- F. Ghelfi-Tastevin, Banques et établissement financiers, Rep. Pen.
+Dalloz, fevrier 2002.
+- F. Stasiak, Droit pénal des affaires, L.G.D.J., 2005, p. 178 - 179
+- J. Cosson, Les délits en matière de banques et d'établissement
+Financiers, R.S.C., 1973.
+- J.-P. Kovar. Adde, Y. Paclot, « La régulation des activités bancaires et
+le respect du droit » : JCP G 2012.
+- Kovar et J. Lasserre Capdeville, Droit de la régulation bancaire (préf.
+C. Noyer), Revue Banque éd., 2012.
+- M. Cabrillac et B. Teyssie, Etablissement de crédit. Monopole,
+Nullites, (Com. 19 nov. 1991, Lejeune c/ DPM), RTD Com. 1992.
+M. Cabrillac et C. Mouly, Droit pénal du banquet et du crédit, Masson,
+.1982
+- P. Bérégovoy, La lutte contre le blanchiment des capitaux, Rev.
+jurispr. com. 1990.
+- P. Conte et W. Jeandidier, Droit pénal des sociétés commerciales,
+Litéc, 2004.
+- R. Ottenhof, L'affaire Milesi ou << l'escroquerie du siècle>>
+Destination de l'abus de confiance et de l'escroquerie. Exercice
+illégal de la profession de banquier, Rev. Sc. Crim., 1995.
+- T. Bonneau, Droit bancaire, coll. Domat droit privé, Montchrestien,
+9e ed., 2011.
+- V. B. Martin Laprade, « Les orientations et attentes de la commission
+des sanctions de 1'ACP » : RTDF 2012.
+- V. B. Martin Laprade, « Réflexions sur la nature juridique de la
+commission des sanctions de l' Autorité de contrôle prudentiel (ACP)
+», in Mélanges en l'honneur de Philippe Bissara, éd. ANSA, 2013.
+- V. M. Vasseur, « Droit et économie bancaires », Maîtrise, Fasc.I-A, «
+Institutions bancaires », Les cours de droit, 1985-1986.
+- V. Q. Epron, « Le statut des autorités de régulation et la séparation
+des pouvoirs » : RFDA 2011.
+- V. R. Chapus, Droit du contentieux administratif, coll. Domat droit
+public, Montchrestien, 12e ed., 2006,
+٣٣٤
+

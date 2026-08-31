@@ -1,0 +1,1207 @@
+--- Page 1 ---
+On International Public Works Agreements in
+the Anglo-American Jurisdictions:
+A Comparative Perspective
+Judge Dr Mohamed A.M. Ismail
+LLB, LLM, PhD (Cairo University), FCI Arb (UK)
+Vice-President of the Egyptian Conseil d›Etat
+Legal Adviser of the Legislation and Legal Opinion Commission-
+Kingdom of Bahrain
+Member of the Comite Français D'Arbitrage
+State Prize Laureate, Legal Research, A.R.E,2011
+مقدمه بالعربية
+بتناول الباحث في البحث الماثل الطبيعة القانونية لغرامات التاخير في القانون والقضاء الانجلوامريكي بالتطبيق
+على أحكام القضاء الانجليزي (Case Law) والمحكمة الفيدرالية الأمريكية والمحاكم الأمريكية، مقارنا ذلك
+القضاء باتجاهات القضاء والافتاء العربي.
+وتثور مشكلة غرامات التاخير حينما تشترط بعض التشريعات العربية كقانون المناقصات والمزايدات المصري
+الصادر بالقانون رقم 89 لسنة 1998 أن تستحق الغرامة بمجرد التأخير، و التي تصل نسبتها إلى ٪10 من
+إجمال قيمة العقد في عقود مقاولات الأعمال، إذا ما زادت مدة التأخير من المقاول عن أربعة أسابيع. فالأساس
+القانوني للغرامة في هذه الحالة تشريعي واطردت تطبيقات القضاء العربي وافتائه لاسيما مجلس الدولة
+المصري ممثلاً في المحكمة الإدارية العليا أن افتراض الضرر بسير المرفق العام حاصل دونما حاجه إلى إثباته
+وبمجرد حدوث التأخير. فالغرامة توقع بمجرد حدوث التأخير ودون اشتراط لوقوع الضرر فضلاً انه وعلى فرض
+وقوع الضرر، فالغرامه لا تقدر بمقدار هذا الضرر وإنما توقع كشريحه ثابتة منصوص عليها في التشريع حتى ولو
+حاق بالمرفق العام ضررا أقلٍ من مقدار الغرامة المنصوص عليها في التشريع والعقد الذي يعتبر عادة قانون
+المناقصات والمزايدات جزءا لا يتجزأ منه.
+على العكس تماما فإن القضاء الانجليزي في القضية الشهيرة (Dunlop Case 1914 HL)، والتي حكم فيد
+اس اللوردات The House Lords، قرر انه لا يمكن ان ينفذ شرطا عقابيا، واشترط فى قضايا اخرى عديد
+سردها الباحث تفصيلا وجوب تناسب مقدار التعويض مع الضرر الذي حاق بالمرفق.
+ولقد ساير القضاء الأمريكي القضاء الانجليزي في ذات النظر حتي جاءت قضية (Phillips Hong Kong, 1993)
+التي ارسى بها القضاء الانجليزى (Privy Council) مبداً جديدا في صدد غرامات التاخير. وقد كانت هذه
+4
+
+--- Page 2 ---
+القضية تتعلق بإنشاء نظام مراقبة بالكمبيوتر Computerization لطريق سريع في Hong Kong . يعالج
+البحث هذا الاتجاه الجديد ، والاساس القانونى له فى القضاء الانجلوأمريكى ، من خلال دراسه للعديد من
+القضايا في المملكة المتحدة والولايات المتحدة بمزيد من التحليل والعمق ليوضح اوجه التباين بين منهج
+القانون والقضاء الانجلوامريكي من ناحيه ، والنظم القانونية العربية من ناحية اخرى بما اطردت عليه قضاءً
+Volume-1 القَابُونيَّةِ 5
+
+--- Page 3 ---
+Globalization and Liquidated Damages On
+International Public Works Agreements in the
+Anglo-American Jurisdictions:
+A Comparative Perspective
+with Civil Law Legal Systems
+Abstract:
+The purpose of this paper is to examine the legal nature of liquidated
+damages (penalty for delay) in the international public works agreements
+(infrastructure projects) in the Anglo-American jurisdictions, with special
+reference to the Egyptian "Conseil d'Etat" State Council decisions, in the light
+of the influence of the legal globalization to these contracts.
+This paper is divided into three parts. The first describes the legal
+globalization
+as a transnational and socio-economic phenomenon .The
+second is scrutinizing Anglo-American case law perspective .The third is an
+analytical and comparative perspective on the Egyptian State Council decisions
+in comparison with the Egyptian cassation court decisions as the Egyptian
+Cassation Court is applying directly civil law provisions.
+The Egyptian State Council plays a significant role in establishing and
+codifying rules of (les contrats administratifs) administrative contracts since
+the administrative law is not codified in Egypt. The State Council in Egypt
+is the founder of the Administrative Contracts Theory established in 1946.
+Since then, courts, and the General Assembly for Legal Opinion (Fatwa) and
+Legislation, have set out the legal framework of the administrative contract
+criteria.
+It was settled in the State Council decisions for many decades that the
+contract is considered administrative if a party to the contract is a public juristic
+entity, if it concerns any of the public utilities (its management or organization)
+and if it includes among its provisions specific clauses that differ from civil and
+6
+
+--- Page 4 ---
+commercial contracts. These provisions are called "Les Clauses Exorbitantes" 1
+It is also settled that an international public works agreement having the
+abovementioned criteria is an administrative contract by nature and is under the
+jurisdiction of the State Council courts or subject to international arbitration
+and is not under the jurisdiction of civil or commercial courts.
+The system employed by the State Council is to some extent similar to the
+system employed by courts exercising the common law, since the administrative
+law is not codified by the Egyptian legislator. It is worth considering that
+decisions of the Supreme Administrative Court are not obligatory to lower
+administrative courts to follow (appeal or first instance administrative
+courts). Meanwhile, lower courts are always influenced by the decisions of the
+Supreme Court and, in case of different views; lower courts can deal with new
+perspectives and have their own reasoning towards the use of this approach
+after deliberations and voting by the majority of Judges. 2
+Globalization plays a fundamental role in enhancing and modifying the
+administrative contract traditional theory as a result of the new stipulations
+imposed by foreign contractors entering into infrastructure agreements with
+public juristic entities. A new era for a new legal structure has begun since it
+is acceptable by the Egyptian legal system to stipulate that arbitration is the
+only mechanism for dispute settlement in infrastructure projects 3 if it is agreed
+upon by the contracting parties 4
+. Moreover, the Egyptian legal system began to
+accept foreign laws as the substantive laws applicable to the dispute rather than
+Egyptian laws applicable in similar cases, especially in arbitration rather than
+litigation.
+1 Supreme Administrative court decision in 19th of May , 1962, Year 7, page 890,Dr Soliman
+El Tamawy, General Principles of Administrative Contracts, ffth edition, 1991,pp.86 and
+Case 851 , Year 20 in 21st of June 1980.See also decision No. 3128-24/1/1995,Legal Principles
+in Administrative contracts by the Egyptian State council in 40 years Pp98-99. In France See
+the leading authority in Administrative Contracts: Andre de Laubadrere, Franck Moderne and
+Pierre Delvolve, Traite de Contrats Administratifs , Tome I , 2nd Edition, LGDJ, 1983,pp.211-
+29,Laurent Richer Droit Des Contrats Administratifs, LGDJ,1995.
+2 Deliberations are obligatory and confidential pursuant to article (166) of the Egyptian Civil
+and Commercial Procedural Law No. 13 of 1968 which applies to State Council courts.
+3 Article (13) of the Egyptian Arbitration Act, No. 27 of 1994, in civil and commercial disputes
+stipulates that if there is an arbitration clause in the contract or arbitration agreement courts
+shall be prohibited to hear the case.
+4 A crucial question remains unanswered, can the parties go to the national courts if the
+time bar in the agreement to start arbitration passed, (i.e. FIDIC form of contracts stipulates
+time limit to start arbitration), for more details in civil law countries perspective, In Arabic,
+Mohamed A.M. Ismail, Arbitration in international public works agreements(2003), Pp497-
+504,Beirut, El Halabi Publishing.
+Volume - 1
+القَابُونينَّة
+7
+
+--- Page 5 ---
+The Egyptian legal system began to recognize new clauses, such as the
+stabilization clause, in favor of foreign contractors to maintain stability in
+contract prices as public works agreements are considered complex and long-
+term agreements. In some agreements with multinational entities, the state
+cannot amend, modify or terminate the contract without the consent of the
+foreign contractor, meanwhile, in the traditional theory of the administrative
+contract the state can exercise unlimited power in the contract.
+There was a strong debate until early 1997 about the possibility to start
+arbitration procedures in administrative contracts. A leading opinion of The
+General Assembly for Legal Opinion (fatwa) and Legislation in 18/12/1996
+rejected arbitration in administrative contracts (international public works
+agreements) as it is always related to public utilities which are owned and
+managed by the nation representatives (ministries and governorates) and all its
+disputes shall be settled by the national courts, as the traditional theory of the
+administrative contract stipulates.
+The general assembly went beyond to confirm that article (1) from The
+Egyptian Arbitration Act in commercial and civil matters (no.27of 1994),
+is lacking clarity and certainty 1. As a result to this approach, the Egyptian
+Parliament promulgated new legislation (no. 9 of 1997) to amend article (1) of
+the Arbitration Act (no 27 of 1994) and to confirm that administrative contracts
+disputes can be settled through arbitration if the parties agreed upon.
+These are some enhancements at the administrative contracts theory which
+considered to be results from globalization and the integration of the Egyptian
+legal system (to a great extent) in the global legal and economical concepts that
+influenced legislator and court decisions in Egypt.
+It is appropriate, at this stage, to refer to globalization as a transnational and
+socio-economic phenomenon.
+(I) Globalization is a transnational socio-economic phenomenon
+Law is a social science that performs a significant role as an essential
+mechanism needed to fulfill the needs and requirements of all human societies.
+Law reflects and represents the minor image of a society, determines its common
+interests and reflects its cultural traditions. On the other hand, globalization
+has had its influence on various human societies, breaching cultural barriers
+through the flow of commodities, capital, people, and intangibles such as
+1 The General Assembly for Legal Opinion (fatwa) and Legislation, Legal opinion NO. (160)
+dated 22/2 / 1997, session 18/12/1996, file No (54/1/339).
+8
+
+--- Page 6 ---
+culture and values' from one country to anothet.
+Information technology developments during the last two decades have
+facilitated the globalization process and intensified cultural interaction,
+especially legal cultural interaction between legal institutions in the entire
+world. Rigid and traditional legal patterns and traditions began to accept
+modifications and enhancements. Some of these patterns began to deteriorate
+while others created a new legal system with new characteristics, as a result of
+the merging between the legal cultures. Despite globalization movements and
+the flow of a new legal culture to the legal systems of developing countries, as
+well as to their socioeconomic structure and social traditions, the author of this
+article strongly believes that some areas will still preserve their national oriental
+identity. For instance, in Egypt, family laws and traditions relate to social
+oriental traditions as well as to Coptic and Muslim religious beliefs and social
+habits; these, largely, will not be greatly influenced by the cultural globalization
+in the socio-legal domain. Regardless of the minor religious controversy
+between Copts and Muslims in minor areas of family laws, the conservative
+social culture, for both Copts and Muslims, imposes the same traditions and
+customs in the domain of human familial relations?
+On the other hand, legal matters that are considerably influenced by
+legal cultural globalization, such as the Administrative Contracts Theory, (Le
+Contrat Administratif ), will maintain some of their basic features. It is true
+that penalties and sanctions stated in the Administrative Contracts Theory
+have not changed to date, even with the existence of new trends aimed at the
+liberalization, modernization and internationalization of the traditional theory
+of administrative contracts.
+Accordingly, it can be said that the rigid patterns of administrative contracts,
+their substance and exorbitant features have significantly changed in the last
+decade in the Egyptian legal culture, especially concerning infrastructure
+agreements with foreign private entities. These new legal patterns, such as the
+introduction of international public works agreements, BOT / BOOT/ BOO
+agreements and PPP contracts, posed the start of new era in the Egyptian legal
+1 Joseph E. Stiglitz, Globalization and its Discontents, W.W. Norton & Company Inc., 2004.
+See also, by the same author, Making Globalization Work, W. W. Norton & Company, 2007.
+Nobel laureate (2001) , Prof. at Columbia University, USA; Brain Snowdon , Globalization,
+Development and Transition. Edward Elgar, 2007 and Mohamed S. Abdel Wahab, Cultural
+Globalization and Public Policy: Exclusion of Foreign Law in the Global Village, Oxford
+University Press, 2005, Vol. 8, P. 306; Mohamed A M Ismail, Globalization and New
+International Public Works Agreements in Developing Countries, An Analytical Perspective,
+Ashgate Publishing,UK,2011.
+2 Mohamed A. M. Ismail, Public Economic Law and the New International Administrative
+Contracts, El Halabi Publishing Co, Beirut, 2010, P.14, this book was awarded the State Prize in
+legal research by the government of the A.R.E, 2011.
+Volume -1
+و القَانوييّة
+
+--- Page 7 ---
+culture, one with unique and liberal mechanisms and stipulations.
+Legal cultural globalization has had its influence on legislation, litigation,
+the contractual regime of the administrative contracts (new types) and,
+currently, arbitration. The Arbitration Act of 1994, as a direct result of legal
+cultural globalization, created the latter mechanism.
+Despite the abovementioned facts, the state still maintains its role as the
+employer, regulator and supervisor of these new types of contracts, although,
+nowadays, this role is very limited
+The latter trend is expected to open doors to the private sector to positively
+participate in the economic life and to increase its role in building financing
+systems and operating infrastructure projects related to public utilities.
+The increase in the private sector's role is codified in the new constitutional
+amendments of 2007, which reject socialism and Marxism. These ideologies
+were adopted by the 1971 constitution. The new constitutional modifications,
+nevertheless, adopt no specific ideology, they left the door open to presidential
+and parliamentary elections to determine the necessary ideological political
+and economic policy to be followed during each presidential or parliamentary
+term.
+This flexible trend is a direct result of cultural globalization and the influence
+of the free market economy policy on the national socio-economic structure.
+The role of the state shall be limited to its basic and fundamental functions, as
+pointed out by the eminent economist Adam Smith.
+The first element influenced by globalization was culture. Cultural
+interaction is the main outcome of the flow of ideas and values into Middle
+Eastern communities. Culture represents a set of practices, values, beliefs
+and customs acquired by individuals as members of a distinctive society and
+resulting from interaction between people!.
+Cultural Globalization and Public Economic Law:
+Cultural globalization has considerably affected legal cultures of the civil
+law countries. State international business transactions and the traditional
+Theory of Administrative Contracts were subject to the flow of liberal and global
+perspectives. The state in its transactions is not in equal bargaining power with
+the other private entity. Hence, the administrative contracts include exorbitant
+clauses, such as the right of the administrative authority to unilaterally amend
+or terminate a contract.Furthermore, the state may also unilaterally impose
+certain penalties on the other contracting party. These may include: a penalty
+for delay (liquidated damages in common law jurisdictions) and rescission of
+1 Mohamed S. Abdel Wahab, Supra, PP. 363.
+10
+
+--- Page 8 ---
+the contract (La résiliation administrative) as well as the forfeiture of deposits
+(performance bonds). The impact of legal cultural globalization is significant in
+the domain of international administrative contracts, especially international
+public works agreements. New clauses have appeared in these contracts,
+including the stabilization and arbitration clauses. The contractual regime
+has undergone various changes, especially with respect to the new types of
+international public works agreements concerning infrastructure projects, such
+as Build, Own, Operate and Transfer contracts (BOOT), BOO or public-private
+Partnership agreements (PPPs). The main target of these new contractual
+mechanisms is to finance and build infrastructure projects (public utilities) in
+developing countries.
+Legislation has significantly developed in the area of granting concessions
+for infrastructure projects and public utilities. Laws No. 100 of 1996, 229 of
+1996, 3 of 1997 and 22 of 1998 amended old existing legislations such as law
+No. 129 of 1947 concerning granting concessions for public utilities and law
+No. 61 of 1958 on granting concessions related to exploitation of natural
+resources and public utilities.
+The new four legislations fall under the domains of the electricity sector;
+Roads sector, specialized ports, and civil aviations and airports.
+This is a real revolution in administrative contracts and state international
+administrative transactions.
+On the legislative level, the revolution was in the current enhancements and
+modifications to the state procurement law concerning contract price as well as
+granting the administration the authority to review contract prices every three
+months. The administration can exercise this power in cooperation with the
+contractor pursuant to certain stipulations and parameters stated under laws
+No. 5 of2005 and No. 191 of 2008.1
+It is also true that the Arbitration Act of 1994 and its amendment by Law
+No. 9 of 1997 gave effect to some considerable changes to the Administrative
+Contract Theory, especially contracts concluded by and between the state and
+foreign private entities.
+Liquidated damages have new trends under Law No. 89 of 1998 as well as in
+litigations by State Council (Le Conseil d'Etat) courts, despite the fact that they
+still exercise a punitive nature under the penalty for delay clause.
+In conclusion, cultural and legal globalization have influenced the civil
+law legal culture in Egypt, especially concerning international administrative
+transactions and contracts entered into by, and between the State and
+foreign private entities, with special emphasis on public utility projects and
+1 Mohamed A. M. Ismail, Globalization and Contract Price in the Egyptian State Procurement
+Law, The International Construction Law Review, London, Informa, Vol. 27, part I, Jan 2010.
+Volume - 1
+11 القَانُونِيَّةِ
+
+--- Page 9 ---
+international public works agreements (infrastructure projects). The entire
+legal regime was influenced by these transnational phenomena: legislation,
+litigation (State Council court decisions) and contractual regime. With respect
+to state international transactions, a set of new rules and international customs
+have flown from common law countries to our legal culture and created a new
+branch of public law in Egypt.
+This branch is currently well known in France, but has only practically
+begun to appear in Egypt in the last few years. Lately, a few academic studies'
+in the Egyptian doctrine began to focus on this new branch which is considered
+of a fundamental importance to the administration.
+(II) The Anglo-American Case Law:
+English and American case laws share a unique perspective regarding the
+liquidated damages clause stipulated under contracts. Taking cognizance of
+the changes in judicial precedents witnessed during the last decade of the 20th
+century, it is now necessary to analyze the current judicial policy. This may be
+done through scrutinizing some of the most important cases, for case law is
+deemed the leading authority in this domain as regards the common law legal
+culture.
+(i) English Case Law
+Kemble vs. Farren (1829) was one of the leading cases that had come before
+the court during the 19th century. A contract › was entered into by and between
+the defendant and the contractor, stipulating the appearance of the former as
+a principal comedian at the Covent Garden Theatre against a remuneration
+Of £3.6 per night for four seasons. The contract also contained a provision
+specifying that if either party failed to fulfill the terms of the contract, or any
+Part thereof, such party shall be subject to the payment of a sum of £1000 in
+liquidated damages.
+During the second season, the defendant refused to act because of failure of
+the contractor to meet a single payment of £3.6. The court held that the sum
+of £1000 shall be made to the defendant (actor) as recompense for the failure
+of the plaintiff (contractor) to make payment. Since the sum of £3.6 is very
+trivial in comparison to that of £1000, the clause has thus been rendered into a
+penalty clause, rather than a liquidated damages .
+1 See: Dr Mohamed A. M. Ismail, Public Economic Law and The New International
+Administrative Contract, El Halabi Publishing Co., Beirut, 2010,see also Ragab Mohmoud
+Participation Agreements, (PPP), Dar El Nahda El Arabia, 2007, p. 3
+2 Kemble vs. Farren (1829) 6 Bing 141.
+12
+
+--- Page 10 ---
+In the 1906 Public Works Commissioner 1 vs. Hills case - the fourth of its
+kind to be held under a railway construction contract - the indefinite sum ruled
+by the court could not be a genuine pre-estimate of loss, and was therefore
+regarded as a penalty clause.
+In the Ford Motor Company vs. Armstrong 2 case (1915), Armstrong, a
+retailer, agreed not to sell any Ford car, or any part thereof, below the set price
+list; he also agreed to pay £250 in liquidated damages for every act of breach.
+The court held that the sum of £250 was a penalty since it is not equal to the
+damages encountered.
+In the leading case of Dunlop Pneumatic Tyre vs. New Garage 3 (1914)
+The House of Lords Stated: "The essence of liquidated damages is a genuine
+covenanted pre-estimate of loss" Lord Dunedin pointed out. He elaborated:
+"Though the parties to a contract who use the words "Penalty" or " Liquidated
+damages" may primafacia be supposed to mean what they say, yet the expression
+is not conclusive. The court must find out whether the payment stipulated is in
+truth a penalty or liquidated damages"
+As Eggleston 4 pointed out, the terminology itself is not decisive, and if, as a
+matter of construction, the courts find that liquidated damages are penalties or
+vice verse, they will award accordingly.
+Lord Dunedin's judgment in the Dunlop case remains the objective test on
+which following judgments have relied.
+In addition to the abovementioned phrases, Lord Dunedin stated:
+"- The essence of a penalty is the payment of money stipulated as a threat to
+the offending party; meanwhile, the essence of liquidated damages is a genuine
+covenanted pre-estimate of damage.
+- Whether a stipulated sum is regarded as a penalty or a liquidated damage
+is a question of construction to be decided upon the terms and inherent
+circumstances of each particular contract and should be determined as at the
+time of making the contract, not the time of breach.
+- To assist this task of construction, various tests have been suggested
+which, if applicable to the case under consideration, may prove helpful or even
+conducive. Such are :
+1 Public Works Commissioner vs. Hills, (1906) AC 368.
+2 Ford Motor Company Ltd (En gland) vs. Brain Eggleston, Liquidated Damages and
+Extension of Time in Construction Contracts, Second Edition, Blackwell Science, 1997. P.59,
+.60
+3 Dunlop Pneumatic Tyre Company Ltd vs New Garage & Motor Company Ltd (1915) AC 79.
+4 Brian Eggleston, Supra, P.56.
+Volume - 1
+13
+
+--- Page 11 ---
+a) The stipulated sum will be held to be a penalty if it is extravagant and
+unconscionable in amount in comparison with the greatest loss that could
+conceivably be proved to have followed from the breach.
+b) The stipulated sum will be held as a penalty if the breach is represented only
+in the failure to pay a sum of money that is less than the stipulated sum.
+This, though one of the most ancient instances, is truly a corollary to the last
+test.
+() There is presumption (but no more) that the stipulated sum is a penalty
+when "a single sum is made payable by way of compensation as a consequence
+of the occurrence of one or more events, some of which may occasion serious
+and other trifling damage".
+d) The stipulated sum, being a genuine pre-estimate of the expected damage
+as a consequence of the breach, should not render price pre-estimation an
+obstacle or an impossibility. On the contrary, that is just the situation where
+it is probable that the pre-estimated damage is the true bargain between the
+parties".
+It is clear that during that period, and up till the last decade of the 20th
+century, English courts did not validate penalty clauses.
+The sum stipulated by the parties must reflect the "genuine pre-estimated
+loss" and must be reasonably adequate to the actual loss. This should be
+determined by the contracting parties.
+The burden of proving that the stipulated sum (clause) is actually a penalty
+lies on the party challenging the clause. It is the duty of the said party to prove
+the punitive nature.
+In a recent case famous for applying new principles, English courts had
+different perspectives. This is evident as follows:
+Philips Hong Kong Ltd vs. Attorney General of Hong Kong (1993)1
+In the leading case of Phillips Hong Kong, Phillips entered into a contract
+with the Hong Kong government to design, supply, install and commission a
+computerized supervisory system for a new route to the approach roads and
+twin tunnels. The contract was one of seven contracts; six of which contained
+a flow chart setting out a program for the progress of work. In addition, there
+were other flow charts setting out the work of five different contracts. The flow
+charts identified key dates on which the work performed by Phillips interfaced
+with the programs of other contracts. Clause 27 of the Phillips contract
+imposed an obligation on Phillips to meet its key dates; simultaneously, clause
+1 Philips Hong Kong Ltd vs. Attorney General of Hong Kong (1993), 61 BLR 41.
+14
+
+--- Page 12 ---
+29 provided that failure to meet key dates shall entail the payment of liquidated
+damages.
+The Privy Council held that the provision stipulating liquidated damages
+under the contract entered into between the parties was a genuine pre-estimate
+and was thus enforceable since the parties were able to estimate with a reasonable
+degree of certainty the extent of their liability and the potential risk. The court
+applied the party autonomy and freedom of contract principles. It adopted
+an objective assessment that will not normally identify situations where the
+application of the provision could result in a larger sum being recovered by the
+injured party as compared to the actual loss sustained. The court concluded
+that if the liquidated damages clause is a genuine pre-estimate of what the loss
+is likely to be, thus, it is not a penalty clause.
+The fact remains that the issue has to be determined objectively and that
+judgment must be made on the date the contract was entered into.
+The court held that in the case of a governmental body, the nature of
+the loss is especially difficult to evaluate because the government reasonably
+adopted a formula that reflected the loss of returns on the capital involved
+on a daily basis 1
+The following two cases are a selection of recent English cases that illustrate
+the application of these rules as influenced by the Philips case:
+1- M & J Polymers Ltd vs. Imerys Minerals Ltd 2
+In 1991, Imerys (the defendant) had received supplies of chemical products
+from Polymers (the appellant). In July 2003, both parties entered into a new
+contract effective until December 2004.
+Pursuant to the latter agreement, Polymers was to supply Imerys with
+chemicals to be used in producing high quality printings; nevertheless, there
+was a shortage in acrylic acid, one of the ingredients to be supplied, that would
+last till the end of 2004. Pursuant to the terms of agreement, the defendant
+terminated the contract. Claimant alleged that the contract termination was
+illegal.
+The court held that the take or pay clause stipulated under the contract held
+by and between the parties is not a penalty, it is a liquidated damage clause for
+damages that are a genuine pre-estimate of loss.
+The court confirmed that English courts had never before held a take or pay
+clause to be a penalty clause. Furthermore, the court rejected the counterclaim
+1 See: Brian Eggleston, Supra, P. 61-2.
+2 M &] Polymers Ltd vs. Imerys Minerals Ltd, (2008) I AIl ER (COMM 893).
+Volume -1
+القَانُونِيَّةِ
+15
+
+--- Page 13 ---
+made by Imerys (defendant).
+2-Liberty Mercian Limited vs. Dean & Dyball Construction Limited'
+:(2008)
+In the latest case of liquidated damages, the English court held that the
+liquidated damages clause is a genuine pre-estimate of the specific loss of the
+incomplete part.
+The dispute concerned a construction contract. The question before court
+was whether or not there was a sectional completion of works and whether the
+liquidated damages clause was applicable at this stage or was it considered an
+unenforceable penalty clause.
+The court applied the choice made by the parties and enforced the liquidated
+damages clause.
+(ii) American case law
+The doctrine in the United States defines liquidated damages as a stipulated
+sum of money estimated by the contracting parties upon contract execution to
+Which extent any breach of contract causes damage (loss)2 .
+Liquidated damages mean the sum agreed upon by the parties to be paid in
+case of breach of contract. These damages are usually payable without the need
+to start litigation or arbitral proceedings?
+American courts adopted a judicial policy similar, but not identical, to that
+of the English Courts.
+In April 1891, in the case of W.P.Tinkham Resondent vs. Ferdivand Satorit,
+the Court of Appeal of Missouri held that the seller was not confined in the
+amount of his damages to the penalty but could recover a greater sum. The
+seller and the buyer entered into a real estate contract which stipulated that
+the $100 down payment made by the buyer would not be refunded if he was in
+breach of the contract. The buyer in fact breached the contract after the seller
+was awarded an amount greater than the $100. The buyer sought a review of the
+stance claiming that the damages incurred by the seller were limited to the sum
+1 Liberty Mercian limited vs. Dean & Dyball Construction Limited, (2009) BLR 29.
+See also (http://www.balill.org/ew/cases/EWHC/TCC/2008/2617.html)
+2 Oklahoma City University Law Review, The Use and Abuse of Liquidated Damages in Federal
+Defense Contracts: An analysis . Vol.8,Summer 1983,N-3,P.251.
+3 Scott M.Tyler , in public Construction Contracts, Duke Law Journal, Vol.44,p.357.
+4 44 Mo.APP.659,1891 Mo-APP. LEXIS 206 .
+16
+
+--- Page 14 ---
+of liquidated damages specified under the contract entered into by the parties.
+The court held that a contract presenting the question of whether a deposit
+would be taken as a penalty or as liquidated damages was to be interpreted by
+the test of party intention. The court held that the seller was not confined, in
+the amount of his damages, to the penalty but could rather obtain a greater
+sum.
+In the case of Mercer vs. Stupp Bros. Bridge Iron Company ' (Aug. 1904),
+the Court of Appeal of Illinois observed that the sum mentioned in the contract
+was converted by the parties themselves into a penalty.
+The reason why the law did not favor refunds is that the court found that
+if the clause fixing the amount of damages appeared to have been inserted to
+secure prompt performance of the agreement, it had to be treated as a penalty
+clause; accordingly, no more than the actual damages proved could be recovered.
+The facts of this case show that under the terms of the construction
+contract, the company shall pay $5 per day as a penalty for delay in completing
+the bridge.
+The issue before the court was whether the $5 represented liquidated
+damages, as alleged by Mercer county, or an illegal penalty, as alleged by the
+Company.
+The court held the above mentioned conclusion.
+In May 1913, in the case of Pacific Hardware and Steel Companyvs. the United
+States government, the United States Court of Claims found that a contract of
+the United States Navy Department to deliver materials to a commission in
+Panama contained a penalty clause. The contract provided for deductions to be
+made in the contract price to be paid to the plaintiff for any delays in delivery.
+The contract also provided that any delays caused by factors other than the
+own doing of the plaintiff, and for which the government suffered no damages
+or inconvenience, may be grounds for a waiver of deductions at the discretion
+of the commission's Chairman. Deductions were later made to the contract
+price for failure of the plaintiff to make prompt delivery. The court considered
+whether the contract provision was for liquidated damages or was only a penalty.
+It found that the parties had no pre-intention to cause any damages, nor did
+the intention exist upon execution of the contract. The parties were familiar
+with the fact that if the damages clause was to be waived because the delay
+was due to the reasons stated under the contract, the provision then entailed a
+penalty not liquidated damages.
+1 115 III. APP. 298; 1904 III,. APP, LEXIS 312.
+Volume -1
+القَانونِيَةِ
+17
+
+--- Page 15 ---
+In the April 1914 case of James Golden vs. H. A. Mckim, the Supreme Court
+of Nevada 1 reversed the judgment of the trial court finding that the actual
+award was based on a penalty provision in the contract rather than on the actual
+damages. The court further ordered a new trail as it found that the excavator
+should have been relieved from the imposition of the liquidated damages
+provision of the contract.
+In the leading case of R. A. El Zey vs. the City of Winterest, lowa 2 (Nov.
+1915), the claimant entered into contract with the city to provide it with paving
+works. Although the claimant performed his part under the contract, the city
+refused to pay for his rendered work for failure to complete on due time. The
+Trail and Appeal Courts ruled in favor of the claimant.
+The Supreme Court of Jowa ruled that the damage clause relied on by the
+city was a penalty clause rather than a liquidated damages one.
+The city failed to prove actual damages.
+The court added that failure of the claimant to deliver as contracted was due
+to failure of the city to grade the streets before paving so work may continue as
+agreed. The court concluded that, even if the damage clause was construed as
+liquidated damages, no damages would have been equitably allowed under the
+circumstances. The court affirmed the judgment against the city.
+In September 1920, the Supreme Court of Nebraska, in the case of
+Sunderland and Brothers Company vs. Chicago, Burlington & Quincy Rail
+Road Company 3, held that the liquidated damages clause was a penalty clause.
+The court found that the penalty specified under the contract was
+unconstitutional because it provided for both actual damages as well as a fixed
+sum; the assessment was an amount in excess of the actual damages sustained
+The shipper in this case sought and received damages for the carrier's delay in
+the shipment and delivery of goods under the Reciprocal Demurrage Act, Neb
+Rev. Stat. 6159, 6160, 616 (1913). The Act allowed the shipper to recover $1 per
+day for each car in addition to the actual damages sustained for each day's delay
+in shipment and delivery. The court added that this penalty was in excess of the
+compensation to the shipper and, as such, was properly considered as a penalty.
+The court confirmed that damages resulting from delay in the shipment of
+various commodities were variable depending on the type of commodity and its
+current market value. The amount of $1 did not bear any reasonable relation to
+1 37 Nev, 205; 141 P. 676; 1914 Nev. LEXIS 25.
+2 172 IOWA 643; 154 N.W. 901; 1915 IOWA sup. LEXIS 342.
+3 104 Neb. 322; 179 N.W. 546; 1920 Neb. LEXIS 264.
+18
+
+--- Page 16 ---
+the damage sustained by the shipment of each type of commodity.
+This perspective of the American courts has not changed, even in the new
+millennium.
+In the case of IPC Retail Properties vs. Oriental Gardens INC, Chung M. wand
+and Tomy W. Ho ' (March 2004), the appellant argued that the accelerated rent
+provision was an unenforceable penalty. The Court of Appeal of Kansas held
+that the provision was not a reasonable estimate of damages and could only be
+applied to breaches where damages could be easily ascertained. The provision
+was an unenforceable penalty. The court directed that because the landlord
+had re-rent the premises, the proper measure of damages was the difference,
+reduced to the current value,
+between the fixed rent in the lease contract and
+the sum for which the premises were rented to other parties for the remainder
+of the term.
+The findings of the court can be summarized as follows:
+1- The distinction between a penalty and a provision of liquidated damages
+is that a penalty is a security for the performance of work while a provision
+of liquidated damages is a sum to be paid in case of failure to deliver on
+performance.
+2- The burden of proving that a liquidated damages clause constitutes an
+unenforceable penalty rests with the party challenging the provision.
+3- When determining whether a stipulated damages amount constitutes a
+liquidated damages clause or an unenforceable penalty, the instrument must
+be considered as a whole; furthermore, the situation of the parties, the nature
+of the subject matter and the circumstances surrounding its execution must be
+taken into account.
+4- Two fundamental considerations support the holding that a contractual
+provision concerned
+with setting liquidated damages rather than being
+a penalty. The first is that the amount stipulated is conscionable, that is
+reasonable in view of the value of the subject matter of the contract and of the
+probable or presumptive loss in case of breach. The second is that the nature
+of the transaction is such that the amount of actual sum of resulting damages
+would not be easily and readily determinable.
+5- A contract provision will be considered a penalty where there is no attempt
+to calculate the amount of actual damages that might be sustained in case of
+breach. When the amount of damages is equivalent to the sum of breach of a
+major or minor contract provision, or of a total or partial breach, it becomes
+evident that the parties undertook no attempt to calculate the actual damages.
+1 32 Kan. App. 2d 554; 86 543; 2004 Kan. App. LEXIS 236
+Volume - 1
+19 القَانُونيَّةِ
+
+--- Page 17 ---
+6- Where a lease allows the landlord to collect future rent, as well as actual
+damages, the accelerated rent provision is, in its nature, equivalent to an
+unenforceable penalty. Such a provision does not constitute a settlement, and
+allows the landlord to have his cake and eat it too.
+7- A clause that specifies a minimum amount to be paid, and then leaves the
+door wide open to prove actual damages, is not considered a valid liquidated
+damages clause.
+8- To be able to make recovery under a liquidated damages clause, the amount
+of liquidated damages must bear some reasonable relationship to the actual
+injury caused by the breach. If the amount bears no such relationship, it is thus
+considered a penalty and is treated as void.
+Despite the different conclusion adopted by the court in the case of Hutton
+Contracting Company Inc. vs. The City of Coffeyville ' (April 2007), the court
+adopted some of its principles in the IPC Retail Properties case in 2004. In the
+Hutton Contracting case, the plaintiff (contractor) used the defendant (the
+city) in the United States District Court of Kansas to obtain the unpaid amount
+of a contract to construct a power line and a fiber-optic line. After a jury trail,
+the District Court ordered the city to pay the contractor a sum of $24,659.47 in
+addition to a retainage of $110,159.47 minus $85.500 in liquidated damages to
+which the city was entitled.
+The contractor appealed but the United States Court Of Appeal of the Tenth
+Circuit affirmed the judgment. The court ruled that the contractor was
+responsible for the delay with no reason of force majeure to excuse them. The
+concern of the court was the damages caused by the delay since the time factor
+was of essence to this particular contract ?
+The court referred to the judgment sentenced in the IPC Retail case in many
+occasions including those when the burden of proving that a liquidated damages
+clause constitutes an unenforceable penalty rests with the party challenging the
+provision.
+In the case of Ameritech Construction Corp. vs. William F. Cummings, the
+Court of Virginia (Circuit Court of the City of Winchester), a construction
+company sought to recover from the homeowner liquidated damages at the
+1 487 F. 3 d 772; 2007 U.S. App. LEXIS 9914.
+2 66 VA. CIR 328: 2005 VA. CIR. LEXIS 38.
+20
+
+--- Page 18 ---
+of $5,225 plus its reasonable attorney's fees. The court held that the sum of
+liquidated damages was 30 percent of the total contract price and that it still
+remained to be proven whether this amount was grossly in excess of, and out
+of all proportion to, the actual damages. There were many unanswered factual
+questions and considerations in assessing the actual damages as well as the
+question of their lawful validity.
+The court affirmed the validity of the liquidated damages clause and denied its
+punitive nature.
+In a very recent case of El Centra Mall vs. Payless Shoe Source ' (April 2009), the
+defendant appealed a judgment ruled by the Superior Court of Orange County
+(California). The court ruled that the liquidated damages clause stated under
+the commercial lease agreement signed between the parties was not an unlawful
+penalty and awarded contract damages to the plaintiff (landlord) pursuant to
+that clause.
+The court found that substantial evidence supported the conclusion that the
+defendant had not, under the Civil Code, met its responsibility of showing the
+estimate of damages. The court of Appeal of California affirmed the judgment
+ruled by the trial court. The defendant (Payless Shoes) also failed to present
+evidence, usually through expert testimony, that a charge of 10 cents per foot
+did not represent a reasonable estimate of the actual damages. The burden
+of proof lied on the defendant to demonstrate that the liquidated damages
+provision was actually a penalty one. The court concluded that the provision is
+a valid liquidated damages clause.
+Substantial Completion of the Contract :
+In the case of Carrathers Construction Company L.L.C vs. the City of South
+Hutchinson, Kansas 2 (May, 2008), The Court of Appeal of Kansas found that
+the evidence established that the construction company failed to achieve a
+substantial completion of the contract until 12 January 2004, and that it was
+not finally completed until 13 January 2004.
+The amount of the liquidated damages under the contract was reasonable
+when viewed prospectively as well as in relation to the actual damages caused
+by the breach. The summary judgment awarded liquidated damages in favor
+of the city. The Court of Appeal found that the nature of the transaction was
+1 174 Cal. App. 4th 58; 2009 cal. App. LEXIS 806.
+2 39 kan. App. 2d 703; 184 P. 3d 943; 2008 Kan. App. LEXIS 85.
+Volume - 1
+21 القَانوبيَّةِ
+
+--- Page 19 ---
+such that the amount of actual damages resulting from delay was not easily and
+readily determinable and affirmed the summary judgment.
+It is also relevant to refer to the old case of Thermodyn Contractors Inc. vs
+the General Services Administration 1, The contractor "Thermodyn" refused
+to make payment of the liquidated damages specified by the government at a
+sum of $22,630 as a result of failure to complete the work in the Texas station
+on due time. The contractor affirmed substantial completion of works before
+31 March 1993.
+The Court of Appeal rejected the contractor's defense and held that the
+liquidated damages clause is valid and enforceable as the administration has
+not started utilizing the public utility.
+In light of the previous judgments, the concept of substantial completion
+can be defined as the time at which the work (or a specified part thereof) has
+progressed to the point where, in the opinion of the Engineer and in accordance
+with the contract documents, it is sufficiently complete for utilization for the
+purposes it was intended.
+This concept is a factor necessary for the maintenance of fairness in the
+contractual relationship as well as for avoiding any future unforeseen matters
+between the contracting parties.
+(III)- Penalty Clauses or Liquidated Damages in Accordance with the
+Egyptian Legislation and Courts Decisions :
+Liquidated Damages at the Egyptian Legislation:
+Liquidated damages
+pursuant to the Egyptian legislation are penalty
+clauses applicable for the delay of the execution of works. The penalty is dual in
+nature, it acts as a punitive clause and exercises pressure upon the contractor.
+Article (23) of the State Procurement Law promulgated by law No. 89 of 1998
+stipulates that:
+"If the contracting party delayed the work after the set completion date, the
+authority concerned, can, for public interest, grant the contractor an extension
+of time for total completion and it can impose a penalty (fine) pursuant to
+percentages and rules stipulated by executive regulations. The total (fine) shall
+not exceed (3%) of the total contract value in purchasing immovables, receiving
+services, consultation studies and technical works, and shall not exceed (10%)
+in public works and transportation".
+The administration (state) shall collect the penalty for delay (fine) "ipso
+1 Tylor, Op. cit., P. 383. See also Mohamed Abdel Mageed Ismail, International Public Works
+Agreements Arbitration , El Halabi Publishing, Beirut, 2003. P.220.
+22
+
+--- Page 20 ---
+facto" without warning or any preliminary (or Judicial) procedures. The
+contracting party can be exempt from the penalty, after a legal opinion from
+the State Council, if the delay was out of the control thereof. The authority
+concerned accepts in this case, after consulting with the State Council, to exempt
+the contracting party from the fine, if the delay did not cause any damage.
+The penalty imposed and collected from the contracting party will not
+violate the right of the authority concerned to reclaim compensation from the
+contractor for delay in executing works.
+Article (83) of the executive regulations stipulates that:
+"The contractor is obliged to complete works to be able to do preliminary
+completion at stipulated time."
+If the contractor delays the completion of the work, the contracting
+authority, can, for public interest, grant him an extension of time for total
+completion. The penalty (fine) shall be imposed, from the beginning of this
+extension of time until the preliminary completion at a rate of (1%) for every
+week or part of a week.
+The total value of the penalty (fine) shall not exceed (10%) of the total value
+of the contract price.
+The penalty (fine) shall be calculated and deducted from the value of total
+works (take over certificate shall be considered), if the authority concerned
+decided that the delayed part of works of the project will directly or indirectly
+prevent the state from the utilization thereof at the stipulated time. If the
+authority concerned decided that the delayed part of the works will not cause
+such prevention, the fine calculation will be pursuant to previous percentages
+and conditions from the value of the delayed part of works only.
+"The fine shall be immediately imposed upon occurrence of the delay without
+taking any other procedures (i.e. notification, or any judicial procedures)".
+It is appropriate to refer to the previous State Procurement Law promulgated
+by law No. 9 of 1983 and the executive regulations thereof and abrogated by the
+current legislation (No. 89 of 1998). It was prohibited, until the new legislation
+was promulgated, to exempt the contractor from the penalty even if no damages
+occurred to the state.
+The situation at the previous legislation was that the penalty was compulsory
+and obligatory even if there were no damages to the contracting public juristic
+entity.
+The new trend with the 1998 legislation and the executive regulations
+thereof is that a contractor can be exempt from the penalty if the legal opinion
+Volume - 1
+23 القَانُونِيَّة
+
+--- Page 21 ---
+department at the State Council approved the exemption. Otherwise the
+contractor is obliged to pay the fine up to the cap (ceiling) stipulated under
+article (23) of the 1998 legislation, and article (83) of the executive regulations
+(10% of the total value of the contract price) even if there is no loss or damage to
+the state!!. If there is a delay, the penalty should be paid "Ipso facto" regardless
+of the fact that no damage or loss was suffered by the state.
+Despite the fact that there are some enhancements in the new trend
+adopted by the current legislation, the fine still has its punitive and exorbitant
+nature. The penalty is due, at any circumstances, when there is a delay even in
+light of the current legislation stipulations. The penalty is an extravagant and
+exorbitant clause in the agreement in light of the state procurement law.
+Public juristic entities (i.e. ministries, governorates, the cabinet, etc ....) in
+Egypt still accept this nature and apply these stipulations by state procurement
+laws (No. 9 of 1983 and No. 89 of 1998) without considering the harmful effect
+on the contractor by calculating this punitive penalty (10% of the total value of
+the contract price) and setting off this amount from his payments, especially
+the final certificate. The contractor has to reclaim this amount through either
+State Council courts of arbitration. This paper will examine the decisions of
+the Supreme Administrative Court of the Egyptian State Council and the legal
+opinion department (fatwa) from a comparative perspective with the Egyptian
+civil law perspective and cassation court in Egypt (civil and commercial circuits).
+A) The Penalty under the State Procurement Law of (1998) and the Pre-
+estimated Compensation under the Egyptian Civil Code |Legislation) :
+1- Article (224) of the Egyptian civil code stipulates that: "the agreed
+compensation is not due if the debtor proved that the creditor did not suffer
+any damages (loss).
+2- A judge (or arbitrator) can reduce the amount of compensation if the
+debtor proved that there is an exaggeration in that amount to a great extent or
+that the original obligation was partially executed.
+3- Any agreement contrary to the abovementioned provisions 224/1 and
+224/2 is null and void".
+Pursuant to article 225, if "he damages exceeded the agreed compensation
+value, the creditor cannot claim more than the stipulated amount unless the
+debtor is accused of committing fraud or a fundamental mistake".
+The Egyptian doctrinel explains this agreed compensation as a pre-
+estimated compensation agreed upon and stipulated between the contracting
+1 Dr PAbdel Wadood Yehia, Obligation stipulations at Egyptian Civil Law, Cairo(1987) pp 52-
+55 and Egyptian Cassation Court ,decision No 227, Civil circuit ,year 19,session 25/12/1968.
+24
+
+--- Page 22 ---
+Parties under the agreement or any of its appendices. This compensation is not
+due in the absence of loss or damages to the creditor. The court or arbitral
+tribunal can reduce the compensation if it is not adequate to the damages or
+"the contractor executed the contract partially, partial execution" to create a
+contractual balance between the due compensation amount and the damages.
+This dimension in the Egyptian civil code (which is based on Napoleonic codes)
+is to maintain fairness and balance of the contractual relationship.
+These rules are mandatory pursuant to the Egyptian civil code.
+The question is to compare the nature of the pre-estimated and agreed
+compensation, on one hand and penalties stipulated under the Egyptian State
+Procurement Law of (1998) on the other.
+According to the nature of the penalties (fines) under article (23) of law No.
+89 of 1998, these penalties resemble a fine on the contractor in public works
+agreements (domestic and international) up to (10%) of the total value of the
+contract price even if no damages occurred to the state contracting entity.1
+This is a mandatory rule in the Egyptian legal system under an administrative
+contract. Consequently, the state must take this action of punitive nature
+pursuant to the law and exorbitant clauses in the administrative contract in
+light of this legislation without a need to any judicial action.
+Conversely, the agreed compensation (Liquidated damages) in the Egyptian
+civil code applies to civil and commercial contracts which fall in the private
+law scope. First, the compensation aims to compensate the creditor in case of
+damages only. Second, this compensation should be fair and adequate to the
+actual loss. Third, the national court or arbitral tribunal can exercise its power
+to review the amount of compensation to assure that it is fair and adequate.
+These rules are mandatory in the domain of civil and commercial agreements.
+International construction contracts fall under the scope of this article.
+Meanwhile, public works administrative contracts, whether domestic or
+international, fall under the scope of article (23) of the state procurement
+law and executive regulations thereof fall under article (83), unless there are
+different stipulations by faring contractor.
+The Egyptian law recognizes rules the application of which can be avoided
+by the agreement of the contracting parties, they cannot avoid the application
+of any mandatory rules by their mutual consent as it is a matter of public policy.
+Thus, parties to any agreement cannot violate any valid mandatory rule under
+any circumstances at the Egyptian legal system.
+1 It is worth mentioning that parties to the contract can stipulate different percentage or
+cap and this can supersede cap or percentages stipulated by law (This very rarely happens) an
+opinion from The General Assembly For Legal Opinion(fatwa) And Legislation, No. (800)
+dated 13/12/1999 session 20/ 10/ 1999 file No 54/1/ 358.
+Volume - 1
+25 القَانُونيَّةِ
+
+--- Page 23 ---
+B) Decisions of Egyptian Courts:
+(i) Egyptian State Council :
+Courts' decisions:
+As the State Council has been codifying principles of administrative
+contracts since 1946, the Supreme Administrative Court distinguished between
+penalties in administrative contracts and liquidated damages which were pre-
+estimated and agreed upon in civil and commercial transactions (private law
+contracts).
+The court confirmed that: "Penalties in administrative contracts differ in
+nature from pre-estimated compensation in civil and commercial contracts.
+The latter is a pr-estimated compensation agreed upon between the parties
+and payable upon breach of contract by any of the contracting parties. This
+compensation is conditioned to be paid in all stipulations of the Egyptian
+law for compensation in general, such as the necessity of damages to the
+other contractor, notification to the party who caused the breach and a court
+judgment which can reduce compensation if one of the parties proved that
+compensation exceeds damages or loss.
+Meanwhile, the justification of penalties in administrative contracts is
+to guarantee the execution of these contracts at the stipulated time. The
+fundamental principle in administrative law of "running the public utilities in
+discipline and regularity" is the main justification and reason behind codifying
+these penalties in administrative contracts. These penalties (fines) are imposed
+by the administration (state) as an administrative procedure without court
+judgment or arbitral award, once a breach by the contractor occurs, the state
+can calculate the fine and settle the account of the contractor by setting-off
+the amount of fine from the payments made thereby pursuant to the contract
+without any necessity or need to prove damages.
+It is not acceptable from the contractor to prove that no damages occurred,
+as the administration (state) has stipulated, under the contract, a certain time
+for completion of works, taking into consideration the essential need to public
+utility to execute works at the stipulated time without delay 1 . Damages are
+always presumed".
+The Supreme Court elaborated in this leading case that "the penalty (fine)
+is applicable in case of delay without a need to notify the contractor or to prove
+that damages occurred. If the appeal administrative court stipulated that there
+must be damages to the state to apply the penalty, this judgment by the appeal
+1 Supreme administrative court - Egyptian State Council, principles of Supreme Administrative
+Court and the General Assembly for Legal Opinion (fatwa) and Legislation in administrative
+contracts in forty years, decision 1772-29,5/2/1985 and decision 741-27,28/5/1985. In the same
+meaning, decision 612-2,21/9/1960.
+26
+
+--- Page 24 ---
+court should be annulated".
+The court stated, in addition to the abovementioned principles, that the
+administration (state) can reconsider the surrounding circumstances of the
+contract and exempt the contractor from the penalty (fine) if it assumed that
+there is no harm to the public interest caused by the delay, or that the final
+completion of works at the stipulated time is not necessary in this particular
+case. This is an implied exemption to the contractor from the penalty (fine). 1
+The Supreme Administrative Court exempt the contractor in some
+occasions from the penalty (fine) despite the fact that it has confirmed
+the punitive nature of the penalty as a penalty clause in the public works
+agreement imposed by the state upon the contractors without a need to
+proof that damages occurred to the state. In this case, there is a presumption
+that damages exist promptly when there is a delay.
+In the past, the administration could not exempt the contractor from the
+penalty as it needed a court decision or a legal opinion from the department
+concerned (fatwa department) at the State Council pursuant to the current
+legislation No. 89 of 1998. This is the only difference between the old and new
+legislation as the new legislation facilitated the process for the state to exempt
+the contractor from the penalty by only a legal opinion from the opinion
+department (fatwa) rather than a court judgment which may take many years.
+If the contractor failed to obtain a legal opinion in his favor, he has to start
+either arbitration or litigation for some years. During these years, the value of
+the currency may possibly depreciate causing the inflation rate to increase in
+third world countries, in particular, and the contractor can only reclaim the
+fine deducted from his payments plus an interest rate of 5% from the date of
+reclaiming the amount until the actual payment by the state through either
+an enforceable court judgment (appeal court Judgment at least) or an arbitral
+award pursuant to the Egyptian Arbitration Act No. 27 of 1994 and the
+amendments thereof (law No. 9 of 1997) confirming the application of this act
+to administrative contracts whether national or international.
+Moreover, It is very difficult to deny the loss to a contractor and in addition
+the consequential loss that he could not recover even by a court judgment in
+most cases. At that stage, the significance of arbitration appears as it is in most
+cases prompt and adequate to the loss because of the vast authority entrusted
+to arbitrators and the flexibility to apply different rules of law in various cases.
+The parties can achieve a rapid resolution through a final and binding award.
+The Supreme Administrative Court in recent decisions 2 confirmed an
+1 Ibid.
+2 Supreme Administrative Court decision in case 10834 year (47) 30/5/2006 Third circuit
+and case 11986 year (48) 16/1/2007 Third circuit.(unpublished decisions).
+Volume -1
+27 القَانويّة
+
+--- Page 25 ---
+extravagant and exorbitant clause of the fines as a penalty for delay despite the
+fact that in certain cases the contractor may be exempt.
+It is fundamental to refer, at this stage, that the supreme administrative
+court in one of the most recent decisions held that "at the scope of application
+of the previous law No 9 of 1983, the administration can impose a fine 1% of
+the contract value in the first week of delay or part of it , 1.5 % of the contract
+value in the second week of delay or part of it , 2 % of the contract value of the
+third week of delay or part of it, 2.5% of the contract value of the fourth week of
+delay or part of it and 4% of the contact value of every month of delay or part of
+it . The total amount shall not exceed 15% of the total contract price according
+to the final certificate."
+A new approach was adopted by the court confirming a new perspective in
+interpreting law No 9 of 1983.The court confirmed that the above mentioned
+rates shall not be calculated together which means that in the fourth week of
+delay the court shall apply a fine of only 2.5 % rather than the old practice by
+courts which used to add the fine of the four weeks together to be 7 % of the
+total value of the contract price:
+.1%+1.5%+2%+2.5% = 7%
+The court confirmed that there is no addition to these percentages by
+calculating them together. Moreover, the court added another new approach
+that, in certain contracts, the administration can get benefit from part of the
+completed works by the contractor, the stipulated percentage 2.5 % at the fourth
+week, pursuant to the new interpretation, shall be calculated of the price of the
+other part of the contract that has not been completed.
+The price of the delayed part =107355.5 Egyptian pounds X 2.5 % = 2684
+Egyptian pounds.
+This amount shall be deducted from the final certificate by set off. 1
+This new approach reflects to what extent how globalization affects the
+application and interpretation of the legislative clauses even if it is punitive
+and extravagant. It is clear to what extent judges are trying to achieve fairness
+at the contractual relationship between state and contractor. They are obliged
+to apply the legislation as stipulated by the legislator. It is clear how there is an
+essential need to adopt new concepts by the Egyptian legislator which are not
+1 The Supreme Administrative Court ,case 11874,year 49, session, 10/3/2009 (unpublished)
+28
+
+--- Page 26 ---
+exist even in the new legislation No 89 of 1989.1
+The General Assembly for Legal Opinion (Fatwa) and Legislation:
+In 1965 the General Assembly for Legal Opinion (Fatwa) and Legislation
+pointed out that "the nature of administrative contracts is different from the
+nature of civil contracts as administrative contracts are made by and between
+a public juristic entity and a private entity in order to achieve public interest.
+The contracting parties in administrative contracts, entered into by the state,
+are not in equal bargaining power. The target of these contracts is to value
+public interest over the interest of the contractor. This target must appear in
+the provisions of the contract, the contractual relationship and, in particular,
+the application and interpretation of the contract.
+The administration (state) shall consider the punitive clauses stipulated
+under the contract and which are
+suitable to the nature, value and time
+considerations thereof in order to achieve final completion in a certain method
+so as to maintain regularity of public utilities..... In case of delay in execution
+by the contractor, there is a fundamental presumption that damages exist
+regardless of the practical reality. Any delay by the contractor is considered
+an act of violation and unorganization employed by the administration in
+managing the institutions thereof. There is no doubt that this delay interferes
+with public interest which is the main concern in administrative contracts". 2
+In another decision, the General Assembly confirmed the views of the
+decisions of the Supreme Court that "the penalty for delay must be calculated
+and deducted from the payments made by the contractor by set-off. The
+contractor cannot be exempt from this penalty if the administration was ready
+to accept works upon final completion. The contractor can only be exempt if the
+state delayed accepting works past the stipulated time . The existing case was
+that the administration was ready for inspecting, commissioning and accepting
+works meanwhile the contractor delayed. The General Assembly applied the
+penalty for delay clauses"
+A leading principle confirmed that a pre-exemption from the penalty for
+delay in a contract is illegal. The power to exempt a contractor shall be exercised
+1 Dr Mohamed A M Ismail , Globalization and Liquidated Damages in the International Public
+Works Agreements , An Analytical Perspective for the Penalty of Delay Clause in Infrastructure
+Agreements , The International Construction Law Review , London , Informa, Vol. 26,Part
+4,Oct.2009.
+2 Legal Opinion No. 845 issued on 6/9/1965 session 4/8/1965 file No (78/1/37).
+3 Legal opinion (116), issued on 25/1/1988, session 23/12/1987, file No. (32/2/1641) and in
+the same meaning see: Legal opinion No. (1196) dated 28/12/1991, session 1/12/1991 ,file
+(54/1/283)
+Volume -1
+29 القَانُونِيَةِ
+
+--- Page 27 ---
+only if it is necessary and in light of legislative and contractual stipulations (set
+out by the Egyptian legislator and Egyptian State Council)'
+In one of the recent decisions, which fall in the scope of application of the
+State Procurement Law of (1998), the General Assembly decided that "penalty
+for delay in public works agreement is obligatory. There is an obligation upon
+the contractor to achieve final completion at stipulated time in the contract.
+If the contractor delayed in the execution of works as a result to default by the
+administration to execute its obligations, this obligation by the administration
+is fundamental to the contractor to carry out his obligations. The mutual
+consent of the contracting parties to modify the contract and add a clause for the
+extension oftime, impliedly means an exemption from the penalty for delay atthe
+stipulated extension of time period added to the contract by the parties" 2
+The General Assembly affirmed in many occasions that civil and
+administrative contracts must be executed according to the principle of good
+faith (bona fide). The penalty for delay is stipulated for the specific purpose
+of regularly maintaining the attainment of public utility at the stipulated
+time. Damages are presumed. The contractor cannot be exempt unless there
+is a force majeure or default by the administration'. The administration has
+to exercise its power in imposing a penalty on the contractor or exempting
+him therefrom. If the administration, prima facia, exempts the contractor for
+Particular reasons, it is legal that the administration can re-impose a penalty
+for delay if there is a considerable consideration 4
+(ii) Decisions of the Egyptian Cassation Court (civil and commercial
+circuits) :
+The cassation court directly applied stipulations of article 224 of the civil law.
+The court held in some of the leading cases that "in the light of article (224)
+of the Egyptian civil law if there is penalty clause in the contract , damages
+are presumed unless the debtor proved the opposite or that stipulated
+compensation at the contract exceeded the actual loss". 56
+The court held in recent cases that "the contracting parties can fix a pre-
+1 Legal opinion (106), issued 22/1/1992, session 19/1/1992 file No. (54/1/291).
+2 Legal opinion (364), issued 25/5/2003, session 16/4/2003 file No. (54/1/403).
+3 Legal opinion No. (528) dated 3/6/1991, session 5/6/1991,file(37/2/419).
+4 Legal opinion (668) issued 25/8/2004, Session 21/4/2004, file No. (47/2/449),In the
+meaning see: Dr Mohamed A M Ismail ,Supra, I.C.L.R, Vol. 26,Part 4 ,Oct. 2009.
+5 Egyptian Cassation Court, case 415, year 46, 13/2/1980
+6 Egyptian Cassation Court, case 26, year 38, 18/12/1973.
+30
+
+--- Page 28 ---
+estimated compensation for damages as a result for non performance of any
+of the stipulated obligations If the debtor proved that the pre-estimated
+compensation exceeded the actual loss or that he performed some of his
+obligations court shall reduce compensation to be adequate to actual loss". '
+The same principles still adopted by the court until present.
+Conclusions:
+The judicial review of the State Council courts and General Assembly for
+Legal Opinion (Fatwa) and Legislation, at its most optimistic scenario, can
+exempt the contractor in certain cases stipulated at the Egyptian State Council
+practices. The contractor can be exempted from the penalty for delay in case of
+force majeure or fundamental default, by the state, which exempts the contractor
+from his obligations and, consequently, from the penalty for delay. This is not
+contrary to the punitive nature of the penalty for delay clause as this clause
+is always a penalty clause. Egyptian administrative courts recognize penalty
+clauses in administrative contracts, whether national or international, and
+consider them legal.
+If there are no damages, consequently, there is no loss to the state; the
+contractor can be exempt from the pre-estimated sum stipulated by the
+Procurement Law of (1998) or the contract, only in case of a legal opinion from
+the state council.
+These current changes in the last decade are direct result of globalization.
+Transfer of the legal culture From common law countries is of great
+importance as the administrative contract theory needs more modifications
+and enhancements.
+Globalization plays a significant role in changing some of the main features
+of this theory to be adopted through drafting international public works
+agreements with Private foreign entities .It is a new trend in the civil law legal
+culture.
+It is strongly recommended that there is an essential need for a legislative
+reform of article (23) of the State Procurement Law of (1998) to reduce the
+cap of the fine to be less than 10% of the total value of the contract price. It is
+fundamental to propose that the penalty shall be calculated according to the
+actual loss and no pre-estimated and fixed sum by legislations and regulations
+shall be applied as it exceeds the actual loss.
+The penalty can even reflect the substantial loss to the state public utility
+1 Egyptian Cassation Court, cases 1859, 2444, 2447, year (70), 12/6/2001
+Volume - 1
+القَانوينَ
+31
+
+--- Page 29 ---
+and be calculated pursuant to this loss which may be less than the actual loss in
+many cases. In Common law jurisdictions as stated above the Anglo- American
+case law considers liquidated damages genuine pre-estimated compensation
+that should be estimated according to the actual loss ( Damages). In some cases
+the contractor can be exempted from the penalty if the substantial completion
+was achieved in a reasonable time and the state can start utilization of the
+completed part on the stipulated purpose. Despite the fact that some recent
+cases applied liquidated damages clause and considered it valid, the latter view
+considered the stipulated sum adequate to the actual loss. The clause was not
+applied as a penalty clause at any circumstances.
+Among other difficulties which need to be considered is that in accordance
+with the principles of the administrative courts of the State Council ' a contractor,
+in certain cases, cannot suspend or terminate works if the administration
+terminates his payments. He cannot claim to stop execution until he gets his
+Payments from the state. In that case, the administration applies article (23) on
+the penalty for delay if he does not achieve final completion at the stipulated
+date despite the fact that he is not paid his payments by the administration.
+This critical situation needs a legislative reform of the state procurement
+law No. 89 of 1998 as termination of payments is an example of a fundamental
+default (breach of contract), by the state, pursuant to the Egyptian civil code .
+Few exceptions to this principal by Egyptian state council courts considered
+direct result of globalization.
+Contrary to this concept, in civil and commercial transactions, pursuant
+to article (161) of the Egyptian civil legislation, if one party to a contract failed
+to fulfill his obligations, the other party can suspend or terminate performance.
+Moreover, the proposed legislative reform must consider the dynamic
+relationship in the international public works agreements which differ from
+static relationships in other transactions. This dynamic relationship is related
+to many factors such as contract price, total sum stipulated as penalty, the
+extent to which it is adequate to the loss, currency depreciation, inflation rate,
+contractual relations with lending banks, insurance institutions and the change
+in raw material prices in developing countries, which may change contract price
+under different circumstances.
+1 Contractor cannot stop or suspend performance of works at any circumstances even if
+the state fails to make payments, in that case the penalty for delay is applicable |Supreme
+Administrative Court- case 5959, year (44), 26/1/2001] In very rare occasions the court allowed
+contractor to stop performance if the state delayed his payments [i.e case 4483, year (41), session
+6/5/1997]. In some other (rare) cases the contractor stipulates at the contract that the period of
+late payments shall be added to the completion date. This clause is valid as it is not contrary to
+mandatory rules of the state procurement law. An old Legal opinion confirming that in some
+cases the contract provisions can supersede procurement law . Legal opinion for the General
+Assembly (fatwa)No (100), session 20/3/1985 ,file(47/2/350).
+32
+
+--- Page 30 ---
+In conclusion, the penal nature of the penalty for delay clauses in the
+state procurement law under Egyptian law No. 89 of 1998 and the executive
+regulations thereof need a legislative reform of the fine stipulated by the state
+as well as a reconsideration of many other aspects.
+Modifications and enhancements to the legal regime governing
+international public works agreements will increase foreign direct investments
+(FDI) in the construction sector and infrastructure projects. New types of
+infrastructure agreements began to appear such as (Public-Private Partnership
+agreements) PPPs in France since 2004 (by decree No 559 of 2004,in June the
+17th, which was affirmed by the French Conseil d'Etat in 29 /10/2004famous
+decision)' and currently in Egypt since 2005 under the Egyptian Ministry
+of Finance supervision ( PPP Central Unit). Both systems recognized the
+latter mechanism following the English legal system which started this legal
+concept in financing, building operating public utilities since 1989. Moreover,
+PPPs can assist in developed countries in climate change mitigation as legal
+systems in these countries stipulate that newly established projects must
+adopt certain technologies friendly to environment.2It is worth mentioning
+that the legislation of the PPP transactions in Egypt is not considering these
+transactions administrative contracts and consequently are not subject to the
+state procurement law, concessions law No 129 of 1947 or natural resources
+concessions law No 61 of 1958.
+Civil law concepts and mechanisms in the administrative contract need
+complete revision and the judicial review by the State Council courts will
+advance as a result of the legislative reform.
+Globalization is playing a significant role as a tool to implement the
+abovementioned legal views and facts to encourage private foreign entities
+entering into infrastructure agreements with states as well as financial
+institutions.
+Finally, this legislative reform shall assist arbitral processes in international
+construction contracts arbitration between developing countries and foreign
+contractors. The arbitral tribunal in applying substantive law to facts has to
+determine first if the contract is an administrative contract and the fixed sum is
+1 wwW.consiel-etat-fr/jurispd/index-ac.10442.html
+2 See: Dr Mohamed AM Ismail, Legal Globalization and PPPs in Egypt "an analytical
+and comparative perspective on the current legislative and judicial modifications to and
+enhancements of the administrative contractual regime on PPP transactions" European PPP
+Law Review, Germany, March 2010(in English) and also by the same author: Public Economic
+Law and New International Administrative Contract, El Halabi Publishing Co., Beirut, 2010,
+PP 175-185.Geoffray Hamilton, FDI, the Global Crises and sustainable recovery working paper
+for public private partnership and FDI as means of securing a sustainable recovery, paper
+submitted to the fourth Columbia International Investment Conference , Columbia University,
+Nov.5-6 ,2009. Dr Ragab Mahmoud, PPP agreements, Dar El Nahda el Arabia,2007.
+Volume -1
+القَانوينَ
+33
+
+--- Page 31 ---
+a penalty and is applicable regardless to any existing loss or it is a commercial
+contract and consequently the pre-estimated compensation is subject to the
+arbitral tribunal review to be adequate to the actual loss. This is the current
+situation at the Egyptian Legal System where a legislative reform shall establish
+new concepts to be applied in both arbitration and litigation.
+34
+
