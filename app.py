@@ -1,7 +1,6 @@
 import os
 import random
 import re
-import zipfile
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -14,10 +13,11 @@ from langchain_core.embeddings import Embeddings
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
+import zipfile
 from huggingface_hub import hf_hub_download
 
 # -------------------------------------------------------------
-# 1. Database & Directory Setup (With Silent UI Loading)
+# 1. Database & Directory Setup
 # -------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
 CHROMA_PATH = str(BASE_DIR / "legal_chroma_db2")
@@ -26,11 +26,13 @@ REPO_ID = "xzainab/legal-chroma-vector-db"
 
 @st.cache_resource
 def load_vector_db():
+    # 1. Create temporary structural blocks to clear old memory traces
     info_placeholder = st.empty()
     success_placeholder = st.empty()
     
     if not os.path.exists(CHROMA_PATH):
-        info_placeholder.empty()
+        # Keeps your UI completely blank for the user
+        info_placeholder.empty() 
         
         hf_token = st.secrets.get("HF_TOKEN")
         
@@ -44,8 +46,10 @@ def load_vector_db():
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(BASE_DIR)
             
+        # Ensures any legacy notification boxes are explicitly destroyed
         success_placeholder.empty()
     else:
+        # Clear containers if the database already exists locally
         info_placeholder.empty()
         success_placeholder.empty()
         
@@ -53,12 +57,11 @@ def load_vector_db():
     vector_db = Chroma(
         collection_name="legal_documents",
         embedding_function=embeddings,
-        persist_directory=str(Path(CHROMA_PATH).resolve()), # Forces absolute cloud alignment
+        persist_directory=CHROMA_PATH,
         collection_metadata={"hnsw:space": "cosine"},
     )
     return vector_db
 
-    
 
 # -------------------------------------------------------------
 # 2. Main Legislation Categories
@@ -72,7 +75,7 @@ CATEGORIES = {
 }
 
 # -------------------------------------------------------------
-# 3. Streamlit Page Configuration & Styling (With Button Text Wrap Fix)
+# 3. Streamlit Page Configuration & Styling
 # -------------------------------------------------------------
 st.set_page_config(
     page_title="المستشار القانوني الذكي - مملكة البحرين",
@@ -122,16 +125,6 @@ st.markdown(
         --green-light: #E8F1EC;
         --border-color: #E6E2D8;
         --border-gold-subtle: #E8DCB8;
-    }
-
-    /* FIX: Force Streamlit suggestion buttons to wrap text over multiple lines instead of cutting off */
-    div.stButton > button {
-        white-space: normal !important;
-        word-wrap: break-word !important;
-        text-align: right !important;
-        height: auto !important;
-        padding: 10px 14px !important;
-        line-height: 1.5 !important;
     }
 
     i.fa-solid, i.fa-regular, i.fa-brands, .gold-icon, [data-testid="stIcon"] {
@@ -461,16 +454,18 @@ api_key = os.getenv('GROQ_API_KEY')
 
 
 def normalize_arabic(text: str) -> str:
+    """Normalizes Arabic letters for consistent matching."""
     if not text:
         return ""
-    text = re.sub(r"[ً-ْ]", "", text)
-    text = re.sub(r"[إأآ]", "ا", text)
-    text = re.sub(r"ى", "ي", text)
-    text = re.sub(r"ة", "ه", text)
+    text = re.sub(r"[\u064B-\u0652]", "", text)  # Remove diacritics
+    text = re.sub(r"[إأآ]", "ا", text)  # Standardize Alif
+    text = re.sub(r"ى", "ي", text)  # Standardize Alif Maqsura
+    text = re.sub(r"ة", "ه", text)  # Standardize Ta Marbuta
     return text.strip()
 
 
 def clean_source_hierarchy(metadata: dict, fallback_category: str = None) -> list:
+    """Extracts path hierarchy based on updated ChromaDB metadata tags."""
     cat = metadata.get("main_category", fallback_category)
     sub_path = metadata.get("sub_path", "")
     source_file = metadata.get("source_file", "")
@@ -524,7 +519,7 @@ class BahrainLegalChatbot:
 
 **تعليمات الرد:**
 1. إذا كانت الإجابة موجودة في أي جزء من النصوص المرفقة، استخرج النص وشرحه بوضوح وموجز كافٍ دون إطالة.
-2. إذا لم تجد الإجابة إطلاقاً في النصوص المرفقة, أجب حصراً بـ: "عذراً، لا تتوفر لدي معلومات كافية في المستندات القانونية المتاحة للإجابة على هذا السؤال."
+2. إذا لم تجد الإجابة إطلاقاً في النصوص المرفقة، أجب حصراً بـ: "عذراً، لا تتوفر لدي معلومات كافية في المستندات القانونية المتاحة للإجابة على هذا السؤال."
 3. الهيكل المطلوب للإجابة الإلزامي:
    - **النص القانوني / المادة المباشرة**
    - **الشرح والتطبيق القانوني**
@@ -547,7 +542,7 @@ class BahrainLegalChatbot:
                 "مبادئ وأحكام محكمة التمييز البحرينية",
             ]
             query = random.choice(seed_queries)
-            docs = self.vector_db.similarity_search(query=query, k=5)
+            docs = self.vector_db.similarity_search(query=query, k=8)
             valid_chunks = [
                 d.page_content.strip()
                 for d in docs
@@ -584,19 +579,20 @@ class BahrainLegalChatbot:
         if category_value and category_value != "الكل":
             filter_dict = {"main_category": category_value}
 
-        # Optimized k=8 to fetch accurate answers without crashing
+        # 1. Retrieve top 12 chunks to maximize semantic coverage
         try:
             docs = self.vector_db.similarity_search(
-                query=user_query, k=8, filter=filter_dict
+                query=user_query, k=12, filter=filter_dict
             )
         except Exception:
-            docs = self.vector_db.similarity_search(query=user_query, k=8)
+            docs = self.vector_db.similarity_search(query=user_query, k=12)
 
+        # 2. Secondary fuzzy check for short search terms
         clean_query = normalize_arabic(user_query)
         if len(clean_query.split()) <= 3:
             try:
                 extra_docs = self.vector_db.similarity_search(
-                    query=user_query, k=15, filter=filter_dict
+                    query=user_query, k=30, filter=filter_dict
                 )
                 matched_docs = [
                     doc
@@ -604,7 +600,7 @@ class BahrainLegalChatbot:
                     if clean_query in normalize_arabic(doc.page_content)
                 ]
                 if matched_docs:
-                    docs = matched_docs[:8]
+                    docs = matched_docs[:12]
             except Exception:
                 pass
 
@@ -623,6 +619,7 @@ class BahrainLegalChatbot:
                 "suggested_questions": [],
             }
 
+        # Build context string
         context_text = ""
         for idx, doc in enumerate(docs):
             context_text += f"\n---\nالمستند: {doc.metadata.get('source_file', '')}\nالنص:\n{doc.page_content}\n"
@@ -663,9 +660,9 @@ class BahrainLegalChatbot:
         )
 
         if len(parts) >= 5:
-            legal_text = parts.strip(":\n -*")
-            explanation = parts.strip(":\n -*")
-            summary = parts.strip(":\n -*") if len(parts) > 6 else ""
+            legal_text = parts[2].strip(":\n -*")
+            explanation = parts[4].strip(":\n -*")
+            summary = parts[6].strip(":\n -*") if len(parts) > 6 else ""
         else:
             legal_text = full_answer[:250] + "..."
             explanation = full_answer
@@ -699,12 +696,13 @@ class BahrainLegalChatbot:
         except Exception:
             return []
 
+
 @st.cache_resource
 def init_chatbot():
     vector_db = load_vector_db()
-    # Restored your original model identifier
     llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
+
 
 
 chatbot = init_chatbot()
@@ -977,7 +975,7 @@ else:
                 for hierarchy in sources_list:
                     if not hierarchy:
                         continue
-                    tree_block = f'<div class="tree-node-root">{hierarchy}</div>'
+                    tree_block = f'<div class="tree-node-root">{hierarchy[0]}</div>'
                     for depth, node_name in enumerate(hierarchy[1:], start=1):
                         indent_spaces = "&nbsp;" * (depth * 4)
                         is_leaf = depth == len(hierarchy) - 1
@@ -1013,7 +1011,7 @@ else:
 # 10. Form Input Bar
 # -------------------------------------------------------------
 with st.form(key="chat_input_form", clear_on_submit=True):
-    col_input, col_submit = st.columns([4, 1])
+    col_input, col_submit = st.columns([5, 1])
     with col_input:
         user_text = st.text_input(
             label="سؤالك القانوني",
