@@ -691,11 +691,13 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
+    # Fetch your database from Hugging Face
     vector_db = load_vector_db()
     
-    # Swapped to a model with much higher free-tier rate limits
-    llm = ChatGroq(model_name="llama-3.1-8b-instant", temperature=0)
+    # Swapped to a production model with significantly higher free-tier rate limits
+    llm = ChatGroq(model_name="llama-3.3-70b-specdec", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
+
 
 
 
