@@ -26,13 +26,16 @@ REPO_ID = "xzainab/legal-chroma-vector-db"
 
 @st.cache_resource
 def load_vector_db():
+    # 1. Create temporary structural blocks to clear old memory traces
+    info_placeholder = st.empty()
+    success_placeholder = st.empty()
+    
     if not os.path.exists(CHROMA_PATH):
-        # We removed st.info here to keep the user interface perfectly clean
+        # Keeps your UI completely blank for the user
+        info_placeholder.empty() 
         
-        # Access token securely stored in your Streamlit Cloud Advanced Settings
         hf_token = st.secrets.get("HF_TOKEN")
         
-        # Download zip archive from your Hugging Face Dataset repository
         zip_path = hf_hub_download(
             repo_id=REPO_ID,
             filename=ZIP_FILENAME,
@@ -40,11 +43,15 @@ def load_vector_db():
             token=hf_token
         )
         
-        # Unpack the database into the runtime environment
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(BASE_DIR)
             
-        # We removed st.success here so the page loads silently behind the scenes
+        # Ensures any legacy notification boxes are explicitly destroyed
+        success_placeholder.empty()
+    else:
+        # Clear containers if the database already exists locally
+        info_placeholder.empty()
+        success_placeholder.empty()
         
     embeddings = LangChainE5Embeddings()
     vector_db = Chroma(
@@ -54,6 +61,7 @@ def load_vector_db():
         collection_metadata={"hnsw:space": "cosine"},
     )
     return vector_db
+
 
 # -------------------------------------------------------------
 # 2. Main Legislation Categories
