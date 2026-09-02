@@ -1012,7 +1012,7 @@ else:
 # 10. Form Input Bar
 # -------------------------------------------------------------
 with st.form(key="chat_input_form", clear_on_submit=True):
-    col_input, col_submit = st.columns()
+    col_input, col_submit = st.columns([4, 1])
     with col_input:
         user_text = st.text_input(
             label="سؤالك القانوني",
