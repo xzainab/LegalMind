@@ -2,6 +2,7 @@ import os
 import random
 import re
 from pathlib import Path
+from dotenv import load_dotenv
 
 import sentence_transformers
 import streamlit as st
@@ -404,7 +405,9 @@ st.markdown(
 # 4. Backend RAG Components & Logic
 # -------------------------------------------------------------
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
-os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY", "api")
+load_dotenv()
+
+api_key = os.getenv('GROQ_API_KEY')
 
 
 def normalize_arabic(text: str) -> str:
@@ -765,6 +768,9 @@ with st.sidebar:
           </div>
           <div style="font-size: 11px; font-weight: 700; color: #1E293B; margin-bottom: 8px; font-family: 'Cairo', sans-serif;">
               GENERAL ASSEMBLY <span style="color: #C5A059; margin: 0 2px;">×</span> CAPITAL LEGAL BASE
+          </div>
+          <div style="font-size: 10.5px; color: #64748B; font-weight: 400; line-height: 1.4;">
+              زينب عبدالوهاب · فاطمة خليفة · فاطمة شملوه
           </div>
       </div>
       """,
