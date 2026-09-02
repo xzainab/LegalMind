@@ -13,7 +13,8 @@ from langchain_core.embeddings import Embeddings
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
-from huggingface_hub import hf_hub_download and import zipfile
+import zipfile
+from huggingface_hub import hf_hub_download
 
 # -------------------------------------------------------------
 # 1. Database & Directory Setup
@@ -474,6 +475,32 @@ def clean_source_hierarchy(metadata: dict, fallback_category: str = None) -> lis
         hierarchy.append(f"جزء {chunk_idx}")
 
     return hierarchy
+
+
+def convert_result_to_txt(q_text: str, res: dict) -> str:
+    """Formats the legal query result into a clean, readable plain text file structure."""
+    report = []
+    report.append("==================================================")
+    report.append("          تقرير استشارة قانونية - المستشار الذكي          ")
+    report.append("                 مملكة البحرين                    ")
+    report.append("==================================================\n")
+    
+    report.append(f"❓ السؤال المطروح:\n{q_text}\n")
+    report.append("--------------------------------------------------")
+    
+    report.append(f"1. النص القانوني المباشر:\n{res.get('legal_text', '')}\n")
+    report.append("--------------------------------------------------")
+    
+    report.append(f"2. الشرح والتطبيق القانوني:\n{res.get('explanation', '')}\n")
+    report.append("--------------------------------------------------")
+    
+    if res.get("summary"):
+        report.append(f"3. الخلاصة التنفيذية:\n{res.get('summary', '')}\n")
+        report.append("--------------------------------------------------")
+        
+    report.append("\n[تم توليد هذا التقرير تلقائياً بواسطة منصة المستشار القانوني الذكي]")
+    
+    return "\n".join(report)
 
 
 class LangChainE5Embeddings(Embeddings):
@@ -983,6 +1010,21 @@ else:
                     "المصادر", expanded=False, icon=":material/description:"
                 ):
                     st.markdown(sources_tree_html, unsafe_allow_html=True)
+
+
+            if res.get("has_sufficient_info", False):
+                txt_report_content = convert_result_to_txt(q_text, res)
+                
+                st.markdown('<div style="margin-top: 14px; margin-bottom: 14px;"></div>', unsafe_allow_html=True)
+                st.download_button(
+                    label="📥 تحميل نتيجة الاستشارة كملف نصي (TXT)",
+                    data=txt_report_content,
+                    file_name=f"legal_consultation_{idx+1}.txt",
+                    mime="text/plain",
+                    key=f"download_txt_btn_{idx}",
+                    use_container_width=True
+                )
+
 
             if is_latest and res.get("suggested_questions"):
                 st.markdown(

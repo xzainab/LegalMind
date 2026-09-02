@@ -26,33 +26,26 @@ REPO_ID = "xzainab/legal-chroma-vector-db"
 
 @st.cache_resource
 def load_vector_db():
-    # 1. Create temporary structural blocks to clear old memory traces
-    info_placeholder = st.empty()
-    success_placeholder = st.empty()
-    
     if not os.path.exists(CHROMA_PATH):
-        # Keeps your UI completely blank for the user
-        info_placeholder.empty() 
-        
+        st.info("جاري تحميل قاعدة البيانات القانونية من Hugging Face...")
+
+        # Fetch the secret token safely from your Streamlit advanced cloud settings
         hf_token = st.secrets.get("HF_TOKEN")
-        
+
+        # Download the zip archive directly from the Hugging Face hub
         zip_path = hf_hub_download(
             repo_id=REPO_ID,
             filename=ZIP_FILENAME,
             repo_type="dataset",
             token=hf_token
         )
-        
+
+        # Unpack the database archive into the root environment directory
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(BASE_DIR)
-            
-        # Ensures any legacy notification boxes are explicitly destroyed
-        success_placeholder.empty()
-    else:
-        # Clear containers if the database already exists locally
-        info_placeholder.empty()
-        success_placeholder.empty()
-        
+
+        st.success("تم تحميل وتجهيز قاعدة البيانات بنجاح!")
+
     embeddings = LangChainE5Embeddings()
     vector_db = Chroma(
         collection_name="legal_documents",
@@ -61,7 +54,6 @@ def load_vector_db():
         collection_metadata={"hnsw:space": "cosine"},
     )
     return vector_db
-
 
 # -------------------------------------------------------------
 # 2. Main Legislation Categories
@@ -485,6 +477,32 @@ def clean_source_hierarchy(metadata: dict, fallback_category: str = None) -> lis
     return hierarchy
 
 
+def convert_result_to_txt(q_text: str, res: dict) -> str:
+    """Formats the legal query result into a clean, readable plain text file structure."""
+    report = []
+    report.append("==================================================")
+    report.append("          تقرير استشارة قانونية - المستشار الذكي          ")
+    report.append("                 مملكة البحرين                    ")
+    report.append("==================================================\n")
+    
+    report.append(f"❓ السؤال المطروح:\n{q_text}\n")
+    report.append("--------------------------------------------------")
+    
+    report.append(f"1. النص القانوني المباشر:\n{res.get('legal_text', '')}\n")
+    report.append("--------------------------------------------------")
+    
+    report.append(f"2. الشرح والتطبيق القانوني:\n{res.get('explanation', '')}\n")
+    report.append("--------------------------------------------------")
+    
+    if res.get("summary"):
+        report.append(f"3. الخلاصة التنفيذية:\n{res.get('summary', '')}\n")
+        report.append("--------------------------------------------------")
+        
+    report.append("\n[تم توليد هذا التقرير تلقائياً بواسطة منصة المستشار القانوني الذكي]")
+    
+    return "\n".join(report)
+
+
 class LangChainE5Embeddings(Embeddings):
 
     def __init__(self, model_name: str = "intfloat/multilingual-e5-base"):
@@ -699,10 +717,10 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
-    vector_db = load_vector_db()
+    # Replaced local initialization with the cloud download wrapper function
+    vector_db = load_vector_db() 
     llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
-
 
 
 chatbot = init_chatbot()
@@ -992,6 +1010,21 @@ else:
                     "المصادر", expanded=False, icon=":material/description:"
                 ):
                     st.markdown(sources_tree_html, unsafe_allow_html=True)
+
+
+            if res.get("has_sufficient_info", False):
+                txt_report_content = convert_result_to_txt(q_text, res)
+                
+                st.markdown('<div style="margin-top: 14px; margin-bottom: 14px;"></div>', unsafe_allow_html=True)
+                st.download_button(
+                    label="📥 تحميل نتيجة الاستشارة كملف نصي (TXT)",
+                    data=txt_report_content,
+                    file_name=f"legal_consultation_{idx+1}.txt",
+                    mime="text/plain",
+                    key=f"download_txt_btn_{idx}",
+                    use_container_width=True
+                )
+
 
             if is_latest and res.get("suggested_questions"):
                 st.markdown(
