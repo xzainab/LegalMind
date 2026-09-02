@@ -694,11 +694,9 @@ def init_chatbot():
     # Fetch your database from Hugging Face
     vector_db = load_vector_db()
     
-    # Swapped to a production model with significantly higher free-tier rate limits
-    llm = ChatGroq(model_name="llama-3.3-70b-specdec", temperature=0)
+    # Swapped to the correct, active production model ID
+    llm = ChatGroq(model_name="llama-3.3-70b-versatile", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
-
-
 
 
 
