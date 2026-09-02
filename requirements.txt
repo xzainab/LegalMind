@@ -8,3 +8,4 @@ sentence-transformers
 torch
 python-dotenv
 hf-transfer
+streamlit-mic-recorder
