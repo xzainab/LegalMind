@@ -691,15 +691,12 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
-    import time
-    # Prevent rapid rapid-fire calls during initialization
-    time.sleep(1) 
-    
     vector_db = load_vector_db()
     
-    # Using the production model listed directly on your Groq dashboard screen
-    llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
+    # Swapped to a model with much higher free-tier rate limits
+    llm = ChatGroq(model_name="llama-3.1-8b-instant", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
+
 
 
 
