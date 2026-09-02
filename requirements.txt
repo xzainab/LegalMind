@@ -1,0 +1,10 @@
+streamlit
+chromadb
+huggingface_hub
+langchain-chroma
+langchain-core
+langchain-groq
+sentence-transformers
+torch
+python-dotenv
+hf-transfer
