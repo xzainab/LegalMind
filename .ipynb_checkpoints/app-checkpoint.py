@@ -29,10 +29,8 @@ def load_vector_db():
     if not os.path.exists(CHROMA_PATH):
         st.info("جاري تحميل قاعدة البيانات القانونية من Hugging Face...")
 
-        # Fetch the secret token safely from your Streamlit advanced cloud settings
         hf_token = st.secrets.get("HF_TOKEN")
 
-        # Download the zip archive directly from the Hugging Face hub
         zip_path = hf_hub_download(
             repo_id=REPO_ID,
             filename=ZIP_FILENAME,
@@ -40,7 +38,6 @@ def load_vector_db():
             token=hf_token
         )
 
-        # Unpack the database archive into the root environment directory
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(BASE_DIR)
 
@@ -380,34 +377,13 @@ st.markdown(
         background-color: var(--bg-ivory);
         border: 1px solid var(--border-gold-subtle);
         border-radius: 8px;
-        padding: 12px 16px;
+        padding: 10px 14px;
         margin-top: 8px;
         margin-bottom: 8px;
         font-size: 13.5px;
         direction: rtl !important;
         text-align: right !important;
         font-family: 'Cairo', sans-serif;
-    }
-
-    .tree-node-root {
-        font-weight: 700;
-        color: var(--primary-navy);
-        font-size: 14px;
-        margin-bottom: 4px;
-    }
-
-    .tree-node-child {
-        color: var(--text-muted);
-        font-weight: 500;
-        line-height: 1.7;
-        font-family: monospace, 'Cairo';
-    }
-
-    .tree-node-leaf {
-        color: var(--dark-green);
-        font-weight: 600;
-        line-height: 1.7;
-        font-family: monospace, 'Cairo';
     }
 
     .conv-wrapper {
@@ -456,25 +432,80 @@ def normalize_arabic(text: str) -> str:
     return text.strip()
 
 
+def clean_text_artifacts(text: str) -> str:
+    """Removes file extensions (.txt, .pdf, etc.) and technical source artifacts from content body."""
+    if not text:
+        return ""
+    text = re.sub(r"\.(txt|pdf|docx?|json|csv|xlsx?)\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
 def clean_source_hierarchy(metadata: dict, fallback_category: str = None) -> list:
-    """Extracts path hierarchy based on updated ChromaDB metadata tags."""
-    cat = metadata.get("main_category", fallback_category)
-    sub_path = metadata.get("sub_path", "")
-    source_file = metadata.get("source_file", "")
-    chunk_idx = metadata.get("chunk_index", "")
+    """Extracts exact original file location and full folder hierarchy from document metadata."""
+    if not metadata:
+        return []
 
-    hierarchy = []
-    if cat:
-        hierarchy.append(cat)
-    if sub_path:
-        hierarchy.append(sub_path)
-    elif source_file:
-        hierarchy.append(source_file)
+    raw_path = (
+        metadata.get("relative_path")
+        or metadata.get("file_path")
+        or metadata.get("path")
+        or metadata.get("full_path")
+        or metadata.get("source")
+        or metadata.get("sub_path")
+        or ""
+    )
 
-    if chunk_idx != "":
-        hierarchy.append(f"جزء {chunk_idx}")
+    normalized_path = str(raw_path).replace("\\", "/")
+    raw_parts = [p.strip() for p in normalized_path.split("/") if p.strip()]
 
-    return hierarchy
+    if not raw_parts:
+        cat = metadata.get("main_category", fallback_category)
+        sub = metadata.get("sub_path", "")
+        f_name = metadata.get("source_file", "") or metadata.get("file_name", "")
+        if cat:
+            raw_parts.append(str(cat))
+        if sub:
+            raw_parts.extend([s.strip() for s in str(sub).replace("\\", "/").split("/") if s.strip()])
+        if f_name:
+            raw_parts.append(str(f_name))
+
+    clean_parts = []
+    ignored_keywords = [
+        "checkpoint",
+        "ipynb_checkpoints",
+        "vector_db",
+        "legal_chroma_db",
+        "chunk",
+        "page",
+        "embedding",
+    ]
+
+    for idx, part in enumerate(raw_parts):
+        lower_part = part.lower()
+
+        if part.startswith(".") or any(k in lower_part for k in ignored_keywords):
+            continue
+
+        clean_part = re.sub(
+            r"\.(txt|pdf|docx?|json|csv|xlsx?|ipynb|checkpoint)$",
+            "",
+            part,
+            flags=re.IGNORECASE,
+        )
+
+        clean_part = re.sub(
+            r"(_chunk_\d+|_page_\d+|_part_\d+)$", "", clean_part, flags=re.IGNORECASE
+        )
+
+        if clean_part.strip():
+            clean_parts.append(clean_part.strip())
+
+    cat = metadata.get("main_category")
+    if cat and cat != "الكل" and (not clean_parts or clean_parts[0] != cat):
+        clean_parts.insert(0, cat)
+
+    return clean_parts
 
 
 def convert_result_to_txt(q_text: str, res: dict) -> str:
@@ -532,13 +563,23 @@ class BahrainLegalChatbot:
         self.vector_db = vector_db
         self.llm = llm
 
-        self.system_prompt = """أنت مستشار قانوني خبير ومتخصص في التشريعات والقوانين الخاصة بمملكة البحرين.
-قم بالتحليل الدقيق للنصوص القانونية المرفقة واستخراج الإجابة المباشرة عن سؤال المستخدم.
+        self.system_prompt = """أنت "المستشار القانوني الذكي"، مساعد قانوني تفاعلي ذكي وخبير في التشريعات والقوانين الخاصة بمملكة البحرين.
 
-**تعليمات الرد:**
-1. إذا كانت الإجابة موجودة في أي جزء من النصوص المرفقة، استخرج النص وشرحه بوضوح وموجز كافٍ دون إطالة.
-2. إذا لم تجد الإجابة إطلاقاً في النصوص المرفقة، أجب حصراً بـ: "عذراً، لا تتوفر لدي معلومات كافية في المستندات القانونية المتاحة للإجابة على هذا السؤال."
-3. الهيكل المطلوب للإجابة الإلزامي:
+**قواعد التعامل والتفاعل:**
+1. **التحيات والمحادثات العادية (Greetings & Conversational Messages):**
+   - إذا كان مدخل المستخدم تحية أو مجاملة بسيطة (مثل: "السلام عليكم"، "هلا"، "مرحبا"، "شكراً"، "كيف الحال"، "شلونك"، "مشكور"), أجب بلباقة ولطف وبشكل طبيعي باللغة العربية (مثل: "وعليكم السلام ورحمة الله وبركاته، أهلاً بك! كيف يمكنني مساعدتك اليوم في الاستشارات القانونية؟").
+   - في هذه الحالة فقط، لا تستخدم هيكل الإجابة القانونية المكون من 3 أقسام.
+
+2. **فهم العامية واللغات والعيوب الإملائية:**
+   - افهم أسئلة المستخدم سواء كانت بالفصحى أو بـ **اللهجة البحرينية / الخليجية العامية** (مثل: "شنو"، "جم"، "جم يوم"، "شلون"، "حقوقي"), وتجاوز عن الأخطاء الإملائية والنحوية البسيطة للوصول إلى المعنى المقصود.
+   - إذا طرح المستخدم سؤالاً قانونياً باللغة الإنجليزية (**English**), أجب عليه باللغتين **العربية والإنجليزية** (Provide the response in both Arabic and English) مع الالتزام التام بذات القواعد القانونية الهيكلية.
+
+3. **الالتزام الصارم بالنصوص القانونية (Strict Legal Grounding):**
+   - يمنع منعاً باتاً استخدام معلوماتك العامة لإجابة أي سؤال قانوني أو اختراع أي معلومات قانونية. الإجابة القانونية يجب أن تعتمد **حصراً وبنسبة 100%** على النصوص المرفقة في قسم (النصوص القانونية المرفقة).
+   - إذا لم تجد الإجابة القانونية المباشرة أو الكافية في النصوص المرفقة، أجب حصراً بهذه العبارة: "عذراً، لا تتوفر لدي معلومات كافية في المستندات القانونية المتاحة للإجابة على هذا السؤال."
+
+4. **الهيكل الإلزامي للرد على الأسئلة القانونية:**
+   عند وجود إجابة قانونية مدعومة بالنصوص المرفقة، التزم بالهيكل التالي بدقة:
    - **النص القانوني / المادة المباشرة**
    - **الشرح والتطبيق القانوني**
    - **ملخص تنفيذي موجز** (سطران فقط يلخصان الإجابة بشكل مركز)
@@ -569,6 +610,7 @@ class BahrainLegalChatbot:
             if valid_chunks:
                 selected = random.choice(valid_chunks)
                 clean_text = re.sub(r"\s+", " ", selected)
+                clean_text = clean_text_artifacts(clean_text)
                 return (
                     clean_text[:170] + "..." if len(clean_text) > 170 else clean_text
                 )
@@ -597,7 +639,6 @@ class BahrainLegalChatbot:
         if category_value and category_value != "الكل":
             filter_dict = {"main_category": category_value}
 
-        # 1. Retrieve top 12 chunks to maximize semantic coverage
         try:
             docs = self.vector_db.similarity_search(
                 query=user_query, k=12, filter=filter_dict
@@ -605,7 +646,6 @@ class BahrainLegalChatbot:
         except Exception:
             docs = self.vector_db.similarity_search(query=user_query, k=12)
 
-        # 2. Secondary fuzzy check for short search terms
         clean_query = normalize_arabic(user_query)
         if len(clean_query.split()) <= 3:
             try:
@@ -627,20 +667,10 @@ class BahrainLegalChatbot:
             " للإجابة على هذا السؤال."
         )
 
-        if not docs:
-            return {
-                "has_sufficient_info": False,
-                "legal_text": "",
-                "explanation": fallback_msg,
-                "summary": "",
-                "sources_hierarchies": [],
-                "suggested_questions": [],
-            }
-
-        # Build context string
         context_text = ""
-        for idx, doc in enumerate(docs):
-            context_text += f"\n---\nالمستند: {doc.metadata.get('source_file', '')}\nالنص:\n{doc.page_content}\n"
+        if docs:
+            for idx, doc in enumerate(docs):
+                context_text += f"\n---\nالمستند: {doc.metadata.get('source_file', '')}\nالنص:\n{doc.page_content}\n"
 
         chain = self.prompt_template | self.llm
         res = chain.invoke({
@@ -656,6 +686,16 @@ class BahrainLegalChatbot:
                 "has_sufficient_info": False,
                 "legal_text": "",
                 "explanation": fallback_msg,
+                "summary": "",
+                "sources_hierarchies": [],
+                "suggested_questions": [],
+            }
+
+        if not any(header in full_answer for header in ["النص القانوني", "1.", "المادة", "Legal Text", "1. Legal Text"]):
+            return {
+                "has_sufficient_info": False,
+                "legal_text": "",
+                "explanation": clean_text_artifacts(full_answer),
                 "summary": "",
                 "sources_hierarchies": [],
                 "suggested_questions": [],
@@ -686,6 +726,11 @@ class BahrainLegalChatbot:
             explanation = full_answer
             summary = ""
 
+        # Clean all extension artifacts from legal text content
+        legal_text = clean_text_artifacts(legal_text)
+        explanation = clean_text_artifacts(explanation)
+        summary = clean_text_artifacts(summary)
+
         suggested_q = self._generate_suggested_questions(user_query, full_answer)
 
         return {
@@ -706,7 +751,7 @@ class BahrainLegalChatbot:
         try:
             res = self.llm.invoke(q_prompt)
             questions = [
-                q.strip()
+                clean_text_artifacts(q.strip())
                 for q in res.content.strip().split("\n")
                 if q.strip() and not q.strip().startswith("-")
             ]
@@ -717,7 +762,6 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
-    # Replaced local initialization with the cloud download wrapper function
     vector_db = load_vector_db() 
     llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
@@ -993,24 +1037,27 @@ else:
                 for hierarchy in sources_list:
                     if not hierarchy:
                         continue
-                    tree_block = f'<div class="tree-node-root">{hierarchy[0]}</div>'
-                    for depth, node_name in enumerate(hierarchy[1:], start=1):
-                        indent_spaces = "&nbsp;" * (depth * 4)
-                        is_leaf = depth == len(hierarchy) - 1
-                        node_class = "tree-node-leaf" if is_leaf else "tree-node-child"
-                        tree_block += (
-                            f'<div class="{node_class}">{indent_spaces}└─'
-                            f" {node_name}</div>"
-                        )
+                    
+                    path_parts = []
+                    for i, node_name in enumerate(hierarchy):
+                        is_last = (i == len(hierarchy) - 1)
+                        if is_last:
+                            path_parts.append(f'<span style="color: var(--dark-green); font-weight: 700;">{node_name}</span>')
+                        else:
+                            path_parts.append(f'<span style="color: var(--primary-navy); font-weight: 600;">{node_name}</span>')
+                    
+                    joined_path = " <span style='color: var(--gold-accent); margin: 0 4px;'>&larr;</span> ".join(path_parts)
                     sources_tree_html += (
-                        f'<div class="source-tree-card">{tree_block}</div>'
+                        f'<div class="source-tree-card">'
+                        f'<div style="display: flex; align-items: center; gap: 6px; font-size: 13.5px; direction: rtl; text-align: right; line-height: 1.8;">'
+                        f'<i class="fa-solid fa-folder-tree" style="color: var(--gold-accent);"></i> {joined_path}'
+                        f'</div></div>'
                     )
 
                 with st.expander(
                     "المصادر", expanded=False, icon=":material/description:"
                 ):
                     st.markdown(sources_tree_html, unsafe_allow_html=True)
-
 
             if res.get("has_sufficient_info", False):
                 txt_report_content = convert_result_to_txt(q_text, res)
@@ -1024,7 +1071,6 @@ else:
                     key=f"download_txt_btn_{idx}",
                     use_container_width=True
                 )
-
 
             if is_latest and res.get("suggested_questions"):
                 st.markdown(
