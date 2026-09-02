@@ -53,10 +53,12 @@ def load_vector_db():
     vector_db = Chroma(
         collection_name="legal_documents",
         embedding_function=embeddings,
-        persist_directory=CHROMA_PATH,
+        persist_directory=str(Path(CHROMA_PATH).resolve()), # Forces absolute cloud alignment
         collection_metadata={"hnsw:space": "cosine"},
     )
     return vector_db
+
+    
 
 # -------------------------------------------------------------
 # 2. Main Legislation Categories
