@@ -697,12 +697,11 @@ class BahrainLegalChatbot:
         except Exception:
             return []
 
-
 @st.cache_resource
 def init_chatbot():
     vector_db = load_vector_db()
-    # High-throughput stable production engine
-    llm = ChatGroq(model_name="llama-3.1-8b-instant", temperature=0)
+    # Restored your original model identifier
+    llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
 
 
