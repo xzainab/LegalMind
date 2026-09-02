@@ -691,11 +691,8 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
-    # Fetch your database from Hugging Face
     vector_db = load_vector_db()
-    
-    # Swapped to the correct, active production model ID
-    llm = ChatGroq(model_name="llama-3.3-70b-versatile", temperature=0)
+    llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
 
 
