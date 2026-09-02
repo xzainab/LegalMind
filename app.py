@@ -13,12 +13,46 @@ from langchain_core.embeddings import Embeddings
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
+from huggingface_hub import hf_hub_download and import zipfile
 
 # -------------------------------------------------------------
 # 1. Database & Directory Setup
 # -------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
 CHROMA_PATH = str(BASE_DIR / "legal_chroma_db2")
+ZIP_FILENAME = "legal_chroma_db2.zip"
+REPO_ID = "xzainab/legal-chroma-vector-db" 
+
+@st.cache_resource
+def load_vector_db():
+    if not os.path.exists(CHROMA_PATH):
+        st.info("جاري تحميل قاعدة البيانات القانونية من Hugging Face...")
+
+        # Fetch the secret token safely from your Streamlit advanced cloud settings
+        hf_token = st.secrets.get("HF_TOKEN")
+
+        # Download the zip archive directly from the Hugging Face hub
+        zip_path = hf_hub_download(
+            repo_id=REPO_ID,
+            filename=ZIP_FILENAME,
+            repo_type="dataset",
+            token=hf_token
+        )
+
+        # Unpack the database archive into the root environment directory
+        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+            zip_ref.extractall(BASE_DIR)
+
+        st.success("تم تحميل وتجهيز قاعدة البيانات بنجاح!")
+
+    embeddings = LangChainE5Embeddings()
+    vector_db = Chroma(
+        collection_name="legal_documents",
+        embedding_function=embeddings,
+        persist_directory=CHROMA_PATH,
+        collection_metadata={"hnsw:space": "cosine"},
+    )
+    return vector_db
 
 # -------------------------------------------------------------
 # 2. Main Legislation Categories
@@ -656,13 +690,8 @@ class BahrainLegalChatbot:
 
 @st.cache_resource
 def init_chatbot():
-    embeddings = LangChainE5Embeddings()
-    vector_db = Chroma(
-        collection_name="legal_documents",
-        embedding_function=embeddings,
-        persist_directory=CHROMA_PATH,
-        collection_metadata={"hnsw:space": "cosine"},
-    )
+    # Replaced local initialization with the cloud download wrapper function
+    vector_db = load_vector_db() 
     llm = ChatGroq(model_name="openai/gpt-oss-120b", temperature=0)
     return BahrainLegalChatbot(vector_db, llm)
 
