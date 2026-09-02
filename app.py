@@ -13,7 +13,8 @@ from langchain_core.embeddings import Embeddings
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
-from huggingface_hub import hf_hub_download and import zipfile
+import zipfile
+from huggingface_hub import hf_hub_download
 
 # -------------------------------------------------------------
 # 1. Database & Directory Setup
