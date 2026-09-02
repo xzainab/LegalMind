@@ -27,25 +27,25 @@ REPO_ID = "xzainab/legal-chroma-vector-db"
 @st.cache_resource
 def load_vector_db():
     if not os.path.exists(CHROMA_PATH):
-        st.info("جاري تحميل قاعدة البيانات القانونية من Hugging Face...")
-
-        # Fetch the secret token safely from your Streamlit advanced cloud settings
+        # We removed st.info here to keep the user interface perfectly clean
+        
+        # Access token securely stored in your Streamlit Cloud Advanced Settings
         hf_token = st.secrets.get("HF_TOKEN")
-
-        # Download the zip archive directly from the Hugging Face hub
+        
+        # Download zip archive from your Hugging Face Dataset repository
         zip_path = hf_hub_download(
             repo_id=REPO_ID,
             filename=ZIP_FILENAME,
             repo_type="dataset",
             token=hf_token
         )
-
-        # Unpack the database archive into the root environment directory
+        
+        # Unpack the database into the runtime environment
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(BASE_DIR)
-
-        st.success("تم تحميل وتجهيز قاعدة البيانات بنجاح!")
-
+            
+        # We removed st.success here so the page loads silently behind the scenes
+        
     embeddings = LangChainE5Embeddings()
     vector_db = Chroma(
         collection_name="legal_documents",
